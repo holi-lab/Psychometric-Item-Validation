@@ -1,0 +1,4503 @@
+{
+    "Q1": {
+        "topic": "Important in life: Family",
+        "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all? – Family",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q2": {
+        "topic": "Important in life: Friends",
+        "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all? – Friends",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q3": {
+        "topic": "Important in life: Leisure time",
+        "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all? – Leisure time",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q4": {
+        "topic": "Important in life: Politics",
+        "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all? – Politics",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q5": {
+        "topic": "Important in life: Work",
+        "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all? – Work",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q6": {
+        "topic": "Important in life: Religion",
+        "question": "For each of the following aspects, indicate how important it is in your life. Would you say it is very important, rather important, not very important or not important at all? – Religion",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q7": {
+        "topic": "Important child qualities: good manners",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Good Manners",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q8": {
+        "topic": "Important child qualities: independence",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Independence",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q9": {
+        "topic": "Important child qualities: hard work",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Hard work",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q10": {
+        "topic": "Important child qualities: feeling of responsibility",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Feeling of responsibility",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q11": {
+        "topic": "Important child qualities: imagination",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Imagination",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q12": {
+        "topic": "Important child qualities: tolerance and respect for other people",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Tolerance and respect for other people",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q13": {
+        "topic": "Important child qualities: thrift saving money and things",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Thrift saving money and things",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q14": {
+        "topic": "Important child qualities: determination perseverance",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Determination, perseverance",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q15": {
+        "topic": "Important child qualities: religious faith",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Religious faith",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q16": {
+        "topic": "Important child qualities: unselfishness",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Not being selfish (unselfishness)",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q17": {
+        "topic": "Important child qualities: obedience",
+        "question": "Here is a list of qualities that children can be encouraged to learn at home. Which, if any, do you consider to be especially important? Please choose up to five. – Obedience",
+        "responses": {
+            "2": "Not mentioned",
+            "1": "Important",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked in this country",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q18": {
+        "topic": "Neighbors: Drug addicts",
+        "question": "",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q19": {
+        "topic": "Neighbors: People of a different race",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - People of a different race",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q20": {
+        "topic": "Neighbors: People who have AIDS",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - People who have AIDS",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q21": {
+        "topic": "Neighbors: Immigrants/foreign workers",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - Immigrants/foreign workers",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q22": {
+        "topic": "Neighbors: Homosexuals",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - Homosexuals",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q23": {
+        "topic": "Neighbors: People of a different religion",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - People of a different religion",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q24": {
+        "topic": "Neighbors: Heavy drinkers",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - Heavy drinkers",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q25": {
+        "topic": "Neighbors: Unmarried couples living together",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - Unmarried couples living together",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q26": {
+        "topic": "Neighbors: People who speak a different language",
+        "question": "On this list are various groups of people. Could you please mention any that you would not like to have as neighbors? - People who speak a different language",
+        "responses": {
+            "1": "Mentioned",
+            "2": "Not mentioned",
+            "-1": "Don’t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q27": {
+        "topic": "One of main goals in life has been to make my parents proud",
+        "question": "For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly? - One of my main goals in life has been to make my parents proud",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q28": {
+        "topic": "Pre-school child suffers with working mother",
+        "question": "For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly? - When a mother works for pay, the children suffer",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q29": {
+        "topic": "Men make better political leaders than women do",
+        "question": "For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly? - One the whole, men make better political leaders than women do",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q30": {
+        "topic": "University is more important for a boy than for a girl",
+        "question": "For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly? - A university education is more important for a boy than for a girl",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q31": {
+        "topic": "Men make better business executives than women do",
+        "question": "For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly? - On the whole, men make better business executives than women do",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q32": {
+        "topic": "Being a housewife just as fulfilling",
+        "question": "For each of the following statements I read out, can you tell me how much you agree with each. Do you agree strongly, agree, disagree, or disagree strongly? - Being a housewife is just as fulfilling as working for pay",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q33": {
+        "topic": "Jobs scarce: Men should have more right to a job than women",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - When jobs are scarce, men should have more right to a job than women",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q33_3": {
+        "topic": "Jobs scarce: Men should have more right to a job than women (3-point scale)",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - When jobs are scarce, men should have more right to a job than women",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q34": {
+        "topic": "Jobs scarce: Employers should give priority to (nation) people than immigrants",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - When jobs are scarce, employers should give priority to people of this country over immigrants.",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q34_3": {
+        "topic": "Jobs scarce: Employers should give priority to (nation) people than immigrants (3-point scale)",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - When jobs are scarce, employers should give priority to people of this country over immigrants.",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q35": {
+        "topic": "Problem if women have more income than husband",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - If a woman earns more money than her husband, it's almost certain to cause problems",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q35_3": {
+        "topic": "Problem if women have more income than husband (3-point scale)",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - If a woman earns more money than her husband, it's almost certain to cause problems",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q36": {
+        "topic": "Homosexual couples are as good parents as other couples",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - Homosexual couples are as good parents as other couples",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q37": {
+        "topic": "Duty towards society to have children",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? – It is a duty towards society to have children",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q38": {
+        "topic": "It is children duty to take care of ill parent",
+        "question": "Do you agree, disagree or neither agree nor disagree with the following statements? - Adult children have the duty to provide long-term care for their parents",
+        "responses": {
+            "1": "Agree strongly",
+            "2": "Agree",
+            "3": "Neither agree nor disagree",
+            "4": "Disagree",
+            "5": "Disagree strongly",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q39": {
+        "topic": "People who don't work turn lazy",
+        "question": "Do you agree or disagree with the following statements? - People who don’t work turn lazy",
+        "responses": {
+            "1": "Strongly agree",
+            "2": "Agree",
+            "3": "Neither agree or disagree",
+            "4": "Disagree",
+            "5": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q40": {
+        "topic": "Work is a duty towards society",
+        "question": "Do you agree or disagree with the following statements? - People who don’t work turn lazy",
+        "responses": {
+            "1": "Strongly agree",
+            "2": "Agree",
+            "3": "Neither agree or disagree",
+            "4": "Disagree",
+            "5": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q41": {
+        "topic": "Work should always come first even if it means less spare time",
+        "question": "Do you agree or disagree with the following statements? – Work should always come first, even if it means less spare time",
+        "responses": {
+            "1": "Strongly agree",
+            "2": "Agree",
+            "3": "Neither agree or disagree",
+            "4": "Disagree",
+            "5": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q42": {
+        "topic": "Basic kinds of attitudes concerning society",
+        "question": "On this card are three basic kinds of attitudes concerning the society we live in. Please choose the one which best describes your own opinion.",
+        "responses": {
+            "1": "The entire way our society is organized must be radically changed by revolutionary action",
+            "2": "Our society must be gradually improved by reforms",
+            "3": "Our present society must be valiantly defended against all subversive forces",
+            "-1": "Don´t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q43": {
+        "topic": "Future changes: Less importance placed on work",
+        "question": "I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind? – Less importance placed on work in our lives",
+        "responses": {
+            "1": "Good thing",
+            "2": "Don't mind",
+            "3": "Bad thing",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q44": {
+        "topic": "Future changes: More emphasis on technology",
+        "question": "I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind? – More emphasis on the development of technology",
+        "responses": {
+            "1": "Good thing",
+            "2": "Don't mind",
+            "3": "Bad thing",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q45": {
+        "topic": "Future changes: Greater respect for authority",
+        "question": "I'm going to read out a list of various changes in our way of life that might take place in the near future. Please tell me for each one, if it were to happen, whether you think it would be a good thing, a bad thing, or don't you mind? – Greater respect for authority",
+        "responses": {
+            "1": "Good thing",
+            "2": "Don't mind",
+            "3": "Bad thing",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q46": {
+        "topic": "Feeling of happiness",
+        "question": "Taking all things together, would you say you are happy",
+        "responses": {
+            "1": "Very happy",
+            "2": "Quite happy",
+            "3": "Not very happy",
+            "4": "Not at all happy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q47": {
+        "topic": "State of health (subjective)",
+        "question": "All in all, how would you describe your state of health these days? Would you say it is good",
+        "responses": {
+            "1": "Very good",
+            "2": "Good",
+            "3": "Fair",
+            "4": "Poor",
+            "5": "Very poor",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked in survey",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q48": {
+        "topic": "How much freedom of choice and control",
+        "question": "Some people feel they have completely free choice and control over their lives, while other people feel that what they do has no real effect on what happens to them. Please use this scale where '1' means 'none at all' and '10' means 'a great deal' to indicate how much freedom of choice and control you feel you have over the way your life turns out.",
+        "responses": {
+            "10": "10 - A great deal",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q49": {
+        "topic": "Satisfaction with your life",
+        "question": "All things considered, how satisfied are you with your life as a whole these days?",
+        "responses": {
+            "10": "10 - Completely satisfied",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely dissatisfied",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q50": {
+        "topic": "Satisfaction with financial situation of household",
+        "question": "How satisfied are you with the financial situation of your household? If '1' means you are completely dissatisfied on this scale, and '10' means you are completely satisfied, where would you put your satisfaction with your household's financial situation?",
+        "responses": {
+            "10": "10 - Completely satisfied",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely dissatisfied",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q51": {
+        "topic": "Frequency you/family (last 12 month): Gone without enough food to eat",
+        "question": "In the last 12 months, how often have you or your family: Gone without enough food to eat",
+        "responses": {
+            "1": "Often",
+            "2": "Sometimes",
+            "3": "Rarely",
+            "4": "Never",
+            "-1": "Don´t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown; Not avaliable"
+        }
+    },
+    "Q52": {
+        "topic": "Frequency you/family (last 12 month): Felt unsafe from crime in your own home",
+        "question": "In the last 12 months, how often have you or your family: Felt unsafe from crime in your own home",
+        "responses": {
+            "1": "Often",
+            "2": "Sometimes",
+            "3": "Rarely",
+            "4": "Never",
+            "-1": "Don´t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown; Not avaliable"
+        }
+    },
+    "Q53": {
+        "topic": "Frequency you/family (last 12 month): Gone without needed medicine or treatment that you needed",
+        "question": "",
+        "responses": {
+            "1": "Often",
+            "2": "Sometimes",
+            "3": "Rarely",
+            "4": "Never",
+            "-1": "Don´t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown; Not avaliable"
+        }
+    },
+    "Q54": {
+        "topic": "Frequency you/family (last 12 month): Gone without a cash income",
+        "question": "",
+        "responses": {
+            "1": "Often",
+            "2": "Sometimes",
+            "3": "Rarely",
+            "4": "Never",
+            "-1": "Don´t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown; Not avaliable"
+        }
+    },
+    "Q55": {
+        "topic": "In the last 12 month, how often have you or your family: Gone without a safe shelter over your head",
+        "question": "In the last 12 months, how often have you or your family: Gone without a safe shelter over your head",
+        "responses": {
+            "1": "Often",
+            "2": "Sometimes",
+            "3": "Rarely",
+            "4": "Never",
+            "-1": "Don´t know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown; Not avaliable"
+        }
+    },
+    "Q56": {
+        "topic": "Standard of living comparing with your parents",
+        "question": "Comparing your standard of living with your parents’ standard of living when they were about your age, would you say that you are better off, worse off or about the same?",
+        "responses": {
+            "1": "Better off",
+            "2": "Worse off",
+            "3": "Or about the same",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q57": {
+        "topic": "Most people can be trusted",
+        "question": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+        "responses": {
+            "1": "Most people can be trusted",
+            "2": "Need to be very careful",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q58": {
+        "topic": "Trust: Your family",
+        "question": "I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? Your family",
+        "responses": {
+            "1": "Trust completely",
+            "2": "Trust somewhat",
+            "3": "Do not trust very much",
+            "4": "Do not trust at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q59": {
+        "topic": "Trust: Your neighborhood",
+        "question": "I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? Your neighborhood",
+        "responses": {
+            "1": "Trust completely",
+            "2": "Trust somewhat",
+            "3": "Do not trust very much",
+            "4": "Do not trust at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q60": {
+        "topic": "Trust: People you know personally",
+        "question": "I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? People you know personally",
+        "responses": {
+            "1": "Trust completely",
+            "2": "Trust somewhat",
+            "3": "Do not trust very much",
+            "4": "Do not trust at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q61": {
+        "topic": "Trust: People you meet for the first time",
+        "question": "I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? People you meet for the first time",
+        "responses": {
+            "1": "Trust completely",
+            "2": "Trust somewhat",
+            "3": "Do not trust very much",
+            "4": "Do not trust at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q62": {
+        "topic": "Trust: People of another religion",
+        "question": "I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? People of another religion",
+        "responses": {
+            "1": "Trust completely",
+            "2": "Trust somewhat",
+            "3": "Do not trust very much",
+            "4": "Do not trust at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q63": {
+        "topic": "Trust: People of another nationality",
+        "question": "I ‘d like to ask you how much you trust people from various groups. Could you tell me for each whether you trust people from this group completely, somewhat, not very much or not at all? People of another nationality",
+        "responses": {
+            "1": "Trust completely",
+            "2": "Trust somewhat",
+            "3": "Do not trust very much",
+            "4": "Do not trust at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q64": {
+        "topic": "Confidence: Churches",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Churches (mosque, temple etc.)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q65": {
+        "topic": "Confidence: Armed Forces",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The armed forces",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q66": {
+        "topic": "Confidence: The Press",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The press",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q67": {
+        "topic": "Confidence: Television",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Television",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q68": {
+        "topic": "Confidence: Labor Unions",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Labour Unions",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q69": {
+        "topic": "Confidence: The Police",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The police",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q70": {
+        "topic": "Confidence: Justice System/Courts",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The courts",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q71": {
+        "topic": "Confidence: The Government",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The government (in your nation’s capital)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q72": {
+        "topic": "Confidence: The Political Parties",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Political Parties",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q73": {
+        "topic": "Confidence: Parliament",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Parliament",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q74": {
+        "topic": "Confidence: The Civil Services",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Civil Services",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q75": {
+        "topic": "Confidence: Universities",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Universities",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q76": {
+        "topic": "Confidence: Elections",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Elections",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q77": {
+        "topic": "Confidence: Major Companies",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Major Companies",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q78": {
+        "topic": "Confidence: Banks",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Banks",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q79": {
+        "topic": "Confidence: The Environmental Protection Movement",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Environmental organizations",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q80": {
+        "topic": "Confidence: The Women's Movement",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Women´s organizations",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q81": {
+        "topic": "Confidence: Charitable or humanitarian organizations",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Charitable or humanitarian organizations",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82": {
+        "topic": "Confidence: Major regional organization (combined from country-specific)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? <major regional organization>",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_AFRICANUNION": {
+        "topic": "Confidence: The African Union (AU)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The African Union (AU)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_APEC": {
+        "topic": "Confidence: The Asia-Pacific Economic Cooperation (APEC)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The APEC",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_ARABLEAGUE": {
+        "topic": "Confidence: The Arab League",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Arab League",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_ASEAN": {
+        "topic": "Confidence: The Association of South East Asian Nations (ASEAN)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Association of South East Asian Nations -ASEAN",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_CIS": {
+        "topic": "Confidence: Commonwealth of Independent States (CIS)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? CIS",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_CUSMA": {
+        "topic": "Confidence: The Canada-United States-Mexico Agreement (CUSMA)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Canada-United States-Mexico Agreement (CUSMA)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_ECO": {
+        "topic": "Confidence: Economic Cooperation Organization",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Economic Cooperation Organization",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_EU": {
+        "topic": "Confidence: The European Union (EU)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The European Union",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_GULFCOOP": {
+        "topic": "Confidence: Cooperation Council for the Arab states of Gulf (GCC)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? Cooperation Council for the Arab states of Gulf (GCC)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_ISLCOOP": {
+        "topic": "Confidence: The Organization of the Islamic Cooperation",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Organization of the Islamic Cooperation",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_MERCOSUR": {
+        "topic": "Confidence: The Mercosur",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Mercosur",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_NAFTA": {
+        "topic": "Confidence: The North American Free Trade Agreement (NAFTA)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The NAFTA",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_OAS": {
+        "topic": "Confidence: The Organization of American States (OAS)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Organization of American States (OAS)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_SAARC": {
+        "topic": "Confidence: The South Asian Association for Regional Cooperation (SAARC)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The SAARC",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_SCO": {
+        "topic": "Confidence: The Shanghai Cooperation Organization (SCO)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Shanghai Cooperation Organization",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_TLC": {
+        "topic": "Confidence: The Free Commerce Treaty (Tratado de libre comercio)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The Free Commerce Treaty (Tratado de libre comercio)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q82_UNDP": {
+        "topic": "Confidence: United Nations Development Programme (UNDP)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? UNDP United Nations Development Programme",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q83": {
+        "topic": "Confidence: The United Nations (UN)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The United Nations",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q84": {
+        "topic": "Confidence: International Monetary Found (IMF)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The International Monetary Fund (IMF)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q85": {
+        "topic": "Confidence: International Criminal Court (ICC)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? International Criminal Court (ICC)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q86": {
+        "topic": "Confidence: North Atlantic Treaty Organization (NATO)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The North Atlantic Treaty Organization (NATO)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q87": {
+        "topic": "Confidence: The World Bank (WB)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The World Bank",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q88": {
+        "topic": "Confidence: The World Health Organization (WHO)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The World Health Organization (WHO)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q89": {
+        "topic": "Confidence: The World Trade Organization (WTO)",
+        "question": "I am going to name a number of organizations. For each one, could you tell me how much confidence you have in them: is it a great deal of confidence, quite a lot of confidence, not very much confidence or none at all? The World Trade Organization (WTO)",
+        "responses": {
+            "1": "A great deal",
+            "2": "Quite a lot",
+            "3": "Not very much",
+            "4": "None at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q90": {
+        "topic": "International organizations: being effective vs being democratic",
+        "question": "Nowadays there’s a lot of talk about international organizations. People sometimes say that international organizations should prioritize improving people’s lives, even if this may imply that decisions are not made democratically. What do you think should international organizations prioritize, being effective or being democratic? If your views are somewhat mixed, choose the appropriate number in between.",
+        "responses": {
+            "1": "Being effective",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "6": "6",
+            "7": "7",
+            "8": "8",
+            "9": "9",
+            "10": "Being democratic",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q91": {
+        "topic": "Countries with the permanent seats on the UN Security Council",
+        "question": "Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me. Five countries have permanent seats on the Security Council of the United Nations. Which ones of the following is not a member?",
+        "responses": {
+            "1": "France",
+            "2": "China",
+            "3": "India",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q92": {
+        "topic": "Where are the headquarters of the International Monetary Fund (IMF) located?",
+        "question": "Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me. Where are the headquarters of the International Monetary Fund (IMF) located?",
+        "responses": {
+            "1": "Washington DC",
+            "2": "London",
+            "3": "Geneva",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q93": {
+        "topic": "Which of the following problems does the organization Amnesty International deal with?",
+        "question": "Here are some questions about international organizations. Many people don't know the answers to these questions, but if you do please tell me. Which of the following problems does the organization Amnesty International deal with?",
+        "responses": {
+            "1": "Climate change",
+            "2": "Human rights",
+            "3": "Destruction of historic monuments",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q94": {
+        "topic": "Active/Inactive membership: Church or religious organization",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Church or religious organization",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q94R": {
+        "topic": "Membership: Church or religious organization",
+        "question": "Recoded variable for Q94",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q95": {
+        "topic": "Active/Inactive membership: Sport or recreational organization, football/baseball/rugby team",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Sport or recreational organization, football/baseball/rugby team",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q95R": {
+        "topic": "Membership: Sport or recreational organization, football/baseball/rugby team",
+        "question": "Recoded variable for Q95",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q96": {
+        "topic": "Active/Inactive membership: Art, music or educational organization",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Art, music or educational organization",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q96R": {
+        "topic": "Membership: Art, music or educational organization",
+        "question": "Recoded variable for Q96",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q97": {
+        "topic": "Active/Inactive membership: labor union",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Labour Union",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q97R": {
+        "topic": "Membership: labor union",
+        "question": "Recoded variable for Q97",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q98": {
+        "topic": "Active/Inactive membership: political party",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Political party",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q98R": {
+        "topic": "Membership: political party",
+        "question": "Recoded variable for Q98",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q99": {
+        "topic": "Active/Inactive membership: Environmental organization",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Environmental organization",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q99R": {
+        "topic": "Membership: Environmental organization",
+        "question": "Recoded variable for Q99",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q100": {
+        "topic": "Active/Inactive membership: Professional association",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Professional association",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q100R": {
+        "topic": "Membership: Professional association",
+        "question": "Recoded variable for Q100",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q101": {
+        "topic": "Active/Inactive membership: charitable/humanitarian organization",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Humanitarian or charitable organization",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q101R": {
+        "topic": "Membership: charitable/humanitarian organization",
+        "question": "Recoded variable for Q101",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q102": {
+        "topic": "Active/Inactive membership: consumer organization",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Consumer organization",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q102R": {
+        "topic": "Membership: consumer organization",
+        "question": "Recoded variable for Q102",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q103": {
+        "topic": "Active/Inactive membership: self-help group, mutual aid group",
+        "question": "Now I am going to read off a list of voluntary organizations. For each organization, could you tell me whether you are an active member, an inactive member or not a member of that type of organization? Self-help group, mutual aid group",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q103R": {
+        "topic": "Membership: self-help group, mutual aid group",
+        "question": "Recoded variable for Q103",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q104": {
+        "topic": "Active/Inactive membership: women’s group",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Women’s group",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q104R": {
+        "topic": "Membership: women’s group",
+        "question": "Recoded variable for Q104",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q105": {
+        "topic": "Active/Inactive membership: other organization",
+        "question": "Now I am going to read out a list of voluntary organizations; for each one, could you tell me whether you are a member, an active member, an inactive member or not a member of that type of organization? Other organization",
+        "responses": {
+            "1": "Don't belong",
+            "2": "Inactive member",
+            "3": "Active member",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q105R": {
+        "topic": "Membership: other organization",
+        "question": "Recoded variable for Q105",
+        "responses": {
+            "0": "Not Mentioned (do not belong)",
+            "1": "Mentioned (member)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q106": {
+        "topic": "Incomes should be made more equal vs There should be greater incentives for individual effort",
+        "question": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+        "responses": {
+            "10": "10 - Incomes more equal",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Larger income differences",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q107": {
+        "topic": "Private vs state ownership of business",
+        "question": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+        "responses": {
+            "10": "10 - Private ownership of business should be increased",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Government ownership of business should be increased",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q108": {
+        "topic": "Government's vs individual's responsibility",
+        "question": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+        "responses": {
+            "10": "10 - The government should take more responsibility to ensure that everyone is provided for",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - People should take more responsibility to provide for themselves",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q109": {
+        "topic": "Competition good or harmful",
+        "question": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+        "responses": {
+            "10": "10 - Competition is good",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Competition is harmful",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q110": {
+        "topic": "Success: hard work vs luck",
+        "question": "Now I'd like you to tell me your views on various issues. How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can chose any number in between.",
+        "responses": {
+            "10": "10 - In the long run, hard work usually brings a better life",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Hard work doesn´t generally bring success - it´s more a matter of luck and connections",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q111": {
+        "topic": "Protecting environment vs. Economic growth",
+        "question": "Here are two statements people sometimes make when discussing the environment and economic growth. Which of them comes closer to your own point of view? A. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs B. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent",
+        "responses": {
+            "1": "A: Protect environment",
+            "2": "B: Economic growth",
+            "3": "Other answer",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q112": {
+        "topic": "Perceptions of corruption in the country",
+        "question": "Now I'd like you to tell me your views on corruption – when people pay a bribe, give a gift or do a favor to other people in order to get the things they need done or the services they need. How would you place your views on corruption in your country on a 10-point scale where “1” means “there is no corruption in this country” and “10” means “there is abundant corruption in this country”. If your views are somewhat mixed, choose the appropriate number in between.",
+        "responses": {
+            "10": "10 - There is abundant corruption in this country",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - There is no corruption in this country",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q113": {
+        "topic": "Involved in corruption: State authorities",
+        "question": "Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them? State authorities",
+        "responses": {
+            "1": "None of them",
+            "2": "Few of them",
+            "3": "Most of them",
+            "4": "All of them",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q114": {
+        "topic": "Involved in corruption: Business executives",
+        "question": "Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them? Business executives",
+        "responses": {
+            "1": "None of them",
+            "2": "Few of them",
+            "3": "Most of them",
+            "4": "All of them",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q115": {
+        "topic": "Involved in corruption: Local authorities",
+        "question": "Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them? Local authorities",
+        "responses": {
+            "1": "None of them",
+            "2": "Few of them",
+            "3": "Most of them",
+            "4": "All of them",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q116": {
+        "topic": "Involved in corruption: Civil service providers",
+        "question": "Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them? Civil service providers (police, judiciary, civil servants, doctors, teachers)",
+        "responses": {
+            "1": "None of them",
+            "2": "Few of them",
+            "3": "Most of them",
+            "4": "All of them",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q117": {
+        "topic": "Involved in corruption: Journalists and media",
+        "question": "Among the following groups of people, how many do you believe are involved in corruption? Tell me for each group if you believe it is none of them, few of them, most of them or all of them? Journalists and media",
+        "responses": {
+            "1": "None of them",
+            "2": "Few of them",
+            "3": "Most of them",
+            "4": "All of them",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q118": {
+        "topic": "Frequency ordinary people pay a bribe, give a gift or do a favor to local officials/service providers in order to get services",
+        "question": "We want to know about your experience with local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in your community. How often do you think ordinary people like yourself or people from your neighbourhood have to pay a bribe, give a gift or do a favor to these people in order to get the services you need? Does it happen never, rarely, frequently or always?",
+        "responses": {
+            "1": "Never",
+            "2": "Rarely",
+            "3": "Frequently",
+            "4": "Always",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q119": {
+        "topic": "Degree of agreement: On the whole, women are less corrupt than men",
+        "question": "Can you tell me how strongly you agree or disagree with the following statement: On the whole, women are less corrupt than men",
+        "responses": {
+            "0": "Hard to say",
+            "1": "Strongly agree",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q120": {
+        "topic": "Risk to be held accountable for giving or receiving a bribe",
+        "question": "How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favour in return for public service? To indicate your opinion, use a 10 - point scale where “1” means “no risk at all” and “10” means “very high risk”.",
+        "responses": {
+            "10": "10 - Very high risk",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - No risk at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q121": {
+        "topic": "Impact of immigrants on the development of the country",
+        "question": "Now we would like to know your opinion about the people from other countries who come to live in this country - the immigrants. How would you evaluate the impact of these people on the development of this country?",
+        "responses": {
+            "1": "Rather bad",
+            "2": "Quite bad",
+            "3": "Neither good, nor bad",
+            "4": "Quite good",
+            "5": "Very good",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q122": {
+        "topic": "Immigration in your country: Fills useful jobs in the workforce",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? - Fill useful jobs in the workforce",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q123": {
+        "topic": "Immigration in your country: Strengthens cultural diversity",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? - Strengthen cultural diversity",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q124": {
+        "topic": "Immigration in your country: Increases the crime rate",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? - Increase the crime rate",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q125": {
+        "topic": "Immigration in your country: Gives asylum to political refugees",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? - Give asylum to political refugees",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q126": {
+        "topic": "Immigration in your country: Increases the risks of terrorism",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? - Increase the risks of terrorism",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q127": {
+        "topic": "Immigration in your country: Helps poor people establish new lives",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? Help poor people establish new lives",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q128": {
+        "topic": "Immigration in your country: Increases unemployment",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? Increase unemployment",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q129": {
+        "topic": "Immigration in your country: Leads to social conflict",
+        "question": "From your point of view, what have been the effects of immigrants on the development of this country? Lead to social conflict",
+        "responses": {
+            "0": "Disagree",
+            "1": "Hard to say",
+            "2": "Agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q130": {
+        "topic": "Immigration policy preference",
+        "question": "How about people from other countries coming here to work. Which one of the following do you think the government should do?",
+        "responses": {
+            "1": "Let anyone come who wants to",
+            "2": "Let people come as long as there are jobs available",
+            "3": "Place strict limits on the number of foreigners who can come here",
+            "4": "Prohibit people coming here from other countries",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q131": {
+        "topic": "Secure in neighborhood",
+        "question": "Could you tell me how secure do you feel these days in your neighborhood?",
+        "responses": {
+            "1": "Very Secure",
+            "2": "Quite secure",
+            "3": "Not very secure",
+            "4": "Not at all secure",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q132": {
+        "topic": "Frequency in your neighborhood: Robberies",
+        "question": "How frequently do the following things occur in your neighborhood? Robberies",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q133": {
+        "topic": "Frequency in your neighborhood: Alcohol consumed in the streets",
+        "question": "How frequently do the following things occur in your neighborhood? Alcohol consumed in the streets",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q134": {
+        "topic": "Frequency in your neighborhood: Police or military interfere with people’s private life",
+        "question": "How frequently do the following things occur in your neighborhood? Police or military interfere with people’s private life",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q135": {
+        "topic": "Frequency in your neighborhood: Racist behavior",
+        "question": "How frequently do the following things occur in your neighborhood? Racist behavior",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q136": {
+        "topic": "Frequency in your neighborhood: Drug sale in streets",
+        "question": "How frequently do the following things occur in your neighborhood? Drug sale in streets",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q137": {
+        "topic": "Frequency in your neighborhood: Street violence and fights",
+        "question": "How frequently do the following things occur in your neighborhood? Street violence and fights",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q138": {
+        "topic": "Frequency in your neighborhood: Sexual harassment",
+        "question": "How frequently do the following things occur in your neighborhood? Sexual harassment",
+        "responses": {
+            "1": "Very frequently",
+            "2": "Quite frequently",
+            "3": "Not frequently",
+            "4": "Not at all frequently",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q139": {
+        "topic": "Things done for reasons of security: Didn’t carry much money",
+        "question": "Which of the following things have you done for reasons of security? Didn’t carry much money",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q140": {
+        "topic": "Things done for reasons of security: Preferred not to go out at night",
+        "question": "Which of the following things have you done for reasons of security? Preferred not to go out at night",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q141": {
+        "topic": "Things done for reasons of security: Carried a knife, gun or other weapon",
+        "question": "Which of the following things have you done for reasons of security? Carried a knife, gun or other weapon",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q142": {
+        "topic": "Worries: Losing my job or not finding a job",
+        "question": "To what degree are you worried about the following situations? Losing my job or not finding a job",
+        "responses": {
+            "1": "Very much",
+            "2": "A great deal",
+            "3": "Not much",
+            "4": "Not at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q143": {
+        "topic": "Worries: Not being able to give one's children a good education",
+        "question": "To what degree are you worried about the following situations? Not being able to give one's children a good education",
+        "responses": {
+            "1": "Very much",
+            "2": "A great deal",
+            "3": "Not much",
+            "4": "Not at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q144": {
+        "topic": "Respondent was victim of a crime during the past year",
+        "question": "Have you been the victim of a crime during the past year?",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q145": {
+        "topic": "Respondent's family was victim of a crime during last year",
+        "question": "And what about your immediate family--has someone in your family been the victim of a crime during the last year?",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q146": {
+        "topic": "Worries: A war involving my country",
+        "question": "To what degree are you worried about the following situations? A war involving my country",
+        "responses": {
+            "1": "Very much",
+            "2": "A great deal",
+            "3": "Not much",
+            "4": "Not at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q147": {
+        "topic": "Worries: A terrorist attack",
+        "question": "To what degree are you worried about the following situations? A terrorist attack",
+        "responses": {
+            "1": "Very much",
+            "2": "A great deal",
+            "3": "Not much",
+            "4": "Not at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q148": {
+        "topic": "Worries: A civil war",
+        "question": "To what degree are you worried about the following situations? A civil war",
+        "responses": {
+            "1": "Very much",
+            "2": "A great deal",
+            "3": "Not much",
+            "4": "Not at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q149": {
+        "topic": "Freedom and Equality - Which more important",
+        "question": "Most people consider both freedom and equality to be important, but if you had to choose between them, which one would you consider more important?",
+        "responses": {
+            "1": "Freedom",
+            "2": "Equality",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q150": {
+        "topic": "Freedom and security - Which more important",
+        "question": "Most people consider both freedom and security to be important, but if you had to choose between them, which one would you consider more important?",
+        "responses": {
+            "1": "Freedom",
+            "2": "Security",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q151": {
+        "topic": "Willingness to fight for country",
+        "question": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q152": {
+        "topic": "Aims of country: first choice",
+        "question": "People sometimes talk about what the aims of this country should be for the next ten years. On this card are listed some of the goals which different people would give top priority. Would you please say which one of these you consider the most important?",
+        "responses": {
+            "1": "A high level of economic growth",
+            "2": "Strong defence forces",
+            "3": "People have more say about how things are done",
+            "4": "Trying to make our cities and countryside more beautiful",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q153": {
+        "topic": "Aims of country: second choice",
+        "question": "People sometimes talk about what the aims of this country should be for the next ten years. On this card are listed some of the goals which different people would give top priority. Would you please say which one of these you consider the second most important?",
+        "responses": {
+            "1": "A high level of economic growth",
+            "2": "Making sure this country has strong defence forces",
+            "3": "Seeing that people have more say about how are done at their jobs and in their communities",
+            "4": "Trying to make our cities and countryside more beautiful",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q154": {
+        "topic": "Aims of respondent: first choice",
+        "question": "If you had to choose, which one of the things on this card would you say is most important?",
+        "responses": {
+            "1": "Maintaining order in the nation",
+            "2": "Giving people more say in important government decisions",
+            "3": "Fighting rising prices",
+            "4": "Protecting freedom of speech",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q155": {
+        "topic": "Aims of respondent: second choice",
+        "question": "If you had to choose, which one of the things on this card would you say is the next most important?",
+        "responses": {
+            "1": "Maintaining order in the nation",
+            "2": "Giving people more say in important government decisions",
+            "3": "Fighting rising prices",
+            "4": "Protecting freedom of speech",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q156": {
+        "topic": "Most important: first choice",
+        "question": "Here is another list. In your opinion, which one of these is most important?",
+        "responses": {
+            "1": "A stable economy",
+            "2": "Progress toward a less impersonal and more humane society",
+            "3": "Progress toward a society in which Ideas count more than money",
+            "4": "The fight against crime",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q157": {
+        "topic": "Most important: second choice",
+        "question": "Here is another list. In your opinion, which one of these is the next most important?",
+        "responses": {
+            "1": "A stable economy",
+            "2": "Progress toward a less impersonal and more humane society",
+            "3": "Progress toward a society in which Ideas count more than money",
+            "4": "The fight against crime",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q158": {
+        "topic": "Science and technology are making our lives healthier, easier, and more comfortable",
+        "question": "Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.” Science and technology are making our lives healthier, easier, and more comfortable",
+        "responses": {
+            "10": "10 - Completely agree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q159": {
+        "topic": "Because of science and technology, there will be more opportunities for the next generation",
+        "question": "Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.” Because of science and technology, there will be more opportunities for the next generation",
+        "responses": {
+            "10": "10 - Completely agree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q160": {
+        "topic": "We depend too much on science and not enough on faith",
+        "question": "Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree.” We depend too much on science and not enough on faith",
+        "responses": {
+            "10": "10 - Completely agree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q161": {
+        "topic": "One of the bad effects of science is that it breaks down people’s ideas of right and wrong",
+        "question": "Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”: One of the bad effects of science is that it breaks down people’s ideas of right and wrong",
+        "responses": {
+            "10": "10 - Completely agree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q162": {
+        "topic": "It is not important for me to know about science in my daily life",
+        "question": "Now, I would like to read some statements and ask how much you agree or disagree with each of these statements. For these questions, a 1 means that you “completely disagree” and a 10 means that you “completely agree”: It is not important for me to know about science in my daily life",
+        "responses": {
+            "10": "10 - Completely agree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q163": {
+        "topic": "The world is better off, or worse off, because of science and technology",
+        "question": "All things considered, would you say that the world is better off, or worse off, because of science and technology? Please tell me which comes closest to your view on this scale: 1 means that “the world is a lot worse off,” and 10 means that “the world is a lot better off.” The world is better off, or worse off, because of science and technology",
+        "responses": {
+            "10": "10 - Completely agree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q164": {
+        "topic": "Importance of God",
+        "question": "How important is God in your life?. Please use this scale to indicate. 10 means “very important” and 1 means “not at all important”.",
+        "responses": {
+            "10": "10 - Very important",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q165": {
+        "topic": "Believe in: God",
+        "question": "In which of the following things do you believe, if you believe in any? - God",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q166": {
+        "topic": "Believe in: life after death",
+        "question": "In which of the following things do you believe, if you believe in any? - Life after death",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q167": {
+        "topic": "Believe in: hell",
+        "question": "In which of the following things do you believe, if you believe in any? - Hell",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q168": {
+        "topic": "Believe in: heaven",
+        "question": "In which of the following things do you believe, if you believe in any? - Heaven",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q169": {
+        "topic": "Whenever science and religion conflict, religion is always right",
+        "question": "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements: Whenever science and religion conflict, religion is always right",
+        "responses": {
+            "1": "Strongly agree",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q170": {
+        "topic": "The only acceptable religion is my religion",
+        "question": "Please tell us if you strongly agree, agree, disagree, or strongly disagree with the following statements: The only acceptable religion is my religion",
+        "responses": {
+            "1": "Strongly agree",
+            "2": "Agree",
+            "3": "Disagree",
+            "4": "Strongly disagree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q171": {
+        "topic": "How often do you attend religious services",
+        "question": "Apart from weddings, funerals and christenings, about how often do you attend religious services these days?",
+        "responses": {
+            "1": "More than once a week",
+            "2": "Once a week",
+            "3": "Once a month",
+            "4": "Only on special holy days",
+            "5": "Once a year",
+            "6": "Less often",
+            "7": "Never, practically never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q172": {
+        "topic": "How often do you pray",
+        "question": "Apart from weddings and funerals, about how often do you pray?",
+        "responses": {
+            "1": "Several times a day",
+            "2": "Once a day",
+            "3": "Several times each week",
+            "4": "Only when attending religious services",
+            "5": "Only on special holy days",
+            "6": "Once a year",
+            "7": "Less often",
+            "8": "Never, practically never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q172R": {
+        "topic": "How often do you pray (Constructed)",
+        "question": "Recoded variable Q172",
+        "responses": {
+            "1": "Once or more times a day",
+            "2": "Once or several times a week",
+            "3": "Once or several times a year",
+            "4": "Less often or never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q173": {
+        "topic": "Religious person",
+        "question": "Independently of whether you go to church or not, would you say you are…",
+        "responses": {
+            "1": "A religious person",
+            "2": "Not a religious person",
+            "3": "An atheist",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q174": {
+        "topic": "Meaning of religion: To follow religious norms and ceremonies vs To do good to other people",
+        "question": "With which one of the following statements do you agree most? The meaning of religion is...",
+        "responses": {
+            "1": "Follow religious norms and ceremonies",
+            "2": "Do good to other people",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q175": {
+        "topic": "Meaning of religion: To make sense of life after death vs To make sense of life in this world",
+        "question": "And with which of the following statements do you agree most? The meaning of religion is...",
+        "responses": {
+            "1": "Make sense of life after death",
+            "2": "Make sense of life in this world",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q176": {
+        "topic": "Degree of agreement: Nowadays one often has trouble deciding which moral rules are the right ones to follow",
+        "question": "How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?",
+        "responses": {
+            "10": "10 - Completely disagree",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Completely agree",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q177": {
+        "topic": "Justifiable: Claiming government benefits to which you are not entitled",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. - Claiming government benefits to which you are not entitled",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q178": {
+        "topic": "Justifiable: Avoiding a fare on public transport",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. - Avoiding a fare on public transport",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q179": {
+        "topic": "Justifiable: Stealing property",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Stealing property",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q180": {
+        "topic": "Justifiable: Cheating on taxes",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Cheating on taxes if you have a chance",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q181": {
+        "topic": "Justifiable: Someone accepting a bribe in the course of their duties",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Someone accepting a bribe in the course of their duties",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q182": {
+        "topic": "Justifiable: Homosexuality",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Homosexuality",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q183": {
+        "topic": "Justifiable: Prostitution",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Prostitution",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q184": {
+        "topic": "Justifiable: Abortion",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Abortion",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q185": {
+        "topic": "Justifiable: Divorce",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Divorce",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q186": {
+        "topic": "Justifiable: Sex before marriage",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Sex before marriage",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q187": {
+        "topic": "Justifiable: Suicide",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Suicide",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q188": {
+        "topic": "Justifiable: Euthanasia",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Euthanasia",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q189": {
+        "topic": "Justifiable: For a man to beat his wife",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. For a man to beat his wife",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q190": {
+        "topic": "Justifiable: Parents beating children",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Parents beating children",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q191": {
+        "topic": "Justifiable: Violence against other people",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Violence against other people",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q192": {
+        "topic": "Justifiable: Terrorism as a political, ideological or religious mean",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Terrorism as a political, ideological or religious mean",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q193": {
+        "topic": "Justifiable: Having casual sex",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Having casual sex",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q194": {
+        "topic": "Justifiable: Political violence",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Political violence",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q195": {
+        "topic": "Justifiable: Death penalty",
+        "question": "Please tell me for each of the following statements whether you think it can always be justified, never be justified, or something in between, using this card. Death penalty",
+        "responses": {
+            "10": "10 - Always justifiable",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Never justifiable",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q196": {
+        "topic": "Government has the right: Keep people under video surveillance in public areas",
+        "question": "Do you think this country’s government should or should not have the right to do the following: Keep people under video surveillance in public areas",
+        "responses": {
+            "1": "Definitely should have the right",
+            "2": "Probably should have the right",
+            "3": "Probably should not have the right",
+            "4": "Definitely should not have the right",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q197": {
+        "topic": "Government has the right: Monitor all e-mails and any other information exchanged on the Internet",
+        "question": "Do you think this country’s government should or should not have the right to do the following: Monitor all emails and any other information exchanged on the Internet",
+        "responses": {
+            "1": "Definitely should have the right",
+            "2": "Probably should have the right",
+            "3": "Probably should not have the right",
+            "4": "Definitely should not have the right",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q198": {
+        "topic": "Government has the right: Collect information about anyone living in [COUNTRY] without their knowledge",
+        "question": "Do you think that this country’s government should or should not have the right to do the following: Collect information about anyone living in this country without their knowledge",
+        "responses": {
+            "1": "Definitely should have the right",
+            "2": "Probably should have the right",
+            "3": "Probably should not have the right",
+            "4": "Definitely should not have the right",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q199": {
+        "topic": "Interest in politics",
+        "question": "How interested would you say you are in politics?",
+        "responses": {
+            "1": "Very interested",
+            "2": "Somewhat interested",
+            "3": "Not very interested",
+            "4": "Not at all interested",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q200": {
+        "topic": "How often discusses political matters with friends",
+        "question": "When you get together with your friends, would you say you discuss political matters frequently, occasionally or never?",
+        "responses": {
+            "1": "Frequently",
+            "2": "Occasionally",
+            "3": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q201": {
+        "topic": "Information source: Daily newspaper",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Daily newspaper",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q202": {
+        "topic": "Information source: TV news",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: TV news",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q203": {
+        "topic": "Information source: Radio news",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Radio news",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q204": {
+        "topic": "Information source: Mobile phone",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Mobile phone",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q205": {
+        "topic": "Information source: Email",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Email",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q206": {
+        "topic": "Information source: Internet",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Internet",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q207": {
+        "topic": "Information source: Social media (Facebook, Twitter, etc.)",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Social media (Facebook, Twitter, etc.)",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q208": {
+        "topic": "Information source: Talk with friends or colleagues",
+        "question": "People learn what is going on in this country and the world from various sources. For each of the following sources, please indicate whether you use it to obtain information daily, weekly, monthly, less than monthly or never: Talk with friends or colleagues",
+        "responses": {
+            "1": "Daily",
+            "2": "Weekly",
+            "3": "Monthly",
+            "4": "Less than monthly",
+            "5": "Never",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q209": {
+        "topic": "Political action: Signing a petition",
+        "question": "Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it. Signing a petition",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q210": {
+        "topic": "Political action: Joining in boycotts",
+        "question": "Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it. Joining in boycotts",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q211": {
+        "topic": "Political action: Attending lawful/peaceful demonstrations",
+        "question": "Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it. Attending peaceful demonstrations",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q212": {
+        "topic": "Political action: Joining unofficial strikes",
+        "question": "Now I'd like you to look at this card. I'm going to read out some different forms of political action that people can take, and I'd like you to tell me, for each one, whether you have actually done any of these things, whether you might do it or would never, under any circumstances, do it. Joining strikes",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q213": {
+        "topic": "Social activism: Donating to a group or campaign",
+        "question": "What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it: Donating to a group or campaign",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q214": {
+        "topic": "Social activism: Contacting a government official",
+        "question": "What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it: Contacting a government official",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q215": {
+        "topic": "Social activism: Encouraging others to take action about political issues",
+        "question": "What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it: Encouraging others to take action about political issues",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q216": {
+        "topic": "Social activism: Encouraging others to vote",
+        "question": "What about these forms of political action and social activism that people can take?. Please, tell me for each of them if you have done any of these things, whether you might do it or would never under any circumstances do it: Encouraging others to vote",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q217": {
+        "topic": "Political actions online: Searching information about politics and political events",
+        "question": "Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it: Searching information about politics and political events",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "INAP: No internet/no social media"
+        }
+    },
+    "Q218": {
+        "topic": "Political actions online: Signing an electronic petition",
+        "question": "Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it: Signing an electronic petition",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "INAP: No internet/no social media"
+        }
+    },
+    "Q219": {
+        "topic": "Political actions online: Encouraging other people to take any form of political action",
+        "question": "Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it: Encouraging other people to take any form of political action",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "INAP: No internet/no social media"
+        }
+    },
+    "Q220": {
+        "topic": "Political actions online: Organizing political activities, events, protests",
+        "question": "Now I’d like you to look at this card. I’m going to read out some other forms of political action that people can take using Internet and social media tools like Facebook, Twitter etc., and I’d like you to tell me, for each one, whether you have done any of these things, whether you might do it or would never under any circumstances do it: Organizing political activities, events, protests",
+        "responses": {
+            "1": "Have done",
+            "2": "Might do",
+            "3": "Would never do",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "INAP: No internet/no social media"
+        }
+    },
+    "Q221": {
+        "topic": "Vote in elections: local level",
+        "question": "Vote in elections: Local level",
+        "responses": {
+            "1": "Always",
+            "2": "Usually",
+            "3": "Never",
+            "4": "Not allowed to vote",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q222": {
+        "topic": "Vote in elections: national level",
+        "question": "Vote in elections: National level",
+        "responses": {
+            "1": "Always",
+            "2": "Usually",
+            "3": "Never",
+            "4": "Not allowed to vote",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q224": {
+        "topic": "How often in country's elections: Votes are counted fairly",
+        "question": "In your view, how often do the following things occur in this country’s elections? Votes are counted fairly",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q225": {
+        "topic": "How often in country's elections: Opposition candidates are prevented from running",
+        "question": "In your view, how often do the following things occur in this country’s elections? Opposition candidates are prevented from running",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q226": {
+        "topic": "How often in country's elections: TV news favors the governing party",
+        "question": "In your view, how often do the following things occur in this country’s elections? TV news favors the governing party",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q227": {
+        "topic": "How often in country's elections: Voters are bribed",
+        "question": "In your view, how often do the following things occur in this country’s elections? Voters are bribed",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q228": {
+        "topic": "How often in country's elections: Journalists provide fair coverage of elections",
+        "question": "In your view, how often do the following things occur in this country’s elections? Journalists provide fair coverage of elections",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q229": {
+        "topic": "How often in country's elections: Election officials are fair",
+        "question": "In your view, how often do the following things occur in this country’s elections? Election officials are fair",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q230": {
+        "topic": "How often in country's elections: Rich people buy elections",
+        "question": "In your view, how often do the following things occur in this country’s elections? Rich people buy elections",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q231": {
+        "topic": "How often in country's elections: Voters are threatened with violence at the polls",
+        "question": "In your view, how often do the following things occur in this country’s elections? Voters are threatened with violence at the polls",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q232": {
+        "topic": "How often in country's elections: Voters are offered a genuine choice in the elections",
+        "question": "In your view, how often do the following things occur in this country’s elections? Voters are offered a genuine choice in the elections",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q233": {
+        "topic": "How often in country's elections: Women have equal opportunities to run the office",
+        "question": "In your view, how often do the following things occur in this country’s elections? Women have equal opportunities to run the office",
+        "responses": {
+            "1": "Very often",
+            "2": "Fairly often",
+            "3": "Not often",
+            "4": "Not at all often",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q234": {
+        "topic": "Some people think that having honest elections makes a lot of difference in their lives; other people think that it doesn’t matter much",
+        "question": "Do you think that honest elections play an important role in deciding whether you and your family are able to make a good living?. How important would you say this is—very important, fairly important, not very important or not at all important?",
+        "responses": {
+            "1": "Very important",
+            "2": "Rather important",
+            "3": "Not very important",
+            "4": "Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not avaliable"
+        }
+    },
+    "Q234A": {
+        "topic": "How much would you say the political system in your country allows people like you to have a say in what the government does?",
+        "question": "How much would you say the political system in your country allows people like you to have a say in what the government does?",
+        "responses": {
+            "1": "A great deal",
+            "2": "A lot",
+            "3": "Some",
+            "4": "Very little",
+            "5": "Not at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing"
+        }
+    },
+    "Q235": {
+        "topic": "Political system: Having a strong leader who does not have to bother with parliament and elections",
+        "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having a strong leader who does not have to bother with parliament and elections",
+        "responses": {
+            "1": "Very good",
+            "2": "Fairly good",
+            "3": "Fairly bad",
+            "4": "Very bad",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q236": {
+        "topic": "Political system: Having experts, not government, make decisions according to what they think is best for the country",
+        "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having experts, not government, make decisions according to what they think is best for the country",
+        "responses": {
+            "1": "Very good",
+            "2": "Fairly good",
+            "3": "Fairly bad",
+            "4": "Very bad",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q237": {
+        "topic": "Political system: Having the army rule",
+        "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having the army rule",
+        "responses": {
+            "1": "Very good",
+            "2": "Fairly good",
+            "3": "Fairly bad",
+            "4": "Very bad",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q238": {
+        "topic": "Political system: Having a democratic political system",
+        "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having a democratic political system",
+        "responses": {
+            "1": "Very good",
+            "2": "Fairly good",
+            "3": "Fairly bad",
+            "4": "Very bad",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q239": {
+        "topic": "Political system: Having a system governed by religious law in which there are no political parties or elections",
+        "question": "I'm going to describe various types of political systems and ask what you think about each as a way of governing this country. For each one, would you say it is a very good, fairly good, fairly bad or very bad way of governing this country? Having a system governed by religious law in which there are no political parties or elections",
+        "responses": {
+            "1": "Very good",
+            "2": "Fairly good",
+            "3": "Fairly bad",
+            "4": "Very bad",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q240": {
+        "topic": "Left-right political scale",
+        "question": "In political matters, people talk of “the left” and “the right.” How would you place your views on this scale, generally speaking?",
+        "responses": {
+            "10": "10 - Right",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Left",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q241": {
+        "topic": "Democracy: Governments tax the rich and subsidize the poor",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - Governments tax the rich and subsidize the poor",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q242": {
+        "topic": "Democracy: Religious authorities interpret the laws",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - Religious authorities interpret the laws",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q243": {
+        "topic": "Democracy: People choose their leaders in free elections",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - People choose their leaders in free elections",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q244": {
+        "topic": "Democracy: People receive state aid for unemployment",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - People receive state aid for unemployment",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q245": {
+        "topic": "Democracy: The army takes over when government is incompetent",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - The army takes over when government is incompetent",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q246": {
+        "topic": "Democracy: Civil rights protect people’s liberty against oppression",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - Civil rights protect people’s liberty from state oppression",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q247": {
+        "topic": "Democracy: The state makes people's incomes equal",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - The state makes people´s incomes equal",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q248": {
+        "topic": "Democracy: People obey their rulers",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - People obey their rulers",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q249": {
+        "topic": "Democracy: Women have the same rights as men",
+        "question": "Please tell me for each of the following things how essential you think it is as a characteristic of democracy. Use this scale where 1 means “not at all an essential characteristic of democracy” and 10 means it definitely is “an essential characteristic of democracy. - Women have the same rights as men",
+        "responses": {
+            "0": "It is against democracy (spontaneous)",
+            "10": "10 - An essential characteristic of democracy",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not an essential characteristic of democracy",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q250": {
+        "topic": "Importance of democracy",
+        "question": "How important is it for you to live in a country that is governed democratically? On this scale where 1 means it is “not at all important” and 10 means “absolutely important” what position would you choose?",
+        "responses": {
+            "10": "10 - Absolutely important",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not at all important",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q251": {
+        "topic": "How democratically is this country being governed today",
+        "question": "And how democratically is this country being governed today?. Again using a scale from 1 to 10, where 1 means that it is “not at all democratic” and 10 means that it is “completely democratic,” what position would you choose?",
+        "responses": {
+            "10": "10 - Completely democratic",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not at all democratic",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q252": {
+        "topic": "Satisfaction with the political system performance",
+        "question": "How satisfied are you with how the political system is functioning in your country these days? On the scale from 1 to 10 below, 1 means not satisfied at all and 10 means completely satisfied.",
+        "responses": {
+            "10": "10 - Completely satisfied",
+            "9": "9",
+            "8": "8",
+            "7": "7",
+            "6": "6",
+            "5": "5",
+            "4": "4",
+            "3": "3",
+            "2": "2",
+            "1": "1 - Not satisfied at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q253": {
+        "topic": "Respect for individual human rights nowadays",
+        "question": "How much respect is there for individual human rights nowadays in this country?",
+        "responses": {
+            "1": "A great deal of respect",
+            "2": "Fairly much respect",
+            "3": "Not much respect",
+            "4": "No respect at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q254": {
+        "topic": "National pride",
+        "question": "How proud are you to be of nationality of this country?",
+        "responses": {
+            "1": "Very proud",
+            "2": "Quite proud",
+            "3": "Not very proud",
+            "4": "Not at all proud",
+            "5": "I am not [nationality]",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q255": {
+        "topic": "Feel close to your village, town or city",
+        "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how close do you feel to...? Your village, town or city",
+        "responses": {
+            "1": "Very close",
+            "2": "Close",
+            "3": "Not very close",
+            "4": "Not close at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q256": {
+        "topic": "Feel close to your district, region",
+        "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? Your county, region, district",
+        "responses": {
+            "1": "Very close",
+            "2": "Close",
+            "3": "Not very close",
+            "4": "Not close at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q257": {
+        "topic": "Feel close to your country",
+        "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? Country",
+        "responses": {
+            "1": "Very close",
+            "2": "Close",
+            "3": "Not very close",
+            "4": "Not close at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q258": {
+        "topic": "Feel close to your continent",
+        "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how close do you feel to...? Continent; e.g. Europe, Asia etc.",
+        "responses": {
+            "1": "Very close",
+            "2": "Close",
+            "3": "Not very close",
+            "4": "Not close at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q259": {
+        "topic": "Feel close to the world",
+        "question": "People have different views about themselves and how they relate to the world. Using this card, would you tell me how strongly you agree or disagree with each of the following statements about how you see yourself? World",
+        "responses": {
+            "1": "Very close",
+            "2": "Close",
+            "3": "Not very close",
+            "4": "Not close at all",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q260": {
+        "topic": "Sex",
+        "question": "Respondent’s sex",
+        "responses": {
+            "1": "Male",
+            "2": "Female",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available; AU: Other"
+        }
+    },
+    "Q262": {
+        "topic": "Age",
+        "question": "This means you are XX years old?",
+        "responses": ""
+    },
+    "Q270": {
+        "topic": "Number of people in household",
+        "question": "How many people are there in your household, including yourself and children?",
+        "responses": ""
+    },
+    "Q271": {
+        "topic": "Do you live with your parents",
+        "question": "Do you live with your parents?",
+        "responses": {
+            "1": "No",
+            "2": "Yes, own parent(s)",
+            "3": "Yes, parent(s) in law",
+            "4": "Yes, both own parent(s) and parent(s) in law",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q273": {
+        "topic": "Marital status",
+        "question": "Are you currently...",
+        "responses": {
+            "1": "Married",
+            "2": "Living together as married",
+            "3": "Divorced",
+            "4": "Separated",
+            "5": "Widowed",
+            "6": "Single",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available; AU: Other"
+        }
+    },
+    "Q274": {
+        "topic": "How many children do you have",
+        "question": "Have you had children? If yes, how many?",
+        "responses": ""
+    },
+    "Q275": {
+        "topic": "Highest educational level: Respondent",
+        "question": "What is the highest educational level that you have attained?",
+        "responses": {
+            "0": "Early childhood education (ISCED 0) / no education",
+            "1": "Primary education (ISCED 1)",
+            "2": "Lower secondary education (ISCED 2)",
+            "3": "Upper secondary education (ISCED 3)",
+            "4": "Post-secondary non-tertiary education (ISCED 4)",
+            "5": "Short-cycle tertiary education (ISCED 5)",
+            "6": "Bachelor or equivalent (ISCED 6)",
+            "7": "Master or equivalent (ISCED 7)",
+            "8": "Doctoral or equivalent (ISCED 8)",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q279": {
+        "topic": "Employment status",
+        "question": "Are you employed now or not? If yes: About how many hours a week?",
+        "responses": {
+            "1": "Full time (30 hours a week or more)",
+            "2": "Part time (less than 30 hours a week)",
+            "3": "Self employed",
+            "4": "Retired/pensioned",
+            "5": "Housewife not otherwise employed",
+            "6": "Student",
+            "7": "Unemployed",
+            "8": "Other",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q281": {
+        "topic": "Respondent - Occupational group",
+        "question": "To which of the following occupational groups do you belong?",
+        "responses": {
+            "0": "Never had a job",
+            "1": "Professional and technical (for example: doctor, teacher, engineer, artist, accountant, nurse)",
+            "2": "Higher administrative (for example: banker, executive in big business, high government official, union official)",
+            "3": "Clerical (for example: secretary, clerk, office manager, civil servant, bookkeeper)",
+            "4": "Sales (for example: sales manager, shop owner, shop assistant, insurance agent, buyer)",
+            "5": "Service (for example: restaurant owner, police officer, waitress, barber, caretaker)",
+            "6": "Skilled worker (for example: foreman, motor mechanic, printer, seamstress, tool and die maker, electrician)",
+            "7": "Semi-skilled worker (for example: bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker)",
+            "8": "Unskilled worker (for example: labourer, porter, unskilled factory worker, cleaner)",
+            "9": "Farm worker (for example: farm labourer, tractor driver)",
+            "10": "Farm owner, farm manager",
+            "11": "JP,KG,TJ: Other",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q284": {
+        "topic": "Sector of employment",
+        "question": "Are you working for the government or public institution, for private business or industry, or for a private non-profit organization? If you do not work currently, characterize your major work in the past! Do you or did you work for?",
+        "responses": {
+            "1": "Government or public institution",
+            "2": "Private business or industry",
+            "3": "Private non-profit organization",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-3": "Never had a job",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q285": {
+        "topic": "Are you the chief wage earner in your house",
+        "question": "Are you the chief wage earner in your house?",
+        "responses": {
+            "1": "Yes",
+            "2": "No",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q286": {
+        "topic": "Family savings during past year",
+        "question": "During the past year, did your family...",
+        "responses": {
+            "1": "Save money",
+            "2": "Just get by",
+            "3": "Spent some savings and borrowed money",
+            "4": "Spent savings and borrowed money",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q287": {
+        "topic": "Social class (subjective)",
+        "question": "People sometimes describe themselves as belonging to the working class, the middle class, or the upper or lower class. Would you describe yourself as belonging to the:",
+        "responses": {
+            "1": "Upper class",
+            "2": "Upper middle class",
+            "3": "Lower middle class",
+            "4": "Working class",
+            "5": "Lower class",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Not available"
+        }
+    },
+    "Q288R": {
+        "topic": "Income level(recoded)",
+        "question": "Income level recoded:\nLow – steps 1-3\nMiddle – steps 4-7\nHigh – steps 8-10",
+        "responses": {
+            "1": "Low",
+            "2": "Medium",
+            "3": "High",
+            "-1": "Don't know",
+            "-2": "No answer",
+            "-4": "Not asked",
+            "-5": "Missing; Unknown"
+        }
+    },
+    "Q289": {
+        "topic": "Religious denominations - major groups",
+        "question": "Do you belong to a religion or religious denomination? If yes, which one?",
+        "responses": {
+            "0": "Do not belong to a denomination",
+            "1": "Roman Catholic",
+            "2": "Protestant",
+            "3": "Orthodox (Russian/Greek/etc.)",
+            "4": "Jew",
+            "5": "Muslim",
+            "6": "Hindu",
+            "7": "Buddhist",
+            "8": "Other Christian (Evangelical/Pentecostal/Fee church/etc.)",
+            "9": "Other",
+            "-1": "Don't know",
+            "-2": "No answer/refused",
+            "-4": "Not asked",
+            "-5": "Missing; Not applicable for other reasons"
+        }
+    }
+}

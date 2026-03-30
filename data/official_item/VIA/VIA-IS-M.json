@@ -1,0 +1,386 @@
+{
+    "Beauty in the world is not that important to me.": {
+        "trait": "Appreciation of Beauty & Excellence",
+        "correlation": "neg"
+    },
+    "I experience deep emotions when I see beautiful things.": {
+        "trait": "Appreciation of Beauty & Excellence",
+        "correlation": "pos"
+    },
+    "Some people get emotional about beautiful things, but not me.": {
+        "trait": "Appreciation of Beauty & Excellence",
+        "correlation": "neg"
+    },
+    "I see beauty that other people pass by without noticing.": {
+        "trait": "Appreciation of Beauty & Excellence",
+        "correlation": "pos"
+    },
+    "I am a brave person.": {
+        "trait": "Bravery",
+        "correlation": "pos"
+    },
+    "I'm not a particularly brave person.": {
+        "trait": "Bravery",
+        "correlation": "neg"
+    },
+    "I have taken frequent stands in the face of strong opposition.": {
+        "trait": "Bravery",
+        "correlation": "pos"
+    },
+    "If others disagree with me, I tend to back down.": {
+        "trait": "Bravery",
+        "correlation": "neg"
+    },
+    "I am always coming up with new ways to do things.": {
+        "trait": "Creativity",
+        "correlation": "pos"
+    },
+    "I am not someone who comes up with new and different ideas.": {
+        "trait": "Creativity",
+        "correlation": "neg"
+    },
+    "I am an original thinker.": {
+        "trait": "Creativity",
+        "correlation": "pos"
+    },
+    "I am very bad at coming up with original solutions to problems.": {
+        "trait": "Creativity",
+        "correlation": "neg"
+    },
+    "I have many interests.": {
+        "trait": "Curiosity",
+        "correlation": "pos"
+    },
+    "Very few things interest me.": {
+        "trait": "Curiosity",
+        "correlation": "neg"
+    },
+    "I am always curious about the world.": {
+        "trait": "Curiosity",
+        "correlation": "pos"
+    },
+    "I rarely explore new things.": {
+        "trait": "Curiosity",
+        "correlation": "neg"
+    },
+    "I treat people unfairly if I do not like them.": {
+        "trait": "Fairness",
+        "correlation": "neg"
+    },
+    "Even if I do not like someone, I treat him or her fairly.": {
+        "trait": "Fairness",
+        "correlation": "pos"
+    },
+    "I treat all people equally regardless of who they might be.": {
+        "trait": "Fairness",
+        "correlation": "pos"
+    },
+    "I treat some people much better than others.": {
+        "trait": "Fairness",
+        "correlation": "neg"
+    },
+    "There are things I've resented for a long time.": {
+        "trait": "Forgiveness",
+        "correlation": "neg"
+    },
+    "I rarely hold a grudge.": {
+        "trait": "Forgiveness",
+        "correlation": "pos"
+    },
+    "I am always willing to give someone a chance to make amends.": {
+        "trait": "Forgiveness",
+        "correlation": "pos"
+    },
+    "I don't forget past wrongs.": {
+        "trait": "Forgiveness",
+        "correlation": "neg"
+    },
+    "I often take things for granted.": {
+        "trait": "Gratitude",
+        "correlation": "neg"
+    },
+    "I am an extremely grateful person.": {
+        "trait": "Gratitude",
+        "correlation": "pos"
+    },
+    "I do not think I have much to be grateful for.": {
+        "trait": "Gratitude",
+        "correlation": "neg"
+    },
+    "I feel a profound sense of appreciation every day.": {
+        "trait": "Gratitude",
+        "correlation": "pos"
+    },
+    "I often break my promises.": {
+        "trait": "Honesty",
+        "correlation": "neg"
+    },
+    "I always keep my promises.": {
+        "trait": "Honesty",
+        "correlation": "pos"
+    },
+    "I will say things I know are untrue if it's easier.": {
+        "trait": "Honesty",
+        "correlation": "neg"
+    },
+    "My promises can be trusted.": {
+        "trait": "Honesty",
+        "correlation": "pos"
+    },
+    "People would call me a pessimist.": {
+        "trait": "Hope",
+        "correlation": "neg"
+    },
+    "I know that I will succeed with the goals I set for myself.": {
+        "trait": "Hope",
+        "correlation": "pos"
+    },
+    "Despite challenges, I always remain hopeful about the future.": {
+        "trait": "Hope",
+        "correlation": "pos"
+    },
+    "When I think about the future, I feel hopeless.": {
+        "trait": "Hope",
+        "correlation": "neg"
+    },
+    "I like to call attention to myself.": {
+        "trait": "Humility",
+        "correlation": "neg"
+    },
+    "I like to let people know about my accomplishments.": {
+        "trait": "Humility",
+        "correlation": "neg"
+    },
+    "I have been told that modesty is one of my most notable characteristics.": {
+        "trait": "Humility",
+        "correlation": "pos"
+    },
+    "I am always humble about the good things that have happened to me.": {
+        "trait": "Humility",
+        "correlation": "pos"
+    },
+    "I often allow a bad situation to take away my sense of humor.": {
+        "trait": "Humor",
+        "correlation": "neg"
+    },
+    "I try to add some humor to whatever I do.": {
+        "trait": "Humor",
+        "correlation": "pos"
+    },
+    "I am known for my good sense of humor.": {
+        "trait": "Humor",
+        "correlation": "pos"
+    },
+    "It's hard for me to laugh when I'm in a bad mood.": {
+        "trait": "Humor",
+        "correlation": "neg"
+    },
+    "I tend to make impulsive decisions.": {
+        "trait": "Judgment",
+        "correlation": "neg"
+    },
+    "I make decisions only when I have all of the facts.": {
+        "trait": "Judgment",
+        "correlation": "pos"
+    },
+    "I try to have good reasons for my important decisions.": {
+        "trait": "Judgment",
+        "correlation": "pos"
+    },
+    "I like to let emotions guide my actions.": {
+        "trait": "Judgment",
+        "correlation": "neg"
+    },
+    "I am never too busy to help a friend.": {
+        "trait": "Kindness",
+        "correlation": "pos"
+    },
+    "I am often too busy to help others.": {
+        "trait": "Kindness",
+        "correlation": "neg"
+    },
+    "I always try to help people in need.": {
+        "trait": "Kindness",
+        "correlation": "pos"
+    },
+    "I do not call friends when they are sick.": {
+        "trait": "Kindness",
+        "correlation": "neg"
+    },
+    "In a group setting, I rarely take the lead role.": {
+        "trait": "Leadership",
+        "correlation": "neg"
+    },
+    "I consider myself a follower.": {
+        "trait": "Leadership",
+        "correlation": "neg"
+    },
+    "One of my strengths is helping a group of people work well together even when they have their differences.": {
+        "trait": "Leadership",
+        "correlation": "pos"
+    },
+    "My friends always tell me I am a strong but fair leader.": {
+        "trait": "Leadership",
+        "correlation": "pos"
+    },
+    "It is difficult for me to accept love from others.": {
+        "trait": "Love",
+        "correlation": "neg"
+    },
+    "I can accept love from others.": {
+        "trait": "Love",
+        "correlation": "pos"
+    },
+    "I can express love to someone else.": {
+        "trait": "Love",
+        "correlation": "pos"
+    },
+    "It is difficult for me to express my love to others.": {
+        "trait": "Love",
+        "correlation": "neg"
+    },
+    "I am a true life-long learner.": {
+        "trait": "Love of Learning",
+        "correlation": "pos"
+    },
+    "I love to learn new things.": {
+        "trait": "Love of Learning",
+        "correlation": "pos"
+    },
+    "I don't enjoy learning new things.": {
+        "trait": "Love of Learning",
+        "correlation": "neg"
+    },
+    "I don't really like learning new things.": {
+        "trait": "Love of Learning",
+        "correlation": "neg"
+    },
+    "I have a hard time finishing what I start.": {
+        "trait": "Perseverance",
+        "correlation": "neg"
+    },
+    "My plans often fall through because I give up.": {
+        "trait": "Perseverance",
+        "correlation": "neg"
+    },
+    "I never get sidetracked when I work.": {
+        "trait": "Perseverance",
+        "correlation": "pos"
+    },
+    "I never quit a task before it is done.": {
+        "trait": "Perseverance",
+        "correlation": "pos"
+    },
+    "Others consider me to be a wise person.": {
+        "trait": "Perspective",
+        "correlation": "pos"
+    },
+    "I am bad at making sense of complicated situations.": {
+        "trait": "Perspective",
+        "correlation": "neg"
+    },
+    "My friends think I am wise.": {
+        "trait": "Perspective",
+        "correlation": "pos"
+    },
+    "My friends would not consider me to be a wise person.": {
+        "trait": "Perspective",
+        "correlation": "neg"
+    },
+    "I always make careful choices.": {
+        "trait": "Prudence",
+        "correlation": "pos"
+    },
+    "I never think before I speak.": {
+        "trait": "Prudence",
+        "correlation": "neg"
+    },
+    "I am often careless.": {
+        "trait": "Prudence",
+        "correlation": "neg"
+    },
+    "I think through the consequences every time before I act.": {
+        "trait": "Prudence",
+        "correlation": "pos"
+    },
+    "I often make choices that feel good right away, even if they may be bad for me in the future.": {
+        "trait": "Self-Regulation",
+        "correlation": "neg"
+    },
+    "I am a highly disciplined person.": {
+        "trait": "Self-Regulation",
+        "correlation": "pos"
+    },
+    "I lack self-discipline.": {
+        "trait": "Self-Regulation",
+        "correlation": "neg"
+    },
+    "I do not give into temptation.": {
+        "trait": "Self-Regulation",
+        "correlation": "pos"
+    },
+    "I often find it difficult to understand new people.": {
+        "trait": "Social Intelligence",
+        "correlation": "neg"
+    },
+    "I have a hard time figuring out what people are feeling.": {
+        "trait": "Social Intelligence",
+        "correlation": "neg"
+    },
+    "I am good at sensing what other people are feeling.": {
+        "trait": "Social Intelligence",
+        "correlation": "pos"
+    },
+    "I always know what to say to make people feel good.": {
+        "trait": "Social Intelligence",
+        "correlation": "pos"
+    },
+    "I am a spiritual person.": {
+        "trait": "Spirituality",
+        "correlation": "pos"
+    },
+    "I am not a very spiritual person.": {
+        "trait": "Spirituality",
+        "correlation": "neg"
+    },
+    "My beliefs make my life important.": {
+        "trait": "Spirituality",
+        "correlation": "pos"
+    },
+    "I do not believe there is a universal power or force.": {
+        "trait": "Spirituality",
+        "correlation": "neg"
+    },
+    "It is important to me to respect decisions made by my group.": {
+        "trait": "Teamwork",
+        "correlation": "pos"
+    },
+    "I don't like being a member of groups.": {
+        "trait": "Teamwork",
+        "correlation": "neg"
+    },
+    "I work at my very best when I am a group member.": {
+        "trait": "Teamwork",
+        "correlation": "pos"
+    },
+    "I really enjoy being a part of a group.": {
+        "trait": "Teamwork",
+        "correlation": "pos"
+    },
+    "I rarely feel energetic.": {
+        "trait": "Zest",
+        "correlation": "neg"
+    },
+    "I awaken with a sense of excitement about the day's possibilities.": {
+        "trait": "Zest",
+        "correlation": "pos"
+    },
+    "I am genuinely excited to start each day.": {
+        "trait": "Zest",
+        "correlation": "pos"
+    },
+    "I dread getting up in the morning.": {
+        "trait": "Zest",
+        "correlation": "neg"
+    }
+}

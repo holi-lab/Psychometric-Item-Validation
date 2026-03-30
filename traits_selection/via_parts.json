@@ -1,0 +1,30 @@
+{
+    "via_part1": {
+        "Creativity": "You are viewed as a creative person; you see, do, and/or create things that are of use; you think of unique ways to solve problems and be productive.",
+        "Curiosity": "You are an explorer; you seek novelty; you are interested in new activities, ideas, and people; you are open to new experiences.",
+        "Judgment": "You are analytical; you examine things from all sides; you do not jump to conclusions, but instead attempt to weigh all the evidence when making decisions.",
+        "Love of Learning": "You often find ways to deepen your knowledge and experiences; you regularly look for new opportunities to learn; you are passionate about building knowledge.",
+        "Perspective": "You take the 'big picture' view of things; others turn to you for wise advice; you help others make sense of the world; you learn from your mistakes.",
+        "Bravery": "You face your fears and overcome challenges and adversity; you stand up for what is right; you do not shrink in the face of pain or inner tension or turmoil.",
+        "Perseverance": "You keep going and going when you have a goal in mind; you attempt to overcome all obstacles; you finish what you start.",
+        "Honesty": "You are a person of high integrity and authenticity; you tell the truth, even when it hurts; you present yourself to others in a sincere way; you take responsibility for your actions.",
+        "Zest": "You are enthusiastic toward life; you are highly energetic and activated; you use your energy to the fullest degree.",
+        "Love": "You are warm and genuine to others; you not only share but are open to receiving love from others; you value growing close and intimate with others.",
+        "Kindness": "You do good things for people; you help and care for others; you are generous and giving; you are compassionate.",
+        "Social Intelligence": "You pay close attention to social nuances and the emotions of others; you have good insight into what makes people 'tick'; you seem to know what to say and do in any social situation."
+    },
+    "via_part2": {
+        "Teamwork": "You are a collaborative and participative member on groups and teams; you are loyal to your group; you feel a strong sense of duty to your group; you always do your share.",
+        "Fairness": "You believe strongly in an equal and just opportunity for all; you don't let personal feelings bias your decisions about others; you treat people the way you want to be treated.",
+        "Leadership": "You positively influence those you lead; you prefer to lead than to follow; you are very good at organizing and taking charge for the collective benefit of the group.",
+        "Forgiveness": "You readily let go of hurt after you are wronged; you give people a second chance; you are not vengeful or resentful; you accept people's shortcomings.",
+        "Humility": "You let your accomplishments speak for themselves; you see your own goodness but prefer to focus the attention on others; you do not see yourself as more special than others; you admit your imperfections.",
+        "Prudence": "You are wisely cautious; you are planful and conscientious; you are careful to not take undue risks or do things you might later regret.",
+        "Self-Regulation": "You are a very disciplined person; you manage your vices and bad habits; you stay calm and cool under pressure; you manage your impulses and emotions.",
+        "Appreciation of Beauty & Excellence": "You notice the beauty and excellence around you; you are often awe-struck by beauty, greatness, and/or the moral goodness you witness; you are often filled with wonder.",
+        "Gratitude": "You regularly experience and express thankfulness; you don't take the good things that happen in your life for granted; you tend to feel blessed in many circumstances.",
+        "Hope": "You are optimistic, expecting the best to happen; you believe in and work toward a positive future; you can think of many pathways to reach your goals.",
+        "Humor": "You are playful; you love to make people smile and laugh; your sense of humor helps you connect closely to others; you brighten gloomy situations with fun and/or jokes.",
+        "Spirituality": "You hold a set of beliefs, whether religious or not, about how your life is part of something bigger and more meaningful; those beliefs shape your behavior and provide a sense of comfort, understanding, and purpose."
+    }
+}

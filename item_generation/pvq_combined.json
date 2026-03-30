@@ -1,0 +1,1745 @@
+[
+    {
+        "q_id": "N1",
+        "item": "They really want to enjoy life. Having a good time is very important to them.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N2",
+        "item": "They feel uneasy enforcing rules or giving orders.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N3",
+        "item": "They try hard to avoid getting sick. Staying healthy is very important to them.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N4",
+        "item": "They actively support and advocate for social and environmental causes.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N5",
+        "item": "They feel invigorated by tasks that require innovative thinking and creativity.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N6",
+        "item": "They find joy in solving complex problems and puzzles.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N7",
+        "item": "They rarely question the values and practices passed down by their family and community.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N8",
+        "item": "They believe that some individuals or groups are inherently superior to others.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N9",
+        "item": "They are highly sought after by employers due to their demonstrated skills and qualifications.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N10",
+        "item": "They tend to avoid exploring new ideas or experiences.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N11",
+        "item": "They prefer to express their ideas, even when they go against the mainstream.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N12",
+        "item": "They love to try out new hobbies or learn new things in their free time.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N13",
+        "item": "They thrive in environments where they can take risks, experiment with different approaches, and find creative solutions to problems.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N14",
+        "item": "They seldom express gratitude or acknowledgment to others for their support.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N15",
+        "item": "They follow traffic rules and respect authority figures.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N16",
+        "item": "It is very important to them that their country be safe. They think the state must be on watch against threats from within and without.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N17",
+        "item": "They set their own goals and priorities, and work independently to achieve them.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N18",
+        "item": "They think it is important to do lots of different things in life. They always look for new things to try.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N19",
+        "item": "They encourage younger generations to embrace their cultural heritage.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N20",
+        "item": "They volunteer regularly at local charities to aid in community welfare.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N21",
+        "item": "They think it's important to be interested in things. They like to be curious and to try to understand all sorts of things.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N22",
+        "item": "They believe that every individual deserves equal rights and opportunities, regardless of their background or circumstances.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N23",
+        "item": "They show little interest in participating in cultural or religious ceremonies observed by their community.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N24",
+        "item": "They seldom show concern for environmental problems or nature conservation.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N25",
+        "item": "They often choose leisure activities over tasks that require effort and dedication.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N26",
+        "item": "They are easily influenced by others in making decisions and taking actions.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N27",
+        "item": "They strive to maintain a connection with their cultural roots, even when living in a different environment or society.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N28",
+        "item": "They think it is important that every person in the world be treated equally. They believe everyone should have equal opportunities in life.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N29",
+        "item": "They maintain healthy and stable relationships with family and friends, built on trust and mutual respect.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N30",
+        "item": "They prioritize the feelings of others above their own desires when making decisions.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N31",
+        "item": "They often disregard the feelings and needs of their friends.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N32",
+        "item": "It's very important to them to show their abilities. They want people to admire what they do.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N33",
+        "item": "It is important to them always to behave properly. They want to avoid doing anything people would say is wrong.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N34",
+        "item": "They often find themselves in chaotic and unpredictable situations.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N35",
+        "item": "They regularly travel to new places for the experience and adventure.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N36",
+        "item": "They often adjust their behavior to fit in with the expectations of their peers.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N37",
+        "item": "They seek opportunities to improve the lives of those they care about.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N38",
+        "item": "They recognize the importance of biodiversity and strive to reduce their impact on the planet.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N39",
+        "item": "They have a hard time trusting others, which leads to feelings of isolation.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N40",
+        "item": "They have a tendency to stick to what they know and avoid trying new things, as it makes them feel more secure.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N41",
+        "item": "They prefer routines and established patterns, avoiding unfamiliar experiences.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N42",
+        "item": "They often doubt their ability to succeed in challenging situations.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N43",
+        "item": "They avoid exploring new ideas or activities on their own.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N44",
+        "item": "It is important to them to make their own decisions about what they do. They like to be free to plan and to choose their activities for themselves.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N45",
+        "item": "They often disregard the needs of people outside their immediate circle.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N46",
+        "item": "They seek every chance they can to have fun. It is important to them to do things that give them pleasure.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N47",
+        "item": "Being very successful is important to them. They like to impress other people.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N48",
+        "item": "They always want to be the ones who make the decisions. They like to be the leaders.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N49",
+        "item": "They rarely indulge in activities simply for enjoyment, unless it's productive.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N50",
+        "item": "They take pride in their work and seek to improve their performance continually.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N51",
+        "item": "They are willing to take calculated risks and step outside their comfort zone to pursue their passions.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N52",
+        "item": "They frequently disregard social norms and expectations in their daily behavior.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N53",
+        "item": "They actively seek out new experiences that offer excitement and variety.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N54",
+        "item": "They frequently disregard the needs and feelings of their loved ones.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N55",
+        "item": "They frequently express gratitude and recognition for the efforts of those around them.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N56",
+        "item": "They recognize the interconnectedness of all living beings and strive to live in harmony with nature and society.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N57",
+        "item": "They tend to procrastinate and delay important tasks until the last minute.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N58",
+        "item": "It is important to them to be in charge and tell others what to do. They want people to do what they say.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N59",
+        "item": "They prioritize building and maintaining healthy, meaningful relationships in their life.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 9
+    },
+    {
+        "q_id": "N60",
+        "item": "They actively seek to maintain harmonious relationships with people around them.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N61",
+        "item": "They frequently avoid taking initiative in group settings.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N62",
+        "item": "They feel able to make decisions without fear of negative consequences or judgment.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N63",
+        "item": "Thinking up new ideas and being creative is important to them. They like to do things in their own original way.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N64",
+        "item": "They are motivated to exceed expectations in their work and personal endeavors.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N65",
+        "item": "They have been living on the moon for the past decade",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N66",
+        "item": "They avoid engaging in behaviors that might be considered offensive or insensitive to those around them.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N67",
+        "item": "They often reject advice or guidance rooted in the traditions of their upbringing.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N68",
+        "item": "It is important to them to be humble and modest. They try not to draw attention to themselves.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N69",
+        "item": "They are often sought out for advice and guidance by others in their social circle.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N70",
+        "item": "They typically seek out calm and predictable settings over dynamic ones.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N71",
+        "item": "They rarely take the time to listen to the concerns of their friends and family.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N72",
+        "item": "They possess a high level of influence over the allocation of resources and funding.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N73",
+        "item": "They frequently question the status quo and look for innovative ways to improve it.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N74",
+        "item": "They enjoy indulging in fine food and drinks during special occasions.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N75",
+        "item": "They volunteer for organizations that support global humanitarian efforts.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N76",
+        "item": "Forgiving people who have hurt them is important to them. They try to see what is good in them and not to hold a grudge.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N77",
+        "item": "They frequently disregard the feelings of those around them in decision-making.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N78",
+        "item": "They tend to withhold help when someone close is clearly struggling.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N79",
+        "item": "They show disinterest in helping others in times of need.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N80",
+        "item": "They often surround themselves with friends to share joyful experiences and laughter.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N81",
+        "item": "They frequently express a feeling of insecurity about their future prospects.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 9
+    },
+    {
+        "q_id": "N82",
+        "item": "They take the time to offer words of encouragement and support to those who are facing challenges or difficulties.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N83",
+        "item": "They tend to take advantage of others for personal gain, without considering the consequences for their relationships.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N84",
+        "item": "They enjoy participating in cultural ceremonies and rituals.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N85",
+        "item": "They prefer to plan and organize their activities to ensure smooth operations.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N86",
+        "item": "They are willing to learn about and understand new ideas from diverse perspectives.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N87",
+        "item": "Religious belief is important to them. They try hard to do what their religion requires.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N88",
+        "item": "They tend to disregard the feelings and needs of people from different cultural backgrounds.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N89",
+        "item": "They demonstrate confidence in their ability to handle crises when they arise.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N90",
+        "item": "They frequently act according to their own desires, regardless of social expectations.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N91",
+        "item": "They tend to respect and follow established rules and social norms.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N92",
+        "item": "They tend to doubt their ability to protect themselves from harm.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N93",
+        "item": "They are able to manage conflicts in a constructive manner, leading to stronger and more harmonious connections with others.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N94",
+        "item": "They show little concern for the impact of their actions on marginalized groups.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N95",
+        "item": "They typically enjoy spending time alone, away from the hustle and bustle of social gatherings and events.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N96",
+        "item": "They often put their own success above the well-being and happiness of those around them.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N97",
+        "item": "They often wait for others to make decisions for them.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N98",
+        "item": "They rarely take on challenging roles or responsibilities that require high levels of competence.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N99",
+        "item": "They practice financial discipline to ensure personal stability and future security.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N100",
+        "item": "They frequently have to rely on others for access to resources and information.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N101",
+        "item": "They often prioritize their own interests over the well-being of others and the environment.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N102",
+        "item": "They show little interest in preserving family rituals and ceremonies.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N103",
+        "item": "They usually have a strong influence in decision-making processes at social gatherings or in professional settings.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N104",
+        "item": "They often prioritize self-discipline over instant pleasure in their daily lives.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N105",
+        "item": "They often disregard customs that have been passed down for generations.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N106",
+        "item": "They often make decisions that lead to instability and disruption in their lives.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N107",
+        "item": "It is important to them to be independent. They like to rely on themselves.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N108",
+        "item": "They often indulge in activities that bring them joy and excitement.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N109",
+        "item": "They often prioritize responsibilities over personal enjoyment.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N110",
+        "item": "They frequently show indifference to social and environmental issues that affect not only their own community but the planet as a whole.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N111",
+        "item": "They frequently seek consensus instead of asserting their own opinions.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N112",
+        "item": "They frequently experience anxiety when they are away from home or familiar surroundings.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N113",
+        "item": "They consistently seek opportunities to develop new skills.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N114",
+        "item": "They often pursue activities that present fresh and thrilling challenges.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N115",
+        "item": "They feel a sense of connection to the global community and strive to make a positive contribution to it.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N116",
+        "item": "They choose to educate their children about diverse world cultures and traditions.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N117",
+        "item": "They are prone to acting on instinct without thinking about how their behavior might affect others.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N118",
+        "item": "They exhibit flexibility when adapting to changing societal customs and expectations.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N119",
+        "item": "They tend to back away from leadership roles even when they are capable.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N120",
+        "item": "They believe they should always show respect to their parents and to older people. It is important to them to be obedient.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N121",
+        "item": "They value harmony in group settings and avoid controversial topics.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N122",
+        "item": "Having a stable government is important to them. They are concerned that the social order be protected.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N123",
+        "item": "They tend to be self-controlled and avoid giving in to their immediate desires.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N124",
+        "item": "They rarely seek feedback to improve their skills or performance.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N125",
+        "item": "They tend to struggle to get their opinions heard in group discussions.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N126",
+        "item": "It is important to them to live in secure surroundings. They avoid anything that might endanger their safety.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N127",
+        "item": "They create a safe and supportive environment for themselves and those around them, promoting feelings of calmness and contentment.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 10
+    },
+    {
+        "q_id": "N128",
+        "item": "They like surprises. It is important to them to have an exciting life.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N129",
+        "item": "They like to take risks. They are always looking for adventures.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N130",
+        "item": "They discriminate based on a person's nationality, culture, or ethnic background.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N131",
+        "item": "They can teleport across the globe instantly by snapping their fingers",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N132",
+        "item": "They seek out opportunities for personal growth and skill development.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N133",
+        "item": "They show a tendency to make spontaneous decisions that might disrupt social norms.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N134",
+        "item": "They have a remarkable ability to motivate and lead groups towards achieving common goals.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N135",
+        "item": "They often volunteer to assist others with tasks or projects without being asked.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N136",
+        "item": "They tend to act according to their desires rather than adhere to group consensus.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N137",
+        "item": "They promote inclusivity and diversity in their community.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N138",
+        "item": "They tend to follow instructions without questioning their purpose or relevance.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N139",
+        "item": "They strongly believe that people should care for nature. Looking after the environment is important to them.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N140",
+        "item": "They have a propensity to openly critique popular beliefs, even when it offends others.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N141",
+        "item": "They consistently set and accomplish challenging yet realistic goals, reflecting their level of competence.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N142",
+        "item": "They tend to avoid trying new activities or exploring unfamiliar places.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N143",
+        "item": "They believe that hard work and dedication are more important than seeking immediate gratification.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N144",
+        "item": "They are known for their creative problem-solving skills and ability to find innovative solutions.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N145",
+        "item": "They tend to indulge in luxury and comfort, seeking to surround themselves with the finer things in life.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N146",
+        "item": "They rarely participate in religious ceremonies or rituals that are significant to their family's history.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N147",
+        "item": "They often rely heavily on others for decision-making.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N148",
+        "item": "They express resistance toward policies aimed at reducing inequality among people.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N149",
+        "item": "Enjoying life’s pleasures is important to them. They like to ‘spoil’ themselves.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N150",
+        "item": "They regularly doubt the intentions of others around them.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N151",
+        "item": "They value the wisdom and practices passed down by their ancestors.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N152",
+        "item": "They usually prioritize the well-being and happiness of those close to them.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N153",
+        "item": "They tend to follow others' advice instead of giving their own.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N154",
+        "item": "They frequently prioritize tradition over the welfare of both people and the planet.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N155",
+        "item": "It is important to them to be loyal to their friends. They want to devote themselves to people close to them.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N156",
+        "item": "They delight in spontaneous adventures that bring excitement and fun.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N157",
+        "item": "They prefer others to take the spotlight and recognition.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N158",
+        "item": "They have a strong desire to experience new and exciting sensations, whether through travel, food, or entertainment.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N159",
+        "item": "They often go out of their way to help those in need within their social circle.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N160",
+        "item": "They are highly motivated by recognition and accolades for their accomplishments.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N161",
+        "item": "It is important to them that things be organized and clean. They really do not like things to be a mess.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N162",
+        "item": "They are recognized by others for their exceptional skills and abilities in their field.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N163",
+        "item": "Getting ahead in life is important to them. They strive to do better than others.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N164",
+        "item": "They consider experiences that stimulate their senses extremely valuable.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N165",
+        "item": "They often challenge the long-standing customs and practices of their community.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N166",
+        "item": "It's very important to them to help the people around them. They want to care for their well-being.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N167",
+        "item": "They often refrain from expressing strong, opposing views in group settings.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N168",
+        "item": "They prioritize creating a stable environment for themselves and their loved ones.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N169",
+        "item": "They are drawn to unusual and innovative experiences that allow them to explore new ideas and perspectives.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N170",
+        "item": "They often feel like they're stuck in a routine and can't find ways to break out of it.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N171",
+        "item": "They think it is best to do things in traditional ways. It is important to them to keep up the customs they have learned.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N172",
+        "item": "They are able to set and achieve ambitious goals, often surpassing their own expectations.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N173",
+        "item": "They often feel anxious in unfamiliar situations.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N174",
+        "item": "They always look for ways to help their friends or family when they are in need.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N175",
+        "item": "They tend to avoid taking risks or trying new approaches, even when it might lead to improvement.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N176",
+        "item": "They often find it hard to relax due to ongoing concerns.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N177",
+        "item": "It is important to them to adapt to nature and to fit into it. They believe that people should not change nature.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N178",
+        "item": "They actively pursue hobbies that provide them with enjoyment and satisfaction.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N179",
+        "item": "They frequently seek validation from others before making choices or taking action.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N180",
+        "item": "They regularly take actions that could be seen as rebellious or defiant.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N181",
+        "item": "They often avoid trying new foods or cuisines when dining out.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N182",
+        "item": "They feel comfortable making independent decisions, even when faced with uncertainty or conflicting opinions.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N183",
+        "item": "It is important to them to be rich. They want to have a lot of money and expensive things.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N184",
+        "item": "They strongly identify with their cultural or religious heritage.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N185",
+        "item": "They consistently seek to resolve conflicts through peaceful and cooperative means.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N186",
+        "item": "They believe in preserving the history and heritage of their family and community.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N187",
+        "item": "They tend to hold leadership roles in their organizations or communities.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N188",
+        "item": "They have difficulty forming and maintaining stable relationships.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N189",
+        "item": "They honor the practices and rituals established by their ancestors.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N190",
+        "item": "They find satisfaction in familiar and repetitive tasks rather than exploring new ideas.",
+        "expected_trait": "Stimulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N191",
+        "item": "They support businesses that actively promote environmental sustainability in their operations.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N192",
+        "item": "They tend to avoid risks that could lead to pleasure or excitement.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N193",
+        "item": "They prioritize making sacrifices for the greater good over their own personal interests.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N194",
+        "item": "They rarely seek feedback or constructive criticism to improve their skills.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N195",
+        "item": "They are typically uninterested in learning about cultures different from their own.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N196",
+        "item": "They ensure their actions align with societal standards to avoid discord.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N197",
+        "item": "They have pet dinosaurs that they take for walks every morning",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N198",
+        "item": "They often initiate discussions and share insights with peers.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N199",
+        "item": "They are frequently excluded from important discussions or meetings.",
+        "expected_trait": "Power",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N200",
+        "item": "They are often criticized by their superiors and colleagues for inadequate performance.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N201",
+        "item": "They think it is important to be ambitious. They want to show how capable they are.",
+        "expected_trait": "Achievement",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N202",
+        "item": "It is important to them to listen to people who are different from them. Even when they disagree with them, they still want to understand them.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N203",
+        "item": "They think it's important not to ask for more than what they have. They believe that people should be satisfied with what they have.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N204",
+        "item": "They often feel disconnected from their community and lack a sense of belonging.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 10
+    },
+    {
+        "q_id": "N205",
+        "item": "They tend to avoid situations that promote harmony and reconciliation among their peers.",
+        "expected_trait": "Security",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N206",
+        "item": "They believe all the world's people should live in harmony. Promoting peace among all groups in the world is important to them.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N207",
+        "item": "They shy away from spontaneous adventures, preferring routine and predictability.",
+        "expected_trait": "Hedonism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N208",
+        "item": "They are willing to listen to and learn from individuals with differing viewpoints.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 11
+    },
+    {
+        "q_id": "N209",
+        "item": "They prefer to set their own goals rather than follow preset ones.",
+        "expected_trait": "Self-Direction",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N210",
+        "item": "It is important to them to respond to the needs of others. They try to support those they know.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N211",
+        "item": "They attract followers and admirers, often being seen as a natural leader in social situations.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N212",
+        "item": "It is important to them to be polite to other people all the time. They try never to disturb or irritate others.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N213",
+        "item": "They are able to get others to do things for them without having to ask directly.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N214",
+        "item": "They have a strong sense of belonging to a supportive community, where they can trust others.",
+        "expected_trait": "Security",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N215",
+        "item": "They value the wisdom and insights passed down through generations.",
+        "expected_trait": "Tradition",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N216",
+        "item": "They often take the lead in group decisions, ensuring their voice is heard first.",
+        "expected_trait": "Power",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N217",
+        "item": "They believe that people should do what they're told. They think people should follow rules at all times, even when no one is watching.",
+        "expected_trait": "Conformity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N218",
+        "item": "They want everyone to be treated justly, even people they don’t know. It is important to them to protect the weak in society.",
+        "expected_trait": "Universalism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N219",
+        "item": "They prioritize the happiness of their friends and family in their daily decisions.",
+        "expected_trait": "Benevolence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    }
+]

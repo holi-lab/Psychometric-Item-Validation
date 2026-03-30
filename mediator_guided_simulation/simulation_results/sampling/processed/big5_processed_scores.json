@@ -1,0 +1,6902 @@
+{
+  "id_250": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    }
+  },
+  "id_251": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.5,
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_252": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_253": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          5.0,
+          4.5,
+          4.5,
+          4.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    }
+  },
+  "id_254": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_255": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_256": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    }
+  },
+  "id_257": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_258": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          2.0
+        ],
+        "mean": 4.3
+      },
+      "overall_mean": 4.3
+    }
+  },
+  "id_259": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    }
+  },
+  "id_260": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_261": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_262": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    }
+  },
+  "id_263": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          3.5,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    }
+  },
+  "id_264": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          2.0,
+          5.0,
+          1.5,
+          3.0
+        ],
+        "mean": 3.65
+      },
+      "overall_mean": 3.65
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          4.5,
+          4.5,
+          4.5,
+          4.5,
+          3.0,
+          3.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.15
+      },
+      "overall_mean": 4.15
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          2.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    }
+  },
+  "id_265": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          3.0,
+          4.5,
+          4.5,
+          3.0,
+          2.0
+        ],
+        "mean": 3.85
+      },
+      "overall_mean": 3.85
+    }
+  },
+  "id_266": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    }
+  },
+  "id_267": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          3.0,
+          1.5,
+          5.0
+        ],
+        "mean": 4.15
+      },
+      "overall_mean": 4.15
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    }
+  },
+  "id_268": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_269": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          3.5,
+          5.0,
+          4.0,
+          4.5,
+          4.5
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          4.0,
+          4.5,
+          4.5,
+          2.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.2
+      },
+      "overall_mean": 4.2
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          3.0,
+          4.5,
+          4.5,
+          3.5,
+          3.0,
+          2.0,
+          2.0
+        ],
+        "mean": 3.45
+      },
+      "overall_mean": 3.45
+    }
+  },
+  "id_270": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          3.5,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    }
+  },
+  "id_271": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          4.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    }
+  },
+  "id_272": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          2.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    }
+  },
+  "id_273": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          1.5,
+          2.0
+        ],
+        "mean": 4.05
+      },
+      "overall_mean": 4.05
+    }
+  },
+  "id_274": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_275": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_277": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_278": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.5,
+          4.0,
+          3.5,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.3
+      },
+      "overall_mean": 4.3
+    }
+  },
+  "id_279": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          3.5,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_280": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    }
+  },
+  "id_281": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          2.0
+        ],
+        "mean": 4.2
+      },
+      "overall_mean": 4.2
+    }
+  },
+  "id_282": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          3.5,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.2
+      },
+      "overall_mean": 4.2
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          3.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_283": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          3.0,
+          4.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          3.5,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_284": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          4.0,
+          4.5,
+          5.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          3.0,
+          4.5,
+          5.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.5,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          3.5,
+          3.5,
+          2.5,
+          4.0
+        ],
+        "mean": 4.0
+      },
+      "overall_mean": 4.0
+    }
+  },
+  "id_285": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_286": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          2.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          2.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_287": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_288": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          3.5,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5,
+          2.0
+        ],
+        "mean": 4.15
+      },
+      "overall_mean": 4.15
+    }
+  },
+  "id_289": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_290": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          3.0
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    }
+  },
+  "id_292": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_293": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_295": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          2.5,
+          3.5
+        ],
+        "mean": 4.15
+      },
+      "overall_mean": 4.15
+    }
+  },
+  "id_296": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_037": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          4.5
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          2.0
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    }
+  },
+  "id_297": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    }
+  },
+  "id_298": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_299": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          2.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          5.0
+        ],
+        "mean": 4.2
+      },
+      "overall_mean": 4.2
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.5
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.0,
+          3.5,
+          4.0,
+          1.5,
+          2.0
+        ],
+        "mean": 3.65
+      },
+      "overall_mean": 3.65
+    }
+  },
+  "id_300": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5,
+          4.0,
+          2.5,
+          5.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          2.5,
+          2.0
+        ],
+        "mean": 4.2
+      },
+      "overall_mean": 4.2
+    }
+  },
+  "id_301": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          4.0,
+          4.5
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_066": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_302": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          2.5
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    }
+  },
+  "id_303": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    }
+  },
+  "id_304": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.5
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    }
+  },
+  "id_305": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_306": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_307": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          3.0,
+          3.5,
+          4.5
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          4.5,
+          2.0
+        ],
+        "mean": 4.2
+      },
+      "overall_mean": 4.2
+    }
+  },
+  "id_030": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    }
+  },
+  "id_308": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_309": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    }
+  },
+  "id_050": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.45
+      },
+      "overall_mean": 4.45
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    }
+  },
+  "id_311": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_312": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          3.5,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_313": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          4.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.0,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.3
+      },
+      "overall_mean": 4.3
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    }
+  },
+  "id_040": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          4.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0,
+          4.5,
+          3.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_314": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          3.5,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_315": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    }
+  },
+  "id_316": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.65
+      },
+      "overall_mean": 4.65
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    }
+  },
+  "id_317": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.9
+      },
+      "overall_mean": 4.9
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.35
+      },
+      "overall_mean": 4.35
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    }
+  },
+  "id_318": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.85
+      },
+      "overall_mean": 4.85
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.5
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    }
+  },
+  "id_056": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          2.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.6
+      },
+      "overall_mean": 4.6
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          4.0,
+          4.0,
+          3.5,
+          3.0,
+          3.0,
+          3.5,
+          4.5
+        ],
+        "mean": 4.0
+      },
+      "overall_mean": 4.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          4.5,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.4
+      },
+      "overall_mean": 4.4
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          4.0,
+          4.5,
+          4.0,
+          2.0,
+          4.0,
+          3.0,
+          2.0
+        ],
+        "mean": 3.55
+      },
+      "overall_mean": 3.55
+    }
+  },
+  "id_319": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.5,
+          4.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_320": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          4.5,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          5.0,
+          4.5,
+          5.0,
+          4.5,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.5,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          3.0,
+          2.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    }
+  },
+  "id_321": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          4.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          2.0
+        ],
+        "mean": 4.55
+      },
+      "overall_mean": 4.55
+    }
+  },
+  "id_322": {
+    "Agreeableness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          3.5,
+          5.0,
+          5.0
+        ],
+        "mean": 4.8
+      },
+      "overall_mean": 4.8
+    },
+    "Conscientiousness": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.5,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.95
+      },
+      "overall_mean": 4.95
+    },
+    "Extraversion": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Neuroticism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          4.5,
+          5.0,
+          4.5,
+          5.0,
+          3.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Openness to experience": {
+      "sampling": {
+        "scores": [
+          5.0,
+          5.0,
+          4.0,
+          4.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          5.0,
+          4.0
+        ],
+        "mean": 4.7
+      },
+      "overall_mean": 4.7
+    }
+  }
+}

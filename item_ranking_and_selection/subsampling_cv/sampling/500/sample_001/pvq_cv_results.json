@@ -1,0 +1,5654 @@
+{
+  "original": [
+    {
+      "item": "It's very important to them to show their abilities. They want people to admire what they do.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.35707250100652754,
+          "p_value": 0.0015435174893335868,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Being very successful is important to them. They like to impress other people.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8380952380952379,
+          "p_value": 3.6677256788054106e-21,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They think it is important to be ambitious. They want to show how capable they are.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Getting ahead in life is important to them. They strive to do better than others.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.35707250100652754,
+          "p_value": 0.0015435174893335868,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It's very important to them to help the people around them. They want to care for their well-being.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to be loyal to their friends. They want to devote themselves to people close to them.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to respond to the needs of others. They try to support those they know.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Forgiving people who have hurt them is important to them. They try to see what is good in them and not to hold a grudge.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe that people should do what they're told. They think people should follow rules at all times, even when no one is watching.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.3230952217180018,
+          "p_value": 0.004416455110896936,
+          "actual_unique_values": 4,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them always to behave properly. They want to avoid doing anything people would say is wrong.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe they should always show respect to their parents and to older people. It is important to them to be obedient.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.9538944924709373,
+          "p_value": 2.032299008377538e-40,
+          "actual_unique_values": 4,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to be polite to other people all the time. They try never to disturb or irritate others.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They seek every chance they can to have fun. It is important to them to do things that give them pleasure.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.6393817074004695,
+          "p_value": 5.082927882486556e-10,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Enjoying life\u2019s pleasures is important to them. They like to \u2018spoil\u2019 themselves.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They really want to enjoy life. Having a good time is very important to them.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.7371677510195933,
+          "p_value": 3.132326339711762e-14,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to be rich. They want to have a lot of money and expensive things.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.42043641632863576,
+          "p_value": 0.00015596316423742226,
+          "actual_unique_values": 11,
+          "response_unique_values": 4,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to be in charge and tell others what to do. They want people to do what they say.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8359069512317115,
+          "p_value": 5.782023024391124e-21,
+          "actual_unique_values": 11,
+          "response_unique_values": 5,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They always want to be the ones who make the decisions. They like to be the leaders.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.7104013046483914,
+          "p_value": 6.60710707824456e-13,
+          "actual_unique_values": 11,
+          "response_unique_values": 5,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to live in secure surroundings. They avoid anything that might endanger their safety.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is very important to them that their country be safe. They think the state must be on watch against threats from within and without.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.15545615448749395,
+          "p_value": 0.1799389851205612,
+          "actual_unique_values": 7,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them that things be organized and clean. They really do not like things to be a mess.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8035081692511788,
+          "p_value": 2.442867927558948e-18,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They try hard to avoid getting sick. Staying healthy is very important to them.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8291581929837707,
+          "p_value": 2.2591210725578843e-20,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Having a stable government is important to them. They are concerned that the social order be protected.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Thinking up new ideas and being creative is important to them. They like to do things in their own original way.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 1.0,
+          "p_value": 0.0,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to make their own decisions about what they do. They like to be free to plan and to choose their activities for themselves.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They think it's important to be interested in things. They like to be curious and to try to understand all sorts of things.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to be independent. They like to rely on themselves.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They think it is important to do lots of different things in life. They always look for new things to try.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2861299066219323,
+          "p_value": 0.012220652818084873,
+          "actual_unique_values": 6,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They like to take risks. They are always looking for adventures.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.9985796533742872,
+          "p_value": 5.391912847573464e-96,
+          "actual_unique_values": 6,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They like surprises. It is important to them to have an exciting life.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 6,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They think it's important not to ask for more than what they have. They believe that people should be satisfied with what they have.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.6970048620185473,
+          "p_value": 2.6801474515584178e-12,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "Religious belief is important to them. They try hard to do what their religion requires.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.9047251627268466,
+          "p_value": 3.8377092994197775e-29,
+          "actual_unique_values": 21,
+          "response_unique_values": 10,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They think it is best to do things in traditional ways. It is important to them to keep up the customs they have learned.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.7946402422086347,
+          "p_value": 1.05352004378797e-17,
+          "actual_unique_values": 21,
+          "response_unique_values": 4,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to be humble and modest. They try not to draw attention to themselves.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8251619820389726,
+          "p_value": 4.924456308027939e-20,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They think it is important that every person in the world be treated equally. They believe everyone should have equal opportunities in life.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to listen to people who are different from them. Even when they disagree with them, they still want to understand them.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They strongly believe that people should care for nature. Looking after the environment is important to them.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe all the world's people should live in harmony. Promoting peace among all groups in the world is important to them.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They want everyone to be treated justly, even people they don\u2019t know. It is important to them to protect the weak in society.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "It is important to them to adapt to nature and to fit into it. They believe that people should not change nature.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 1.0,
+          "p_value": 0.0,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0
+          ]
+        }
+      },
+      "n_responses": 76
+    }
+  ],
+  "gpt-4o": [
+    {
+      "item": "They consistently seek opportunities to develop new skills.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2509521280876715,
+          "p_value": 0.028770857948555113,
+          "actual_unique_values": 3,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often initiate discussions and share insights with peers.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.43312796891334726,
+          "p_value": 9.30528579371388e-05,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They avoid exploring new ideas or activities on their own.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often wait for others to make decisions for them.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.24657166948951878,
+          "p_value": 0.03177669596626978,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often pursue activities that present fresh and thrilling challenges.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.4713275069741437,
+          "p_value": 1.7279887470835266e-05,
+          "actual_unique_values": 6,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They feel invigorated by tasks that require innovative thinking and creativity.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.22813060122559467,
+          "p_value": 0.04747299538867459,
+          "actual_unique_values": 6,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prefer routines and established patterns, avoiding unfamiliar experiences.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.2835526439763906,
+          "p_value": 0.013058887034148823,
+          "actual_unique_values": 6,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They typically seek out calm and predictable settings over dynamic ones.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.19174784644761017,
+          "p_value": 0.09704506108340018,
+          "actual_unique_values": 6,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often indulge in activities that bring them joy and excitement.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They consider experiences that stimulate their senses extremely valuable.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.052313035366688805,
+          "p_value": 0.6535732770591188,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely indulge in activities simply for enjoyment, unless it's productive.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.08650728931853943,
+          "p_value": 0.45745209304731327,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They shy away from spontaneous adventures, preferring routine and predictability.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.23436079814438113,
+          "p_value": 0.041577631596255625,
+          "actual_unique_values": 3,
+          "response_unique_values": 6,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            3.0,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They take pride in their work and seek to improve their performance continually.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.06452040671665733,
+          "p_value": 0.5797627548883076,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are highly motivated by recognition and accolades for their accomplishments.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.17197356527109042,
+          "p_value": 0.1374179710517799,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently avoid taking initiative in group settings.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.09680318784884218,
+          "p_value": 0.40547640997848017,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely seek feedback or constructive criticism to improve their skills.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.16080825445666636,
+          "p_value": 0.1652254624544472,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They usually have a strong influence in decision-making processes at social gatherings or in professional settings.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.5521668153946808,
+          "p_value": 2.3314004926448376e-07,
+          "actual_unique_values": 11,
+          "response_unique_values": 6,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have a remarkable ability to motivate and lead groups towards achieving common goals.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.6213100943676076,
+          "p_value": 2.115554841581673e-09,
+          "actual_unique_values": 11,
+          "response_unique_values": 5,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They feel uneasy enforcing rules or giving orders.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.30828180839989405,
+          "p_value": 0.006742034992180017,
+          "actual_unique_values": 11,
+          "response_unique_values": 3,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prefer others to take the spotlight and recognition.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.25190484528434254,
+          "p_value": 0.02814988391002009,
+          "actual_unique_values": 11,
+          "response_unique_values": 3,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prefer to plan and organize their activities to ensure smooth operations.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.29479296033635366,
+          "p_value": 0.009735811337430872,
+          "actual_unique_values": 7,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They practice financial discipline to ensure personal stability and future security.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.18919646219554748,
+          "p_value": 0.10165947151506328,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They consistently seek to resolve conflicts through peaceful and cooperative means.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2845654431828569,
+          "p_value": 0.012723721896884553,
+          "actual_unique_values": 7,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to avoid situations that promote harmony and reconciliation among their peers.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often make decisions that lead to instability and disruption in their lives.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently express a feeling of insecurity about their future prospects.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.38360943555723415,
+          "p_value": 0.0006246743777734299,
+          "actual_unique_values": 7,
+          "response_unique_values": 8,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They ensure their actions align with societal standards to avoid discord.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prioritize the feelings of others above their own desires when making decisions.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prefer to express their ideas, even when they go against the mainstream.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to act according to their desires rather than adhere to group consensus.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.19641529309378863,
+          "p_value": 0.08902971257898067,
+          "actual_unique_values": 4,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They value the wisdom and practices passed down by their ancestors.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.6052993359040918,
+          "p_value": 6.949966475395243e-09,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They enjoy participating in cultural ceremonies and rituals.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8643491113258448,
+          "p_value": 8.637729544371287e-24,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often disregard customs that have been passed down for generations.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.13433769319324584,
+          "p_value": 0.24728352356277142,
+          "actual_unique_values": 21,
+          "response_unique_values": 2,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They show little interest in preserving family rituals and ceremonies.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.2551615596877479,
+          "p_value": 0.02611193730659456,
+          "actual_unique_values": 21,
+          "response_unique_values": 3,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            3.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They seek opportunities to improve the lives of those they care about.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prioritize the happiness of their friends and family in their daily decisions.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently disregard the feelings of those around them in decision-making.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to withhold help when someone close is clearly struggling.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They support businesses that actively promote environmental sustainability in their operations.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.21706739709004874,
+          "p_value": 0.05963100754007124,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They choose to educate their children about diverse world cultures and traditions.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.052256965966122844,
+          "p_value": 0.653920825620267,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They volunteer regularly at local charities to aid in community welfare.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.056130035056465,
+          "p_value": 0.6300897819469918,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They express resistance toward policies aimed at reducing inequality among people.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.0036952794730738957,
+          "p_value": 0.9747265293573472,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often disregard the needs of people outside their immediate circle.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.12459192259100708,
+          "p_value": 0.2835624592609477,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They seldom show concern for environmental problems or nature conservation.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    }
+  ],
+  "gpt-4o-mini": [
+    {
+      "item": "They frequently question the status quo and look for innovative ways to improve it.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.18309377560016268,
+          "p_value": 0.11339056731380166,
+          "actual_unique_values": 3,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prefer to set their own goals rather than follow preset ones.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.052298432037428066,
+          "p_value": 0.6536637893309818,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to avoid exploring new ideas or experiences.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often rely heavily on others for decision-making.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.15050940060893017,
+          "p_value": 0.1943658967884224,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They actively seek out new experiences that offer excitement and variety.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.3242513775748253,
+          "p_value": 0.004269270152697806,
+          "actual_unique_values": 6,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They love to try out new hobbies or learn new things in their free time.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.0711299968796919,
+          "p_value": 0.5414683378664813,
+          "actual_unique_values": 6,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often avoid trying new foods or cuisines when dining out.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.09484047707238942,
+          "p_value": 0.41510862179766805,
+          "actual_unique_values": 6,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            3.5,
+            4.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They find satisfaction in familiar and repetitive tasks rather than exploring new ideas.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.14116039393520233,
+          "p_value": 0.2238653592912086,
+          "actual_unique_values": 6,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They enjoy indulging in fine food and drinks during special occasions.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.0036410791565113978,
+          "p_value": 0.9750971078417172,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They actively pursue hobbies that provide them with enjoyment and satisfaction.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.3516874841403769,
+          "p_value": 0.0018376189888298367,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often prioritize responsibilities over personal enjoyment.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.1800286288431423,
+          "p_value": 0.11966370878115266,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            4.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to avoid risks that could lead to pleasure or excitement.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.0090085262005134,
+          "p_value": 0.9384370076826862,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They seek out opportunities for personal growth and skill development.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.35707250100652754,
+          "p_value": 0.0015435174893335868,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are motivated to exceed expectations in their work and personal endeavors.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.036757463338907254,
+          "p_value": 0.752579518925713,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often choose leisure activities over tasks that require effort and dedication.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.0905040346589682,
+          "p_value": 0.4368536741956164,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely seek feedback to improve their skills or performance.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.18079701271208737,
+          "p_value": 0.11806667267773116,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They attract followers and admirers, often being seen as a natural leader in social situations.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.5565580800409271,
+          "p_value": 1.7843914581419475e-07,
+          "actual_unique_values": 11,
+          "response_unique_values": 6,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often take the lead in group decisions, ensuring their voice is heard first.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.6534405693327034,
+          "p_value": 1.5683376008077167e-10,
+          "actual_unique_values": 11,
+          "response_unique_values": 5,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently seek consensus instead of asserting their own opinions.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.1868696611442279,
+          "p_value": 0.10601526091592793,
+          "actual_unique_values": 11,
+          "response_unique_values": 2,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to back away from leadership roles even when they are capable.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.5287941964435879,
+          "p_value": 9.090917933454977e-07,
+          "actual_unique_values": 11,
+          "response_unique_values": 4,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            3.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They demonstrate confidence in their ability to handle crises when they arise.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.08121557144895006,
+          "p_value": 0.4855273907467657,
+          "actual_unique_values": 7,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prioritize creating a stable environment for themselves and their loved ones.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They actively seek to maintain harmonious relationships with people around them.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They regularly doubt the intentions of others around them.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.28936841741100816,
+          "p_value": 0.01123385960066155,
+          "actual_unique_values": 7,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often find it hard to relax due to ongoing concerns.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.25633223128471744,
+          "p_value": 0.025410561251288606,
+          "actual_unique_values": 7,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            5.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often feel anxious in unfamiliar situations.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.04499594482104755,
+          "p_value": 0.6995262745614129,
+          "actual_unique_values": 7,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often adjust their behavior to fit in with the expectations of their peers.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They value harmony in group settings and avoid controversial topics.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.11679184620791877,
+          "p_value": 0.31502353006690065,
+          "actual_unique_values": 4,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They regularly take actions that could be seen as rebellious or defiant.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.14689941037796667,
+          "p_value": 0.2054066096328036,
+          "actual_unique_values": 4,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently act according to their own desires, regardless of social expectations.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.05806714756517428,
+          "p_value": 0.6183087359868935,
+          "actual_unique_values": 4,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They encourage younger generations to embrace their cultural heritage.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.4783827573386798,
+          "p_value": 1.2379304632542072e-05,
+          "actual_unique_values": 21,
+          "response_unique_values": 4,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They honor the practices and rituals established by their ancestors.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.6715761313746215,
+          "p_value": 3.131915787589931e-11,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They show little interest in participating in cultural or religious ceremonies observed by their community.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.49585002623702484,
+          "p_value": 5.248130064204024e-06,
+          "actual_unique_values": 21,
+          "response_unique_values": 2,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often reject advice or guidance rooted in the traditions of their upbringing.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.18174549325435096,
+          "p_value": 0.1161179629981647,
+          "actual_unique_values": 21,
+          "response_unique_values": 2,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They always look for ways to help their friends or family when they are in need.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently express gratitude and recognition for the efforts of those around them.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 2,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often disregard the feelings and needs of their friends.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They seldom express gratitude or acknowledgment to others for their support.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 2,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They promote inclusivity and diversity in their community.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They volunteer for organizations that support global humanitarian efforts.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2137662468720021,
+          "p_value": 0.06371328329357609,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are willing to listen to and learn from individuals with differing viewpoints.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are typically uninterested in learning about cultures different from their own.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They show little concern for the impact of their actions on marginalized groups.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently prioritize tradition over the welfare of both people and the planet.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.023906582268527512,
+          "p_value": 0.8375815426589909,
+          "actual_unique_values": 3,
+          "response_unique_values": 6,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            4.0
+          ]
+        }
+      },
+      "n_responses": 76
+    }
+  ],
+  "llama3.1-8b": [
+    {
+      "item": "They feel comfortable making independent decisions, even when faced with uncertainty or conflicting opinions.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.24657166948951878,
+          "p_value": 0.03177669596626978,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are known for their creative problem-solving skills and ability to find innovative solutions.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.32248003656460733,
+          "p_value": 0.004496593167310123,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are easily influenced by others in making decisions and taking actions.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.15970237842464183,
+          "p_value": 0.16819047452412697,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to follow instructions without questioning their purpose or relevance.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.05230308140686762,
+          "p_value": 0.6536349717310771,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They regularly travel to new places for the experience and adventure.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.42268112072810166,
+          "p_value": 0.00014255939696779056,
+          "actual_unique_values": 6,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They find joy in solving complex problems and puzzles.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.43097211604414776,
+          "p_value": 0.00010173201610368931,
+          "actual_unique_values": 6,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They typically enjoy spending time alone, away from the hustle and bustle of social gatherings and events.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.22596731733370934,
+          "p_value": 0.04967450151510652,
+          "actual_unique_values": 6,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have a tendency to stick to what they know and avoid trying new things, as it makes them feel more secure.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.006929567920581069,
+          "p_value": 0.9526254920020208,
+          "actual_unique_values": 6,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often surround themselves with friends to share joyful experiences and laughter.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2938762327277845,
+          "p_value": 0.009976009514009808,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They delight in spontaneous adventures that bring excitement and fun.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.28699627135998856,
+          "p_value": 0.011949561901418318,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prioritize making sacrifices for the greater good over their own personal interests.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.18154553549857116,
+          "p_value": 0.11652671462027872,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to be self-controlled and avoid giving in to their immediate desires.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.24468600988688258,
+          "p_value": 0.033149547651084785,
+          "actual_unique_values": 3,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are highly sought after by employers due to their demonstrated skills and qualifications.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.21771462409945963,
+          "p_value": 0.058856110470926204,
+          "actual_unique_values": 3,
+          "response_unique_values": 6,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            3.0,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They consistently set and accomplish challenging yet realistic goals, reflecting their level of competence.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.3107518922985756,
+          "p_value": 0.006291874687731846,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely take on challenging roles or responsibilities that require high levels of competence.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.06453203515808126,
+          "p_value": 0.5796943042310693,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are often criticized by their superiors and colleagues for inadequate performance.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.20064280113396027,
+          "p_value": 0.08222942604109208,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to hold leadership roles in their organizations or communities.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.47986398558873955,
+          "p_value": 1.1531300131645201e-05,
+          "actual_unique_values": 11,
+          "response_unique_values": 6,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are able to get others to do things for them without having to ask directly.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.5459377070369528,
+          "p_value": 3.384690377368311e-07,
+          "actual_unique_values": 11,
+          "response_unique_values": 5,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to follow others' advice instead of giving their own.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.5545031705855975,
+          "p_value": 2.0232038052363948e-07,
+          "actual_unique_values": 11,
+          "response_unique_values": 4,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            3.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are frequently excluded from important discussions or meetings.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.597636203138654,
+          "p_value": 1.200190590053806e-08,
+          "actual_unique_values": 11,
+          "response_unique_values": 9,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They prioritize building and maintaining healthy, meaningful relationships in their life.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.32741745617292173,
+          "p_value": 0.0038882670690642564,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They feel able to make decisions without fear of negative consequences or judgment.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.003966567052816437,
+          "p_value": 0.9728717634028584,
+          "actual_unique_values": 7,
+          "response_unique_values": 6,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have a strong sense of belonging to a supportive community, where they can trust others.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.47437685234944993,
+          "p_value": 1.4973719043530091e-05,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently experience anxiety when they are away from home or familiar surroundings.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.054286580130736374,
+          "p_value": 0.6413875178969355,
+          "actual_unique_values": 7,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have a hard time trusting others, which leads to feelings of isolation.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.03995503174353058,
+          "p_value": 0.731836209538127,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            2.0,
+            2.5,
+            3.0,
+            3.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to doubt their ability to protect themselves from harm.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.2289938351550087,
+          "p_value": 0.04661723858934955,
+          "actual_unique_values": 7,
+          "response_unique_values": 6,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They follow traffic rules and respect authority figures.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often refrain from expressing strong, opposing views in group settings.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.27389541781415777,
+          "p_value": 0.016658071941296836,
+          "actual_unique_values": 4,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have a propensity to openly critique popular beliefs, even when it offends others.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.11109916455773461,
+          "p_value": 0.3393500445142213,
+          "actual_unique_values": 4,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They show a tendency to make spontaneous decisions that might disrupt social norms.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.10499000012909404,
+          "p_value": 0.3667327156636879,
+          "actual_unique_values": 4,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They value the wisdom and insights passed down through generations.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.4497144453257114,
+          "p_value": 4.5909931265723984e-05,
+          "actual_unique_values": 21,
+          "response_unique_values": 3,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They strongly identify with their cultural or religious heritage.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8769844346888512,
+          "p_value": 2.935844242115793e-25,
+          "actual_unique_values": 21,
+          "response_unique_values": 6,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They exhibit flexibility when adapting to changing societal customs and expectations.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.06140309037663702,
+          "p_value": 0.5982451770852879,
+          "actual_unique_values": 21,
+          "response_unique_values": 3,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            2.0,
+            2.5,
+            3.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely question the values and practices passed down by their family and community.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.4347260010502667,
+          "p_value": 8.706711080738798e-05,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They usually prioritize the well-being and happiness of those close to them.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often go out of their way to help those in need within their social circle.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to take advantage of others for personal gain, without considering the consequences for their relationships.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently disregard the needs and feelings of their loved ones.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They recognize the interconnectedness of all living beings and strive to live in harmony with nature and society.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They actively support and advocate for social and environmental causes.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.0981244328964355,
+          "p_value": 0.39906659689534507,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are willing to learn about and understand new ideas from diverse perspectives.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They show disinterest in helping others in times of need.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently show indifference to social and environmental issues that affect not only their own community but the planet as a whole.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They discriminate based on a person's nationality, culture, or ethnic background.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    }
+  ],
+  "llama3.3-70b": [
+    {
+      "item": "They set their own goals and priorities, and work independently to achieve them.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.16753615260705274,
+          "p_value": 0.14801270942528422,
+          "actual_unique_values": 3,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are willing to take calculated risks and step outside their comfort zone to pursue their passions.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.37322538417161777,
+          "p_value": 0.0008981211350606283,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to avoid taking risks or trying new approaches, even when it might lead to improvement.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.06449519128687459,
+          "p_value": 0.5799111979170868,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently seek validation from others before making choices or taking action.",
+      "trait": "Self-Direction",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.38389994813615824,
+          "p_value": 0.0006182546962235662,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are drawn to unusual and innovative experiences that allow them to explore new ideas and perspectives.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.32861556759497873,
+          "p_value": 0.003752173904324355,
+          "actual_unique_values": 6,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They thrive in environments where they can take risks, experiment with different approaches, and find creative solutions to problems.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.41961119002766234,
+          "p_value": 0.0001611761372861969,
+          "actual_unique_values": 6,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to avoid trying new activities or exploring unfamiliar places.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.17164616058975768,
+          "p_value": 0.13817954682336442,
+          "actual_unique_values": 6,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often feel like they're stuck in a routine and can't find ways to break out of it.",
+      "trait": "Stimulation",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.2247836979106184,
+          "p_value": 0.05091410058709316,
+          "actual_unique_values": 6,
+          "response_unique_values": 8,
+          "actual_values": [
+            5.0,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            5.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have a strong desire to experience new and exciting sensations, whether through travel, food, or entertainment.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2841411460211458,
+          "p_value": 0.012863215628108682,
+          "actual_unique_values": 3,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to indulge in luxury and comfort, seeking to surround themselves with the finer things in life.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.04400759903399328,
+          "p_value": 0.7058213796881935,
+          "actual_unique_values": 3,
+          "response_unique_values": 6,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe that hard work and dedication are more important than seeking immediate gratification.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.09316169618919631,
+          "p_value": 0.4234515184365519,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often prioritize self-discipline over instant pleasure in their daily lives.",
+      "trait": "Hedonism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.023122289550926694,
+          "p_value": 0.8428407338094958,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.833333333333333,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are recognized by others for their exceptional skills and abilities in their field.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.1601689242959444,
+          "p_value": 0.16693486214506104,
+          "actual_unique_values": 3,
+          "response_unique_values": 8,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are able to set and achieve ambitious goals, often surpassing their own expectations.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2891599499868279,
+          "p_value": 0.011295226133825127,
+          "actual_unique_values": 3,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to procrastinate and delay important tasks until the last minute.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.07111802339985362,
+          "p_value": 0.5415365746960191,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often doubt their ability to succeed in challenging situations.",
+      "trait": "Achievement",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.04427595665420269,
+          "p_value": 0.704110147578539,
+          "actual_unique_values": 3,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They possess a high level of influence over the allocation of resources and funding.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.594387742544077,
+          "p_value": 1.506481433011686e-08,
+          "actual_unique_values": 11,
+          "response_unique_values": 9,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are often sought out for advice and guidance by others in their social circle.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.48814398199292236,
+          "p_value": 7.708096304426163e-06,
+          "actual_unique_values": 11,
+          "response_unique_values": 7,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            3.0,
+            3.5,
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently have to rely on others for access to resources and information.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.5117848080446391,
+          "p_value": 2.2996288532673993e-06,
+          "actual_unique_values": 11,
+          "response_unique_values": 9,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0,
+            5.0,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to struggle to get their opinions heard in group discussions.",
+      "trait": "Power",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.5599371232748862,
+          "p_value": 1.4487316895294802e-07,
+          "actual_unique_values": 11,
+          "response_unique_values": 4,
+          "actual_values": [
+            4.166666666666667,
+            4.333333333333333,
+            4.5,
+            4.666666666666667,
+            4.833333333333333,
+            5.0,
+            5.166666666666667,
+            5.333333333333333,
+            5.5,
+            5.666666666666667,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            3.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are able to manage conflicts in a constructive manner, leading to stronger and more harmonious connections with others.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.4582274724117841,
+          "p_value": 3.14892709540317e-05,
+          "actual_unique_values": 7,
+          "response_unique_values": 4,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They create a safe and supportive environment for themselves and those around them, promoting feelings of calmness and contentment.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 7,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They maintain healthy and stable relationships with family and friends, built on trust and mutual respect.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.15157865840048657,
+          "p_value": 0.19117914770374367,
+          "actual_unique_values": 7,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They have difficulty forming and maintaining stable relationships.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.054985223292554425,
+          "p_value": 0.6370960753418843,
+          "actual_unique_values": 7,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often feel disconnected from their community and lack a sense of belonging.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.1412002605635614,
+          "p_value": 0.22373325295799504,
+          "actual_unique_values": 7,
+          "response_unique_values": 5,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often find themselves in chaotic and unpredictable situations.",
+      "trait": "Security",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.15157415711904482,
+          "p_value": 0.1911924836169112,
+          "actual_unique_values": 7,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.4,
+            5.5,
+            5.6,
+            5.7,
+            5.8,
+            5.9,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to respect and follow established rules and social norms.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They avoid engaging in behaviors that might be considered offensive or insensitive to those around them.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 4,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They are prone to acting on instinct without thinking about how their behavior might affect others.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.017638209553017085,
+          "p_value": 0.8797945440963313,
+          "actual_unique_values": 4,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They frequently disregard social norms and expectations in their daily behavior.",
+      "trait": "Conformity",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.10283159189499252,
+          "p_value": 0.37672095685293894,
+          "actual_unique_values": 4,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.5,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe in preserving the history and heritage of their family and community.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.42809037199765054,
+          "p_value": 0.00011450403428756102,
+          "actual_unique_values": 21,
+          "response_unique_values": 3,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They strive to maintain a connection with their cultural roots, even when living in a different environment or society.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.8175106370775281,
+          "p_value": 2.0749533643698998e-19,
+          "actual_unique_values": 21,
+          "response_unique_values": 5,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            4.0,
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely participate in religious ceremonies or rituals that are significant to their family's history.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.8494211770597866,
+          "p_value": 3.105594009873488e-22,
+          "actual_unique_values": 21,
+          "response_unique_values": 7,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0,
+            4.0,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often challenge the long-standing customs and practices of their community.",
+      "trait": "Tradition",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.437197835064528,
+          "p_value": 7.850643111287168e-05,
+          "actual_unique_values": 21,
+          "response_unique_values": 3,
+          "actual_values": [
+            3.375,
+            3.5,
+            3.625,
+            3.75,
+            3.875,
+            4.0,
+            4.125,
+            4.25,
+            4.375,
+            4.625,
+            4.75,
+            4.875,
+            5.0,
+            5.125,
+            5.25,
+            5.375,
+            5.5,
+            5.625,
+            5.75,
+            5.875,
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often volunteer to assist others with tasks or projects without being asked.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 4,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            4.5,
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They take the time to offer words of encouragement and support to those who are facing challenges or difficulties.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They rarely take the time to listen to the concerns of their friends and family.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 1,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often put their own success above the well-being and happiness of those around them.",
+      "trait": "Benevolence",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 1,
+          "response_unique_values": 3,
+          "actual_values": [
+            6.0
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They feel a sense of connection to the global community and strive to make a positive contribution to it.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They recognize the importance of biodiversity and strive to reduce their impact on the planet.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.035189842630006234,
+          "p_value": 0.762814355991867,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            5.0,
+            5.5,
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe that every individual deserves equal rights and opportunities, regardless of their background or circumstances.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            6.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They often prioritize their own interests over the well-being of others and the environment.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": -0.050134519497191846,
+          "p_value": 0.6671303915945861,
+          "actual_unique_values": 3,
+          "response_unique_values": 3,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0,
+            1.5,
+            2.0
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They believe that some individuals or groups are inherently superior to others.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": 0.2693243630561716,
+          "p_value": 0.01863998853583249,
+          "actual_unique_values": 3,
+          "response_unique_values": 2,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0,
+            1.5
+          ]
+        }
+      },
+      "n_responses": 76
+    },
+    {
+      "item": "They tend to disregard the feelings and needs of people from different cultural backgrounds.",
+      "trait": "Universalism",
+      "correlations": {
+        "sampling": {
+          "correlation": null,
+          "p_value": null,
+          "actual_unique_values": 3,
+          "response_unique_values": 1,
+          "actual_values": [
+            5.666666666666667,
+            5.75,
+            5.833333333333333
+          ],
+          "response_values": [
+            1.0
+          ]
+        }
+      },
+      "n_responses": 76
+    }
+  ]
+}

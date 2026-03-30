@@ -1,0 +1,202 @@
+{
+    "I have a good word for everyone.": {
+        "trait": "Agreeableness",
+        "correlation": "pos"
+    },
+    "I believe that others have good intentions.": {
+        "trait": "Agreeableness",
+        "correlation": "pos"
+    },
+    "I respect others.": {
+        "trait": "Agreeableness",
+        "correlation": "pos"
+    },
+    "I accept people as they are.": {
+        "trait": "Agreeableness",
+        "correlation": "pos"
+    },
+    "I make people feel at ease.": {
+        "trait": "Agreeableness",
+        "correlation": "pos"
+    },
+    "I have a sharp tongue.": {
+        "trait": "Agreeableness",
+        "correlation": "neg"
+    },
+    "I cut others to pieces.": {
+        "trait": "Agreeableness",
+        "correlation": "neg"
+    },
+    "I suspect hidden motives in others.": {
+        "trait": "Agreeableness",
+        "correlation": "neg"
+    },
+    "I get back at others.": {
+        "trait": "Agreeableness",
+        "correlation": "neg"
+    },
+    "I insult people.": {
+        "trait": "Agreeableness",
+        "correlation": "neg"
+    },
+    "I am always prepared.": {
+        "trait": "Conscientiousness",
+        "correlation": "pos"
+    },
+    "I pay attention to details.": {
+        "trait": "Conscientiousness",
+        "correlation": "pos"
+    },
+    "I get chores done right away.": {
+        "trait": "Conscientiousness",
+        "correlation": "pos"
+    },
+    "I carry out my plans.": {
+        "trait": "Conscientiousness",
+        "correlation": "pos"
+    },
+    "I make plans and stick to them.": {
+        "trait": "Conscientiousness",
+        "correlation": "pos"
+    },
+    "I waste my time.": {
+        "trait": "Conscientiousness",
+        "correlation": "neg"
+    },
+    "I find it difficult to get down to work.": {
+        "trait": "Conscientiousness",
+        "correlation": "neg"
+    },
+    "I do just enough work to get by.": {
+        "trait": "Conscientiousness",
+        "correlation": "neg"
+    },
+    "I don't see things through.": {
+        "trait": "Conscientiousness",
+        "correlation": "neg"
+    },
+    "I shirk my duties.": {
+        "trait": "Conscientiousness",
+        "correlation": "neg"
+    },
+    "I feel comfortable around people.": {
+        "trait": "Extraversion",
+        "correlation": "pos"
+    },
+    "I make friends easily.": {
+        "trait": "Extraversion",
+        "correlation": "pos"
+    },
+    "I am skilled in handling social situations.": {
+        "trait": "Extraversion",
+        "correlation": "pos"
+    },
+    "I am the life of the party.": {
+        "trait": "Extraversion",
+        "correlation": "pos"
+    },
+    "I know how to captivate people.": {
+        "trait": "Extraversion",
+        "correlation": "pos"
+    },
+    "I have little to say.": {
+        "trait": "Extraversion",
+        "correlation": "neg"
+    },
+    "I keep in the background.": {
+        "trait": "Extraversion",
+        "correlation": "neg"
+    },
+    "I would describe my experiences as somewhat dull.": {
+        "trait": "Extraversion",
+        "correlation": "neg"
+    },
+    "I don't like to draw attention to myself.": {
+        "trait": "Extraversion",
+        "correlation": "neg"
+    },
+    "I don't talk a lot.": {
+        "trait": "Extraversion",
+        "correlation": "neg"
+    },
+    "I often feel blue.": {
+        "trait": "Neuroticism",
+        "correlation": "pos"
+    },
+    "I dislike myself.": {
+        "trait": "Neuroticism",
+        "correlation": "pos"
+    },
+    "I am often down in the dumps.": {
+        "trait": "Neuroticism",
+        "correlation": "pos"
+    },
+    "I have frequent mood swings.": {
+        "trait": "Neuroticism",
+        "correlation": "pos"
+    },
+    "I panic easily.": {
+        "trait": "Neuroticism",
+        "correlation": "pos"
+    },
+    "I seldom feel blue.": {
+        "trait": "Neuroticism",
+        "correlation": "neg"
+    },
+    "I feel comfortable with myself.": {
+        "trait": "Neuroticism",
+        "correlation": "neg"
+    },
+    "I rarely get irritated.": {
+        "trait": "Neuroticism",
+        "correlation": "neg"
+    },
+    "I am not easily bothered by things.": {
+        "trait": "Neuroticism",
+        "correlation": "neg"
+    },
+    "I am very pleased with myself.": {
+        "trait": "Neuroticism",
+        "correlation": "neg"
+    },
+    "I believe in the importance of art.": {
+        "trait": "Openness to experience",
+        "correlation": "pos"
+    },
+    "I have a vivid imagination.": {
+        "trait": "Openness to experience",
+        "correlation": "pos"
+    },
+    "I tend to vote for liberal political candidates.": {
+        "trait": "Openness to experience",
+        "correlation": "pos"
+    },
+    "I carry the conversation to a higher level.": {
+        "trait": "Openness to experience",
+        "correlation": "pos"
+    },
+    "I enjoy hearing new ideas.": {
+        "trait": "Openness to experience",
+        "correlation": "pos"
+    },
+    "I am not interested in abstract ideas.": {
+        "trait": "Openness to experience",
+        "correlation": "neg"
+    },
+    "I do not like art.": {
+        "trait": "Openness to experience",
+        "correlation": "neg"
+    },
+    "I avoid philosophical discussions.": {
+        "trait": "Openness to experience",
+        "correlation": "neg"
+    },
+    "I do not enjoy going to art museums.": {
+        "trait": "Openness to experience",
+        "correlation": "neg"
+    },
+    "I tend to vote for conservative political candidates.": {
+        "trait": "Openness to experience",
+        "correlation": "neg"
+    }
+}

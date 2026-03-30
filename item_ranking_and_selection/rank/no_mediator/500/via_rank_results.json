@@ -1,0 +1,4792 @@
+[
+    {
+        "question_id": "N1",
+        "item": "My friends would not consider me to be a wise person.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.32258410820647104,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N2",
+        "item": "I regularly question my assumptions to avoid bias in my decision-making.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.1601721221072816,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N3",
+        "item": "Others consider me to be a wise person.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9481620834531387,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N4",
+        "item": "I regularly reflect on my experiences and think about how they can be applied to future challenges.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.5451597162391784,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N5",
+        "item": "I feel energized when I embark on adventures or explorations.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.6914602712666624,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N6",
+        "item": "I am skilled at expressing myself through various forms of artistic expression.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.41814609795655416,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N7",
+        "item": "I weigh the pros and cons of different options before making a decision.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.10699143334183618,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N8",
+        "item": "I often take time to consider alternative solutions before making a decision.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.6542848111223633,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N9",
+        "item": "I tend to be overly critical of myself and others, which prevents me from considering different perspectives.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.24570597673161634,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N10",
+        "item": "I never quit a task before it is done.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.42773658659770286,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N11",
+        "item": "I rarely seek out new experiences that challenge my understanding.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.10353347986457587,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N12",
+        "item": "I refuse to back down in the face of a challenge or adversity.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.46680047718809725,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N13",
+        "item": "I always try to help people in need.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.6617919742577505,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N14",
+        "item": "I tend to avoid trying new activities or hobbies because I don't want to feel uncertain.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.0033720247425191073,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N15",
+        "item": "I often dismiss information that contradicts my initial thoughts.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N16",
+        "item": "I participate in activities that make me feel alive and invigorated.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.7286309615002461,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N17",
+        "item": "I am bad at making sense of complicated situations.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N18",
+        "item": "I often find it difficult to express my feelings towards others.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5926135554793165,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N19",
+        "item": "I seldom feel motivated to start the day or anticipate upcoming events.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.2436270839795626,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N20",
+        "item": "I sometimes blame others for mistakes that are actually my own fault.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.3048623719055357,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N21",
+        "item": "I often reject ideas that differ significantly from my past experiences.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.21165813654898888,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N22",
+        "item": "I continue striving for success even when faced with obstacles.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.5271135527361122,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N23",
+        "item": "I usually go with the first solution that comes to mind, rather than exploring alternative options.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N24",
+        "item": "I rarely seek out deep connections with those around me.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.33745277864267254,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N25",
+        "item": "I often come up with innovative solutions to problems.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5507036287106674,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N26",
+        "item": "I don't seek to delve deeper into the subject matter and my conversations are often limited to current events.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N27",
+        "item": "I learn valuable lessons from my mistakes and use them to improve my future decisions.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.18642206252800872,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N28",
+        "item": "I usually help friends or family members think through problems they're facing.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4574387697094361,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N29",
+        "item": "I tend to stick to familiar routines and environments, rather than exploring new ones.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.40614898027208673,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N30",
+        "item": "I avoid volunteering or participating in community service activities.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.2502708756730872,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N31",
+        "item": "I have a tendency to choose a course of action before learning all aspects of a situation.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.07707488022208188,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N32",
+        "item": "I openly share my thoughts and opinions, even when they differ from popular beliefs.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.44100530135881405,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N33",
+        "item": "I take a genuine interest in getting to know others on a deeper level.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.4577592353146314,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N34",
+        "item": "I often notice how people react to different situations and can use this insight to avoid potential conflicts and create a harmonious environment.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.5373383365048008,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N35",
+        "item": "I'm not a particularly brave person.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.2774714229352809,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N36",
+        "item": "I often feel disconnected from my surroundings, living life on autopilot without much engagement or interest.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.1984799664689091,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N37",
+        "item": "I frequently experiment with different approaches to improve my work.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.5866196527436961,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N38",
+        "item": "I will say things I know are untrue if it's easier.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N39",
+        "item": "I often find myself browsing through new books and magazines to learn about unfamiliar subjects.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.6253479372382288,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N40",
+        "item": "I share my true feelings with others, even when it's difficult.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.22948818936874119,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N41",
+        "item": "I have difficulty recognizing the social dynamics in a group setting.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.24284499559442424,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N42",
+        "item": "I often find it difficult to understand new people.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.47147910389340253,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N43",
+        "item": "I prioritize my independence over building intimate relationships with others.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4651874241787325,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N44",
+        "item": "I don't enjoy learning new things.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N45",
+        "item": "I don't really like learning new things.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N46",
+        "item": "I find it easy to agree with someone just to avoid hurting their feelings, even if I don't really believe them.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": -0.13564708005109657,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N47",
+        "item": "I tend to follow instructions precisely and avoid improvisation.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.30239997843111194,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N48",
+        "item": "I can often anticipate how others will react to a particular situation or conversation, which helps me prepare and respond accordingly.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.5216002652186672,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N49",
+        "item": "I tend to make impulsive decisions.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.12937093325694674,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N50",
+        "item": "I frequently focus on small details instead of seeing broader patterns.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.11076258369318397,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N51",
+        "item": "I embrace vulnerability by allowing others to get to know me well.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.62521824188755,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N52",
+        "item": "I often come up with innovative solutions to complex problems that others may not have thought of.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5875473296421182,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N53",
+        "item": "I am never too busy to help a friend.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.7292293687306045,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N54",
+        "item": "I often give up when faced with challenges.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.17707496045392554,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N55",
+        "item": "I choose to be straightforward in my interactions with others, regardless of the situation.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.2749832961424888,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N56",
+        "item": "I often break my promises.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N57",
+        "item": "I always keep my promises.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9997896814915928,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N58",
+        "item": "I feel comforted by physical touch, such as hugs or holding hands, from those I care about.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.42990842211996255,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N59",
+        "item": "I enjoy expressing affection towards my friends and family.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.500056417478232,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N60",
+        "item": "I accept full responsibility for my actions and decisions, without passing blame.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.4884811705492048,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N61",
+        "item": "I prefer to stay away from challenging tasks to minimize my stress.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.24027415743974925,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N62",
+        "item": "I take care of myself and prioritize my physical and emotional well-being, even in tough situations.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.5385976757092672,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N63",
+        "item": "I find myself backing down when faced with difficult choices or decisions.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.24982063030788995,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N64",
+        "item": "I don't enjoy spending time around people from different cultures or backgrounds.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 6,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N65",
+        "item": "I have many interests.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8972877300918489,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N66",
+        "item": "I am constantly looking for new hobbies to dive into and explore.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6358821656540126,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N67",
+        "item": "I see difficult situations as chances to prove my abilities and test my resolve, and I take them on with confidence.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.7214221793008061,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N68",
+        "item": "I keep working towards my goals, even when faced with setbacks or failures.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.5560735116232596,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N69",
+        "item": "I tend to ignore my beliefs and values to avoid conflict.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N70",
+        "item": "I find satisfaction in developing original concepts that can be applied practically.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.4074055014004234,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N71",
+        "item": "I willingly confront situations that make me feel anxious or scared.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.44068840410212984,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N73",
+        "item": "I dread getting up in the morning.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.3234330204597901,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N74",
+        "item": "I enjoy analyzing complex problems to find the best possible solution.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.1398786759903062,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N75",
+        "item": "I often donate to causes and organizations that aim to improve the lives of others.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.43497211659506924,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N76",
+        "item": "I am drawn to complex problems and puzzles, and I enjoy figuring out creative solutions.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.4677345836250297,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N77",
+        "item": "I rarely explore new things.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.19437731927623964,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N78",
+        "item": "I am not someone who comes up with new and different ideas.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.2565519284662275,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N79",
+        "item": "I usually don't seek out feedback or constructive criticism from others.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.1313036605524018,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N80",
+        "item": "I frequently choose the easiest approach, even if it means not achieving my full potential.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.3202238650567274,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N81",
+        "item": "I weigh the potential pros and cons of a decision before making a choice.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.11293347840532267,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N82",
+        "item": "My friends think I am wise.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.779740070092375,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N83",
+        "item": "I am a brave person.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8070006630883493,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N84",
+        "item": "I am reluctant to help people in need, and I often expect them to rely on themselves.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N85",
+        "item": "I regularly visit museums, galleries, or exhibitions to learn about art, history, or science.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.522395597087154,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N86",
+        "item": "I often come up with innovative solutions to complex problems.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.7232395566728395,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N87",
+        "item": "I am very bad at coming up with original solutions to problems.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N88",
+        "item": "I take time to consider multiple perspectives before making decisions.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.11202371353034367,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N89",
+        "item": "I rarely notice when someone is feeling uncomfortable in a social situation.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.15953652826868595,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N90",
+        "item": "I usually don't bother trying to fix problems that seem too difficult to solve.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.17654160213930525,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N91",
+        "item": "I am good at sensing what other people are feeling.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.6689813616297009,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N92",
+        "item": "I have been guilty of acting on gut feelings rather than carefully evaluating the pros and cons of a situation.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.2062713717441823,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N93",
+        "item": "I sometimes manipulate the facts to get what I want.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.14270913634525234,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N94",
+        "item": "I often bend the truth to make things sound better.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N95",
+        "item": "I tend to regard further learning as a daunting task instead of an exciting venture.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.09304463797704901,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N96",
+        "item": "I feel uncomfortable when faced with new experiences or challenges.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.23433684706958727,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N97",
+        "item": "I hold myself accountable for keeping promises and commitments I've made.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.2396204446733898,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N98",
+        "item": "I sometimes unintentionally hijack the conversation by not letting others finish their thoughts.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.3248077547179766,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N99",
+        "item": "I never get sidetracked when I work.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9996437311910997,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N100",
+        "item": "I frequently criticize others without considering their point of view.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N101",
+        "item": "I often go out of my way to help someone in need, even if it's inconvenient for me.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5710937929473433,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N102",
+        "item": "I find it exciting to learn about unfamiliar topics or subjects.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4699600712646162,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N103",
+        "item": "I willingly confront and overcome obstacles that get in the way of my goals and aspirations.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.44954649049159695,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N104",
+        "item": "I take the time to understand different perspectives before forming my own opinions.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.5230738026173928,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N105",
+        "item": "I seldom take opportunities that challenge my current understanding.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.22697437822660754,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N106",
+        "item": "I enjoy taking online courses or attending workshops to expand my knowledge in areas I'm passionate about.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4642731156451669,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N107",
+        "item": "I often reflect on what I have learned and think about how it can apply to my life.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.6250235149486392,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N108",
+        "item": "I find it difficult to come up with innovative solutions to everyday problems.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": -0.01887163751109639,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N109",
+        "item": "I feel fulfilled when I can help others see their challenges from a different angle, leading them to new solutions.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.2699941744028996,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N110",
+        "item": "I often find myself hesitant to offer help to others when they need it.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.24393818949102358,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N111",
+        "item": "I enjoy visiting new places even if they're outside my comfort zone.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.6219025833819269,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N112",
+        "item": "I can accept love from others.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.4114993097476364,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N113",
+        "item": "I stay true to my beliefs, even when others disagree or criticize me.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.3525693157507851,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N114",
+        "item": "I frequently make excuses instead of owning up to my mistakes.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N115",
+        "item": "I am open to receiving emotional support and care from others.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.4976612662808884,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N116",
+        "item": "I offer insights that help people see situations in a new light.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.3611184095199501,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N117",
+        "item": "I rarely engage emotionally in my relationships.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.37576798403995115,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N118",
+        "item": "I stay focused on my goals even when faced with challenges.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5401747170176913,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N119",
+        "item": "I consider multiple perspectives before forming an opinion on a complex issue.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.11820298740432847,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N120",
+        "item": "I feel excited when I have a chance to learn from someone with expertise.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.29017680642423643,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N121",
+        "item": "I tend to go through the motions of my daily tasks without much enthusiasm or excitement.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.25264781857950774,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N122",
+        "item": "I always know what to say to make people feel good.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9722950425452861,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N123",
+        "item": "I tend to stay quiet when I see someone being treated unfairly, even if I disagree with what's happening.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N124",
+        "item": "I feel excited when I discover a new subject or area to explore.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.3173158612732331,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N125",
+        "item": "I frequently omit crucial details or distort the truth in my conversations with others.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N126",
+        "item": "I find it difficult to adapt my thinking when faced with new information.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.08516062517751835,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N127",
+        "item": "I enjoy being there to support my friends through important moments in their lives.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4076913431991315,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N128",
+        "item": "I often feel lethargic and unmotivated to start my day.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.24242299742030674,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N129",
+        "item": "I often stop working on a task as soon as it gets tough.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.21549657322823018,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N130",
+        "item": "I occasionally pretend to have opinions or beliefs that aren't really mine in order to fit in.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.19864963473576366,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N131",
+        "item": "I am able to listen actively and respond in a way that addresses the other person's concerns.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6616624457198728,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N132",
+        "item": "I often misinterpret the emotions and feelings of people during conversations.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.2027457540246926,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N133",
+        "item": "If others disagree with me, I tend to back down.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.10313538169101193,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N134",
+        "item": "I have a knack for making people feel understood and comfortable around me.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4874184281460956,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N135",
+        "item": "I love to engage in activities that allow me to think outside the box and innovate.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.4405539977962341,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N136",
+        "item": "I find it hard to motivate myself to read books or articles on topics I’m not already familiar with.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.23251055801341536,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N137",
+        "item": "I frequently receive requests for help or advice, and I'm always willing to lend a listening ear or a supportive hand.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.5627858804693594,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N138",
+        "item": "I frequently jump to conclusions without considering all possible alternatives.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N139",
+        "item": "I usually rely on established procedures rather than exploring alternative ways of doing things.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.2860799634314394,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N140",
+        "item": "I make decisions only when I have all of the facts.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8038308027721096,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N141",
+        "item": "I am straightforward with feedback, rather than sugarcoating my thoughts.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4030470674474949,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N142",
+        "item": "I find it difficult to think outside the box when faced with challenges.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.07206102811138068,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N143",
+        "item": "I am willing to put in extra effort to overcome obstacles that stand in my way.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.42384112857713263,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N144",
+        "item": "I tend to believe that I already know enough to handle most situations, and thus don't seek to learn more.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N146",
+        "item": "I feel uncomfortable when others express warmth towards me.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.3371050524507641,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N147",
+        "item": "Very few things interest me.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N148",
+        "item": "I often give up on a task as soon as it becomes challenging.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.17707496045392554,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N149",
+        "item": "I am hesitant to take others' opinions at face value, and instead, I verify the facts myself.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.0635149792257904,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N150",
+        "item": "I tend to avoid social situations because they drain my energy.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.25115532278392955,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N151",
+        "item": "I often go out of my way to help someone in need.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5050024540804556,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N152",
+        "item": "I am always willing to lend a listening ear to someone who needs to talk.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.48805495555004785,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N153",
+        "item": "I often ignore the needs of others around me.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.15853422993154298,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N154",
+        "item": "I relentlessly pursue my targets, regardless of bumps along the way.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.5927571828054197,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N155",
+        "item": "I tend to rely on logic rather than intuition when dealing with complex social situations, which can sometimes cause misunderstandings.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.39824711969168425,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N156",
+        "item": "I find it easy to read between the lines of what someone is saying to understand their true feelings.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6092314295694966,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N157",
+        "item": "It is difficult for me to express my love to others.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9705153960939213,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N158",
+        "item": "I love to learn new things.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.371687603291824,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N159",
+        "item": "I take the time to listen to people when they need someone to talk to.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6282797551038739,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N160",
+        "item": "I am skilled at combining different concepts and techniques to create something entirely new and useful.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.7137061232560088,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N161",
+        "item": "I feel uncomfortable in unfamiliar social situations and tend to avoid them if possible.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.3403937784593607,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N162",
+        "item": "I rarely look forward to trying new things or taking on new adventures.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.20042477147990412,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N163",
+        "item": "I do not call friends when they are sick.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.1607950545006596,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N164",
+        "item": "I feel fully alive and energized when I'm pursuing my passions.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.6268150151251191,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N165",
+        "item": "I make an effort to show appreciation to those who support me.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.5227444678443961,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N166",
+        "item": "I usually follow established procedures without trying to find new ways to do things.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N167",
+        "item": "I usually avoid taking on challenges that require intense energy or commitment.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.1891212569716589,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N168",
+        "item": "I am an original thinker.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9104412707954916,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N169",
+        "item": "I generally feel uncomfortable being emotionally vulnerable with people I care about.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.6171338559242565,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N170",
+        "item": "I am often approached by others when they need guidance on complex matters.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.37788527853397075,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N171",
+        "item": "I rarely show physical affection to those close to me.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3575587945422594,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N172",
+        "item": "I like to plan out my free time and don't appreciate spontaneous invitations.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.2665614163831142,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N173",
+        "item": "I cherish opportunities to create shared experiences and memories with close ones.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.3466865367178402,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N174",
+        "item": "I notice subtle social cues and dynamics that others might overlook.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.356036000716551,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N175",
+        "item": "I am often too busy to help others.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.7262421835272906,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N176",
+        "item": "I am willing to speak up and express my opinions, even if it means disagreeing with others or facing potential criticism.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.5813572231135563,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N177",
+        "item": "I usually back down when faced with criticism or opposition.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.17047511780191982,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N178",
+        "item": "I have a strong desire to make the most of every day and seize new opportunities.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6684601491632545,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N179",
+        "item": "I prefer to shift blame to others when confronted with a mistake I made.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N180",
+        "item": "I prioritize thorough research before committing to a course of action.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.21778744512847995,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N181",
+        "item": "I feel uncomfortable when someone tries to get too close or intimate with me.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.4114787895259313,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N182",
+        "item": "I celebrate achievements, both my own and those of others, with great energy.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.7087931473561065,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N183",
+        "item": "My plans often fall through because I give up.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.21549686228885304,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N184",
+        "item": "I confront difficult situations head-on without backing down.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.43926091150759444,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N185",
+        "item": "I can express love to someone else.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.5325528972396056,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N186",
+        "item": "I can easily adapt my conversation style to make others feel comfortable and engaged.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.567854391427491,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N187",
+        "item": "I often offer help to others when they are in need.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.4018431766066593,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N188",
+        "item": "I rarely feel energetic.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.33121535757784765,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N189",
+        "item": "I tend to trust my initial instincts rather than taking the time to analyze a situation.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.06193213333518279,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N190",
+        "item": "I value the idea of having deep, meaningful conversations with others.",
+        "expected_trait": "Love",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.3326745948360525,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N191",
+        "item": "I have a knack for knowing what to say or do to diffuse tension or lighten the mood in a difficult social situation.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.6763659218177827,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N192",
+        "item": "I often find myself unintentionally offending others with my words or actions.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.29717241010149814,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N193",
+        "item": "I have taken frequent stands in the face of strong opposition.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.95156077600858,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N194",
+        "item": "I support others in their struggles, offering my strength when they need it.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.5062527374287379,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N195",
+        "item": "I enjoy collaborating with others on projects or activities that allow me to share my knowledge and learn from theirs.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.34107284146823874,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N196",
+        "item": "I often struggle to see the positive side of a situation or find solutions to problems.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": -0.02229440807366299,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N197",
+        "item": "I have trouble reflecting on my past experiences and identifying what I could have done differently to improve outcomes.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N198",
+        "item": "I carefully avoid situations that require me to be assertive, prioritizing peace over taking a stand.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.13209178895973753,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N199",
+        "item": "I often take courses or online classes in my free time to deepen my understanding of subjects that interest me.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.6179580021157555,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N200",
+        "item": "My promises can be trusted.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.5646652911003247,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N201",
+        "item": "I am transparent about my intentions and goals with others.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.6076920275892861,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N202",
+        "item": "I rarely consider the long-term consequences of my actions when making decisions.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N203",
+        "item": "I believe that persistence and determination are essential for overcoming obstacles and achieving success.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.24954181076892584,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N204",
+        "item": "I tend to give up easily when I encounter difficulties.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N205",
+        "item": "I like to let emotions guide my actions.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.6391410546122422,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N206",
+        "item": "I allow anxiety to stop me from pursuing opportunities, instead choosing to stay within my comfort zone.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.2131848861403571,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N207",
+        "item": "I am always coming up with new ways to do things.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8869079872751201,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N208",
+        "item": "I often ignore people who are struggling and in need of help.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.09227600664024699,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N209",
+        "item": "I often struggle to come up with new ways to approach problems.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.07366731383626453,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N210",
+        "item": "I rarely take time to reflect on the implications of my choices.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N211",
+        "item": "I am always on the lookout for new hobbies and activities to try in my free time.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.7566193093673349,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N212",
+        "item": "I prefer to stick to familiar routines rather than trying new things.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.35536489419985107,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N213",
+        "item": "I often give up on a task if it becomes too difficult for me to manage.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.17707496045392554,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N214",
+        "item": "I frequently start new goals but lose interest before achieving them.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.249543323884019,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N215",
+        "item": "I rarely think about the well-being of those around me.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.2739133701405273,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N216",
+        "item": "I struggle to help others make sense of complicated issues due to lack of broader insight.",
+        "expected_trait": "Perspective",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.19725674908510932,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N217",
+        "item": "I often avoid taking risks because I fear failure.",
+        "expected_trait": "Bravery",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.10756654739202212,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N219",
+        "item": "I often lack enthusiasm when starting new projects or hobbies.",
+        "expected_trait": "Zest",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.21501097754755616,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N220",
+        "item": "I expend a lot of energy and effort to achieve my long-term goals.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.7615667238098521,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N221",
+        "item": "I find little interest in meeting new people or exploring new cultures.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.20253885668430177,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N222",
+        "item": "I maintain a positive attitude when pursuing something important to me, regardless of setbacks.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.5381108858843805,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N223",
+        "item": "I often find myself disinterested in conversations that involve unfamiliar subjects.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.1389079528161855,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N224",
+        "item": "I lack confidence in my ability to devise original and effective solutions to challenges.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.14094074819126926,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N225",
+        "item": "I awaken with a sense of excitement about the day's possibilities.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9533404651329497,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N226",
+        "item": "It is difficult for me to accept love from others.",
+        "expected_trait": "Love",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.5318220001831737,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N227",
+        "item": "I have a hard time finishing what I start.",
+        "expected_trait": "Perseverance",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.40479704224109286,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N228",
+        "item": "I follow through on my promises and commitments.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.5664989174526414,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N229",
+        "item": "I rarely question the conventional methods I encounter.",
+        "expected_trait": "Creativity",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.1661235725383744,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N230",
+        "item": "I have a hard time figuring out what people are feeling.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.17764896381906614,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N231",
+        "item": "I often miss the subtle cues in conversations with others.",
+        "expected_trait": "Social Intelligence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.1844578742723848,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N232",
+        "item": "I usually look for opportunities to take on new challenges and try new things.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.7368569206052196,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N233",
+        "item": "I spend time researching topics that pique my interest outside of work or school.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.5778141744086229,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N234",
+        "item": "I am always curious about the world.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.849869629022336,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N235",
+        "item": "I approach each day with a sense of excitement and anticipation.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.7391391502080532,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N236",
+        "item": "I am genuinely excited to start each day.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8730856961223127,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N237",
+        "item": "I frequently ask questions when discussing ideas or topics with others to gain a deeper understanding.",
+        "expected_trait": "Curiosity",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.6115790915230385,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N238",
+        "item": "I tend to distort the truth to make myself look better.",
+        "expected_trait": "Honesty",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N239",
+        "item": "I find it bothersome to listen to others when they need someone to talk to.",
+        "expected_trait": "Kindness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.12891677875429566,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N240",
+        "item": "I often feel fully charged and eager to tackle challenges.",
+        "expected_trait": "Zest",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.6921493648929655,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N241",
+        "item": "I am a true life-long learner.",
+        "expected_trait": "Love of Learning",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9995831631997354,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N242",
+        "item": "I try to have good reasons for my important decisions.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.11954119361249917,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N243",
+        "item": "I feel comfortable reaching conclusions without weighing the pros and cons.",
+        "expected_trait": "Judgment",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N1",
+        "item": "I do not give into temptation.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.7129625325625526,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N2",
+        "item": "I enjoy setting challenging goals and making plans to reach them.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.6662774740703556,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N3",
+        "item": "I often make choices that feel good right away, even if they may be bad for me in the future.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.5976172322521018,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N4",
+        "item": "I can resist temptations that might lead me away from my goals.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.7649014357839794,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N5",
+        "item": "I choose to let go of negative feelings towards someone rather than dwell on them.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.28924886121734306,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N6",
+        "item": "I give others an opportunity to make their point without me interrupting.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3358210916322636,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N7",
+        "item": "I feel confident when thinking about my long-term goals.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.6792139489118522,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N8",
+        "item": "I think before I act, considering the consequences of my actions.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6556693837076415,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N9",
+        "item": "I often make impulsive purchases or decisions, later realizing they weren't in my best interest.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.38078769300287857,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N10",
+        "item": "I think through the consequences every time before I act.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8426479463152425,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N11",
+        "item": "I often expect others to compliment me on my successes.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N12",
+        "item": "I often find myself mesmerized by a beautiful sunset or a breathtaking work of art.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5753726744206736,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N13",
+        "item": "I am known for my good sense of humor.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.5887403872714123,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N14",
+        "item": "I like to be the center of attention and will do things to draw attention to myself.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.308530117071098,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N15",
+        "item": "I often feel like my efforts are pointless because nothing good will come of them.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.28331305326381495,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N16",
+        "item": "I encourage my teammates by recognizing and appreciating their efforts.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.5773244764384056,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N17",
+        "item": "I am a highly disciplined person.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9809519015968008,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N18",
+        "item": "I find it challenging to motivate my peers to work towards a common goal.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.23855466639037473,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N19",
+        "item": "I typically neglect checking up on the tasks assigned to my team.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.25601639269944615,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N20",
+        "item": "I often feel a sense of appreciation for the help I receive from others, whether it's big or small.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.36925648383980925,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N21",
+        "item": "I struggle to see past people's flaws once they have disappointed me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.35259604991716875,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N22",
+        "item": "I frequently weigh the pros and cons before taking action.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.5943276697186615,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N23",
+        "item": "I struggle to come up with solutions to problems that I face.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.4199911480398634,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N24",
+        "item": "I often wait for others to take the lead instead of stepping up myself.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.1364299077256162,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N25",
+        "item": "I make an effort to listen to all sides before coming to a decision.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.14126329298059592,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N26",
+        "item": "I prefer to shift the focus of others' attention to their accomplishments rather than my own.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.5487464602119767,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N27",
+        "item": "I am mindful of my thoughts and behaviors, and make conscious efforts to improve them.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.7357653744418892,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N28",
+        "item": "I prioritize my tasks and manage my time effectively.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.7680831492700895,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N29",
+        "item": "I am more likely to trust someone again after they've made an error.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.34786507094093083,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N30",
+        "item": "I tend to focus on the negative aspects of situations instead of trying to lighten the mood.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.1778285633848829,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N31",
+        "item": "I believe that it's pointless to plan because everything is up to chance.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N32",
+        "item": "I regularly take time to think about the things I'm thankful for, no matter how small they may seem.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.5273428444212541,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N33",
+        "item": "I enjoy being responsible for making decisions that benefit the group as a whole.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.4347061903959658,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N34",
+        "item": "I believe that all people are connected through a shared human experience, and that this understanding brings me greater compassion and empathy for others.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.322100056501653,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N35",
+        "item": "I experience deep emotions when I see beautiful things.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9231446635786654,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N36",
+        "item": "I usually rely on others to carry the load in a team setting, rather than contributing my own share.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.182955303003048,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N37",
+        "item": "I treat others in the same way that I hope to be treated in any situation.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.44448671579702903,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N38",
+        "item": "I do not think I have much to be grateful for.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N39",
+        "item": "I feel a sense of freedom when I choose not to dwell on past hurts.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.20494001907597198,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N40",
+        "item": "I notice and celebrate the small joys in my everyday experiences.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.4232237264798549,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N41",
+        "item": "I find it hard to believe in something greater than myself.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.08219072784035637,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N42",
+        "item": "I am a spiritual person.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9437150953683151,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N43",
+        "item": "I actively motivate others to work towards achieving a shared objective.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.7259128695476665,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N44",
+        "item": "One of my strengths is helping a group of people work well together even when they have their differences.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8360562163049843,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N45",
+        "item": "My friends always tell me I am a strong but fair leader.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9583351508589883,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N46",
+        "item": "I think joking around and being silly helps me navigate tough or awkward situations with more ease and humor.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.32240417259924187,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N47",
+        "item": "I sometimes act in ways that benefit me at the expense of fairness to others.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.18934993082934648,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N48",
+        "item": "I often experience a sense of peace and comfort when I contemplate my place in the world.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.21266363834017793,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N49",
+        "item": "People would call me a pessimist.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N50",
+        "item": "I struggle to keep my emotions in check during stressful situations.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3469398380172355,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N51",
+        "item": "I take responsibility for guiding my teammates during challenges.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.48166114226397866,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N52",
+        "item": "I make an effort to listen objectively to both sides of an argument before forming my own opinion.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3353194290650842,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N53",
+        "item": "I often allow a bad situation to take away my sense of humor.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.36180169776919685,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N54",
+        "item": "I find it challenging to think critically about my long-term goals and ambitions.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.30031143582143754,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N55",
+        "item": "I feel blessed to have such wonderful people in my life, including family and friends.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.24849560154926736,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N56",
+        "item": "I often take things for granted.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.1450488086608634,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N57",
+        "item": "I am an extremely grateful person.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9693580847232244,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N58",
+        "item": "I am skilled at coordinating tasks and activities to ensure everyone is working together effectively.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6942124943558428,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N59",
+        "item": "I always look for ways to help others grow and develop their skills.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.7320514648952656,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N60",
+        "item": "I often express my appreciation to the people who are important to me.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.4702981320218886,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N61",
+        "item": "I seldom stop to admire the intricate details in nature or man-made objects.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.21533023658490896,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N62",
+        "item": "I frequently notice small acts of excellence in everyday life, such as a perfectly crafted meal, a beautiful garden, or a well-designed product.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.48953494471423314,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N63",
+        "item": "I often ignore the beauty of nature around me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N64",
+        "item": "I've been known to seek revenge for personal slight or betrayal.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N65",
+        "item": "There are things I've resented for a long time.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.910450702974674,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N66",
+        "item": "I focus on the positive attributes of others, even if they have hurt me in the past.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4796810397621516,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N67",
+        "item": "I carefully consider the potential consequences of my actions before making decisions.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5102183597808565,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N68",
+        "item": "I always think through the potential consequences of my actions before making a decision.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.6231893604080797,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N69",
+        "item": "I seldom notice when things are particularly well done or crafted.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N70",
+        "item": "I strive to provide equal opportunities for everyone involved, regardless of personal beliefs.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.35164684487064785,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N71",
+        "item": "I find myself captivated by the intricate details I observe in artworks or natural scenes.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.4515460534941231,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N73",
+        "item": "I really enjoy being a part of a group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.912932308927707,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N74",
+        "item": "I feel excited about the possibilities that the future holds for me.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.7731507588056707,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N75",
+        "item": "I relish the opportunity to see the humorous side in challenging situations, making them seem less daunting.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.25662763620916035,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N76",
+        "item": "I am willing to admit when I don't know something and ask for help from others.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.6223398992539777,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N77",
+        "item": "I don't forget past wrongs.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.3518823177409893,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N78",
+        "item": "Even if I do not like someone, I treat him or her fairly.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.7724804948832027,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N79",
+        "item": "I have a hard time acknowledging when someone else has done something better than me.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.3434291594296313,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N80",
+        "item": "I often think about what I might regret if I don't plan carefully.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.4214128811098889,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N81",
+        "item": "I feel energized and motivated when thinking about my long-term goals.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.6558327163927605,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N82",
+        "item": "I lack self-discipline.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.4399473507815573,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N83",
+        "item": "Beauty in the world is not that important to me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N84",
+        "item": "I usually focus on the serious aspects of an issue rather than trying to find the joke.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.2968082373653143,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N85",
+        "item": "I often make decisions about others based on personal feelings or biases.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N86",
+        "item": "I have a hard time feeling inspired by exceptional achievements or works of art.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.1349858255979211,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N87",
+        "item": "I treat some people much better than others.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.31910032031778174,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N88",
+        "item": "I frequently envision a successful outcome for my future endeavors.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5093007567155042,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N89",
+        "item": "I rarely reflect on existential questions or the meaning of existence.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.03727019247971159,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N90",
+        "item": "I frequently take risks that make others worry about my well-being.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.11074457782159755,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N91",
+        "item": "My beliefs make my life important.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N92",
+        "item": "I have a habit of thinking positively and picturing a bright future.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.4843130033978512,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N93",
+        "item": "I rarely express appreciation to those around me.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.10058411272428965,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N94",
+        "item": "I sometimes believe that good things happen to me by chance rather than by merit.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.22552122159479251,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N95",
+        "item": "I generally find it hard to acknowledge my weaknesses.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.2997963109246614,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N96",
+        "item": "I often dwell on the mistakes others have made towards me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.20494001907597198,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N97",
+        "item": "It takes me a lot of time and effort to move past hurt and betrayal, and I often find it hard to fully heal.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.3258575725942942,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N98",
+        "item": "I feel a lack of sense of comfort and understanding in my daily life.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.07726653264489552,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N99",
+        "item": "I am often careless.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N100",
+        "item": "I have trouble sticking to my plans and often change my mind at the last minute.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.29438527124719294,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N101",
+        "item": "I frequently become discouraged by the amount of work required to reach my goals, and feel like giving up.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.46884752488532183,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N102",
+        "item": "I focus on the good in others, even when they have let me down.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.49094070050644284,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N103",
+        "item": "I often find myself mesmerized by breathtaking views or stunning works of art.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5445500481162301,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N104",
+        "item": "I am able to control my emotions, even in difficult situations.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.6188517137154322,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N105",
+        "item": "I frequently highlight my achievements to others.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.15233974066962183,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N106",
+        "item": "I try to deflect praise and recognition, preferring instead to shine a light on the contributions of those who have helped me succeed.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.6097929747429504,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N107",
+        "item": "I often acknowledge the contributions of others when discussing a team achievement.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.4177665111922181,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N108",
+        "item": "I take advantage of opportunities that I know others are not aware of or don't have access to.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": -0.017021338897177742,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N109",
+        "item": "I manage to keep my emotions in check during stressful situations.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.5123168311170272,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N110",
+        "item": "I find it difficult to connect with people through lighthearted bantering or jokes.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.27534837837831017,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N111",
+        "item": "I understand that everyone makes mistakes and don't hold grudges against them.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.4076203510966237,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N112",
+        "item": "I like to let people know about my accomplishments.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.21458969013816365,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N113",
+        "item": "I am frequently moved by the inspiring performances that showcase human excellence.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.37482385434093907,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N114",
+        "item": "I often overlook the positive experiences in my life.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N115",
+        "item": "I find it difficult to connect with others through playful jokes or teasing.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.27900769730352415,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N116",
+        "item": "I follow the rules and guidelines I set for myself to stay on track.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.7068813909461275,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N117",
+        "item": "I avoid taking charge in group settings and prefer others to make decisions.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.11150476083682798,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N118",
+        "item": "I often consider the potential outcomes of my actions before proceeding.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.40781769621925573,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N119",
+        "item": "I am confident that I can find a way to overcome any obstacle that comes my way.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.6593516270885382,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N120",
+        "item": "I readily acknowledge my mistakes and see them as opportunities to grow.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.436170386491733,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N121",
+        "item": "I often prioritize my individual goals over the goals of my group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.19897826330949078,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N122",
+        "item": "I do not believe there is a universal power or force.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.3557753260693877,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N123",
+        "item": "I seldom take time to admire or appreciate the beauty of nature, art, or music.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N124",
+        "item": "I value feedback from others and use it to improve myself.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.5555314063120265,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N125",
+        "item": "I frequently find myself complaining about problems that have simple solutions.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.1627442909312573,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N126",
+        "item": "I frequently indulge in bad habits instead of working to overcome them.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.18991860819287484,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N127",
+        "item": "I motivate others to reach their full potential in team settings.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6146251665248071,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N128",
+        "item": "I tend to prioritize my own interests over the goals of the group I'm working with.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.25702054446985817,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N129",
+        "item": "I often make impulsive decisions without thinking them through.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.09615285038756052,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N130",
+        "item": "I rarely take the time to appreciate the good things that happen to me.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N131",
+        "item": "I feel a deep sense of connection to something greater than myself, which guides my thoughts and actions.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.3044176935989211,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N132",
+        "item": "I do not believe that events have any purpose beyond their immediate consequences.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N133",
+        "item": "I see beauty that other people pass by without noticing.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.6927116239568997,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N134",
+        "item": "I find meaning and purpose in my daily activities by reflecting on how they contribute to a larger plan.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.3522295060296061,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N135",
+        "item": "I always strive to give everyone an equal chance to express their opinions.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.378468358140236,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N136",
+        "item": "I believe my ideas are better than those of my peers.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.23687776816927675,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N137",
+        "item": "I'm not afraid to be a bit silly or goofy, and I find that it helps others relax and feel more comfortable.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4006370492695557,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N138",
+        "item": "I frequently doubt my ability to find multiple solutions to obstacles that stand in my way.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.5635293368607327,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N139",
+        "item": "I believe that some individuals deserve more opportunities than others due to their background or circumstances.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N140",
+        "item": "I know that I will succeed with the goals I set for myself.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9998996989164504,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N141",
+        "item": "I remind myself of the good fortune I have daily.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6264204624460211,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N142",
+        "item": "I believe that some people deserve less opportunity because of their background.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N143",
+        "item": "I make sure to have a backup plan in case things don't go as expected.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.5457316731902347,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N144",
+        "item": "I have difficulty admitting when I am wrong, even if it means others might rely on me less.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3281232917582383,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N146",
+        "item": "I struggle to motivate and inspire others to achieve shared goals.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.17146876529552801,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N147",
+        "item": "I rarely hold a grudge.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.4961513935850923,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N148",
+        "item": "I often act on impulse without considering the potential consequences.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b, llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N149",
+        "item": "I often take the good things in my life for granted without stopping to appreciate them.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1,
+        "no_mediator_sample_001": -0.024466405797800184,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N150",
+        "item": "I usually let others take the lead, even when I have valuable ideas to share.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.08409337070432843,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N151",
+        "item": "I love to tease my friends and family in a playful way to bring a smile to their faces.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.3305566785658973,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N152",
+        "item": "I enjoy finding clever ways to make others laugh, turning ordinary moments into cheerful ones.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.28528662200739346,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N153",
+        "item": "I usually avoid playful teasing, even when it’s light-hearted.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.23248054759169529,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N154",
+        "item": "I feel a strong responsibility to follow through on commitments.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.5256792265846811,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N155",
+        "item": "I don't believe that my life has a higher purpose or meaning beyond my own self-interests.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N156",
+        "item": "I find comfort and strength in my beliefs during challenging times.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N157",
+        "item": "I am always humble about the good things that have happened to me.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9179354578292612,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N158",
+        "item": "I consider myself a follower.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.14690727695875397,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N159",
+        "item": "I often find myself making witty remarks to lighten the mood in a room.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.39169785652291333,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N160",
+        "item": "I aim to hold myself and others to the same standards, without showing favoritism or prejudice.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.44701726366823047,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N161",
+        "item": "I don't believe that there is anything beyond what we can see and touch in this world.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.13818127135628097,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N162",
+        "item": "I usually try to do things on my own, even when it would be more effective to work with others.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.25704116159639406,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N163",
+        "item": "It's hard for me to laugh when I'm in a bad mood.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9333720676471794,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N164",
+        "item": "I am committed to doing my fair share of the work and meeting deadlines to ensure the success of my group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.613674123575268,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N165",
+        "item": "I find joy in sharing jokes and puns during conversations.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.29905756377888365,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N166",
+        "item": "I prioritize reaching fair solutions, even if they are to benefit some before others.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8,
+        "no_mediator_sample_001": -0.005154141943057889,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N167",
+        "item": "I often struggle to contribute to group assignments.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.2934337565594135,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N168",
+        "item": "I treat all people equally regardless of who they might be.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.7745900306027301,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N169",
+        "item": "I prefer to work with a specific set of tasks or duties rather than managing a diverse team with multiple responsibilities.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.26866815960500207,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N170",
+        "item": "I maintain a respectful and composed demeanor, even when others around me are frustrated.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.5692177117515116,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N171",
+        "item": "I often wait for others to take charge before contributing to a group project.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.13707042557543117,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N172",
+        "item": "I believe that people should be punished for their mistakes, no matter how small.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N173",
+        "item": "I actively seek opportunities to guide group activities and projects.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.5121244472693282,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N174",
+        "item": "I often seek out opportunities to nurture and deepen my sense of connectedness to the world around me.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.3203377988891465,
+        "no_mediator_sample_001_rank": 7
+    },
+    {
+        "question_id": "N175",
+        "item": "I try to add some humor to whatever I do.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.41388973118265987,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N176",
+        "item": "I am deeply moved by stories of selfless acts and heroic deeds that inspire me to be a better person.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.32265767807271084,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N177",
+        "item": "I don't spend time reflecting on the emotional impact of a powerful performance or speech.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.2197576316839547,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N178",
+        "item": "I am willing to put the needs of my group ahead of my own individual interests.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6727453857504743,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N179",
+        "item": "I focus more on what I lack rather than what I have.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.35777662195280596,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N180",
+        "item": "I persist in pursuing my ambitions, trusting that things will improve.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.5042906906462398,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N181",
+        "item": "I often struggle to motivate myself, let alone others, to work towards a common goal.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.22022733686914608,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N182",
+        "item": "I feel a strong responsibility to contribute my share of work to group projects.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.45372607020737843,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N183",
+        "item": "I never think before I speak.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N184",
+        "item": "I enjoy exploring art galleries or museums because they fill me with awe and inspiration.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.5677840113422907,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N185",
+        "item": "I have been told that modesty is one of my most notable characteristics.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9589619401468507,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N186",
+        "item": "I often seek to understand the bigger picture of my life's purpose.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.1425357231847352,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N187",
+        "item": "I love planning fun activities that make everyone laugh and enjoy themselves.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.47285385944615865,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N188",
+        "item": "It is important to me to respect decisions made by my group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.35542588565831956,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N189",
+        "item": "I often feel that my circumstances will never improve.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.3790241064487269,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N190",
+        "item": "I am naturally inclined to assume responsibility and guide my team towards success.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6111290194946202,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N191",
+        "item": "I have a strong sense of faith that guides my decisions and actions.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3156387100202805,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N192",
+        "item": "I rarely think about how my actions affect the world around me.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.08219072784035637,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N193",
+        "item": "Some people get emotional about beautiful things, but not me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N194",
+        "item": "I feel deeply moved when I witness acts of kindness or compassion in others.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.3683480627513885,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N195",
+        "item": "I accept constructive criticism without becoming defensive or dismissive of it.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6619434468302698,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N196",
+        "item": "I get easily agitated under stress and pressure.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.11559101327196995,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N197",
+        "item": "I tend to get easily agitated and lose my temper when things don't go my way.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.22176425948784426,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N198",
+        "item": "I often find myself waiting for others to make decisions or provide direction rather than taking the lead myself.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.1395284192666513,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N199",
+        "item": "I feel a profound sense of appreciation every day.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.6947174467276471,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N200",
+        "item": "I generally have a positive attitude towards the good things that happen in my life.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.45316745685336063,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N201",
+        "item": "I often find myself acting on impulse without thinking through the consequences.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.31067473679936086,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N202",
+        "item": "I find myself rejoicing in times when others recognize my efforts or abilities.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.4894967974845444,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N203",
+        "item": "I seldom create detailed plans before starting a new project or task.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.21940969210581254,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N204",
+        "item": "When I think about the future, I feel hopeless.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N205",
+        "item": "I struggle to see the beauty in things and often need others to point it out to me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": -0.014061023499783448,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N206",
+        "item": "I treat people unfairly if I do not like them.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N207",
+        "item": "I frequently feel uncomfortable or awkward when trying to use teasing or playful banter with friends or acquaintances.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8,
+        "no_mediator_sample_001": 0.24578997045819295,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N208",
+        "item": "I usually treat people differently depending on my mood or personal feelings about them.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8,
+        "no_mediator_sample_001": -0.006394795998352338,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N209",
+        "item": "I often think that the challenges I face are insurmountable.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.33525614494633094,
+        "no_mediator_sample_001_rank": 13
+    },
+    {
+        "question_id": "N210",
+        "item": "I actively seek to understand the emotions behind others' actions rather than focusing on my own hurt.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.4791046445648592,
+        "no_mediator_sample_001_rank": 5
+    },
+    {
+        "question_id": "N211",
+        "item": "I rarely give people a second chance after they disappoint me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.20083300466563184,
+        "no_mediator_sample_001_rank": 16
+    },
+    {
+        "question_id": "N212",
+        "item": "I frequently engage in activities that may put me at risk of physical harm.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.31859819098579933,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N213",
+        "item": "I often make hasty decisions without considering the long-term consequences.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 2
+    },
+    {
+        "question_id": "N214",
+        "item": "I often refrain from playful teasing, as it rarely occurs to me to do so.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.21536666150302927,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N215",
+        "item": "I often give in to temptation, even when I know it might be harmful.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.47598452583183815,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N216",
+        "item": "I am not easily moved by stories of courage, kindness, or selflessness.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.1349858255979211,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N218",
+        "item": "I often disregard the opinions of my group members when making decisions.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N219",
+        "item": "I am able to adjust my own work priorities to support my team members when needed.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.6425687206033867,
+        "no_mediator_sample_001_rank": 3
+    },
+    {
+        "question_id": "N220",
+        "item": "I often hold grudges and bring up past events during disagreements.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.20494001907597198,
+        "no_mediator_sample_001_rank": 12
+    },
+    {
+        "question_id": "N221",
+        "item": "I think carefully before making important decisions.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.40803808814005826,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N222",
+        "item": "I tend to hold grudges against those who have hurt or offended me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 4,
+        "no_mediator_sample_001": 0.20494001907597198,
+        "no_mediator_sample_001_rank": 14
+    },
+    {
+        "question_id": "N223",
+        "item": "I often make decisions based on my personal relationships rather than objective criteria.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1,
+        "no_mediator_sample_001": -0.009052682602790815,
+        "no_mediator_sample_001_rank": 15
+    },
+    {
+        "question_id": "N224",
+        "item": "I don't like being a member of groups.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.2006601339481218,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N225",
+        "item": "I like to call attention to myself.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.30855772730031383,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N226",
+        "item": "I always make careful choices.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.9358873977828833,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N227",
+        "item": "I feel fortunate for the opportunities I have in my life.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3771636697071099,
+        "no_mediator_sample_001_rank": 8
+    },
+    {
+        "question_id": "N228",
+        "item": "I tend to judge people based on assumptions and stereotypes rather than their actions.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.3101476059200885,
+        "no_mediator_sample_001_rank": 10
+    },
+    {
+        "question_id": "N229",
+        "item": "I am not a very spiritual person.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.13818127135628097,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N230",
+        "item": "I rarely reflect on my values and what truly matters to me.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7,
+        "no_mediator_sample_001": NaN,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N231",
+        "item": "I actively collaborate with my group members to achieve common goals and objectives.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.6990582393235557,
+        "no_mediator_sample_001_rank": 1
+    },
+    {
+        "question_id": "N232",
+        "item": "I prioritize uplifting others when they succeed, rather than emphasizing my own accomplishments.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5,
+        "no_mediator_sample_001": 0.38344544691688864,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N233",
+        "item": "I am always willing to give someone a chance to make amends.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.4961429657937061,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N234",
+        "item": "I actively contribute ideas during group discussions to help achieve our goals.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1,
+        "no_mediator_sample_001": 0.6225934826410949,
+        "no_mediator_sample_001_rank": 4
+    },
+    {
+        "question_id": "N235",
+        "item": "I work at my very best when I am a group member.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.8274092203758747,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N236",
+        "item": "I am committed to resolving issues through dialogue rather than letting misunderstandings create distance.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7,
+        "no_mediator_sample_001": 0.33620784804812187,
+        "no_mediator_sample_001_rank": 9
+    },
+    {
+        "question_id": "N237",
+        "item": "I tend to focus on what's missing in my life rather than what I already have.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.2860011742995663,
+        "no_mediator_sample_001_rank": 11
+    },
+    {
+        "question_id": "N238",
+        "item": "I tend to take myself too seriously, which can make it hard for me to be spontaneous or playful.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3,
+        "no_mediator_sample_001": 0.3047649507789598,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N239",
+        "item": "I make an effort to encourage and support my teammates in completing their tasks.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2,
+        "no_mediator_sample_001": 0.5954908313509608,
+        "no_mediator_sample_001_rank": 6
+    },
+    {
+        "question_id": "N240",
+        "item": "In a group setting, I rarely take the lead role.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.15832963894477503,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N241",
+        "item": "Despite challenges, I always remain hopeful about the future.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0,
+        "no_mediator_sample_001": 0.5094534077681456,
+        "no_mediator_sample_001_rank": -1
+    },
+    {
+        "question_id": "N242",
+        "item": "I find myself frequently giving up because I assume things won't get better.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6,
+        "no_mediator_sample_001": 0.24178895030780947,
+        "no_mediator_sample_001_rank": 15
+    }
+]

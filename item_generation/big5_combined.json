@@ -1,0 +1,2017 @@
+[
+    {
+        "q_id": "N1",
+        "item": "I make plans and stick to them.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N2",
+        "item": "I tend to bounce back quickly from emotional distress.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N3",
+        "item": "I find it easy to empathize with other people's feelings.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N4",
+        "item": "I am confident in my ability to persuade others and negotiate conflicts.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 14
+    },
+    {
+        "q_id": "N5",
+        "item": "I often seek out feedback from others on my ideas or proposals.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N6",
+        "item": "I ignore deadlines and submit work late.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N7",
+        "item": "I am very pleased with myself.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N8",
+        "item": "I would rather sit back and observe than participate.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N9",
+        "item": "I handle stress calmly and effectively.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N10",
+        "item": "I establish routines for regular activities like exercise or meal planning to maintain consistency and structure in my life.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N11",
+        "item": "I have frequent mood swings.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N12",
+        "item": "I appreciate the value of exploring unconventional and counterintuitive ideas and perspectives.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N13",
+        "item": "I have little to say.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N14",
+        "item": "I often prioritize my own interests over the needs of others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N15",
+        "item": "I avoid attending events or activities that involve new experiences.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N16",
+        "item": "In a group setting, I tend to focus on my own ideas rather than listening to others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N17",
+        "item": "I tend to be reckless and take unnecessary risks without considering consequences.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N18",
+        "item": "I have a vivid imagination.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N19",
+        "item": "I find joy in attending theater performances that push boundaries and challenge norms.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N20",
+        "item": "I dislike taking risks and trying new activities that might challenge me.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N21",
+        "item": "I love experimenting with new hobbies and interests.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N22",
+        "item": "I find it hard to bounce back after a setback.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N23",
+        "item": "I keep track of appointments, meetings, and important dates in a planner or digital calendar.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N24",
+        "item": "I tend to vote for conservative political candidates.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N25",
+        "item": "I find it hard to assert myself in group discussions or meetings.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N26",
+        "item": "I tend to express my emotions openly and share my thoughts about various experiences.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N27",
+        "item": "I often initiate conversations with strangers I meet.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N28",
+        "item": "I waste my time.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N29",
+        "item": "I enjoy attending social gatherings and events.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N30",
+        "item": "I review the details of my work to ensure accuracy.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N31",
+        "item": "I appreciate museums that showcase avant-garde exhibitions and installations.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N32",
+        "item": "I find it easy to forgive myself when I make mistakes.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N33",
+        "item": "I have a tendency to neglect planning and preparation for projects, leading to subpar results.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N34",
+        "item": "I regularly review my progress to ensure I'm on the right track.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N35",
+        "item": "I typically remain level-headed in the face of adversity.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N36",
+        "item": "I approach life's uncertainties without feeling anxious.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N37",
+        "item": "I sometimes feel self-conscious in social situations and worry about what others think of me.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N38",
+        "item": "I often find myself spending extended periods of time alone at home.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N39",
+        "item": "I am skilled in handling social situations.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N40",
+        "item": "I maintain a sense of inner peace despite outer circumstances.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N41",
+        "item": "I am able to manage my emotions effectively in stressful situations.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N42",
+        "item": "I avoid philosophical discussions.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N43",
+        "item": "I am willing to take on tasks that benefit the group as much as myself.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N44",
+        "item": "I am able to manage my emotions and stay calm in tense situations.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N45",
+        "item": "I aim to resolve disagreements in a peaceful manner.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N46",
+        "item": "I feel comfortable around people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N47",
+        "item": "I am open-minded and willing to consider different viewpoints.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N48",
+        "item": "I enjoy being around people and engaging in lively conversations.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N49",
+        "item": "I get chores done right away.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N50",
+        "item": "I often find that my best ideas come from brainstorming with others.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N51",
+        "item": "I use time-management techniques, such as prioritizing tasks or breaking them down into smaller steps, to stay productive.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N52",
+        "item": "I am comfortable meeting new people and striking up conversations with strangers.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N53",
+        "item": "I thrive on learning new skills, even if they are unrelated to my job.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 14
+    },
+    {
+        "q_id": "N54",
+        "item": "I try to be diplomatic and tactful when expressing my opinions or concerns.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N55",
+        "item": "I panic easily.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N56",
+        "item": "I often try new restaurants and cuisines to expose myself to different flavors.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N57",
+        "item": "I often feel like I'm on edge and easily irritated.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N58",
+        "item": "I tend to be more outgoing at social gatherings than most people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N59",
+        "item": "I sometimes disregard the consequences of my actions.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N60",
+        "item": "I seldom feel blue.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N61",
+        "item": "I take responsibility for my actions and apologize when I make mistakes.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N62",
+        "item": "I frequently assert my own interests at the expense of others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N63",
+        "item": "I am willing to do whatever it takes to win an argument.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 9
+    },
+    {
+        "q_id": "N64",
+        "item": "I often prefer to spend time alone, reading a book or watching a movie.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N65",
+        "item": "I often try to see things from other people's perspectives.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N66",
+        "item": "I have a good word for everyone.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N67",
+        "item": "I appreciate innovative ideas and solutions to problems.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N68",
+        "item": "I find it difficult to get down to work.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N69",
+        "item": "I am enthusiastic about inviting friends over or going out to socialize.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N70",
+        "item": "I am often down in the dumps.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N71",
+        "item": "I am hesitant to experiment with new foods.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N72",
+        "item": "I rarely enjoy exploring new places or cultures.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N73",
+        "item": "I love to explore new places when I travel.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N74",
+        "item": "I believe that there's only one right way to do things, and alternative methods are inferior.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N75",
+        "item": "I can hold my breath underwater for three hours without any equipment",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N76",
+        "item": "I enjoy exploring unfamiliar neighborhoods and locations.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N77",
+        "item": "I frequently maintain a positive outlook even when things go wrong.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N78",
+        "item": "I do just enough work to get by.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N79",
+        "item": "I take responsibility for my mistakes and work to correct them.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N80",
+        "item": "I often express my thoughts and feelings openly in groups.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N81",
+        "item": "I usually prefer to engage in quiet, low-key activities rather than loud or busy events.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N82",
+        "item": "I believe in finding common ground with others in order to resolve conflicts.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N83",
+        "item": "I get back at others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N84",
+        "item": "I tend to avoid activities that require imagination.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N85",
+        "item": "I am the life of the party.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N86",
+        "item": "I often feel inspired by different cultures and traditions.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N87",
+        "item": "I struggle to empathize with people who are distressed.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N88",
+        "item": "I often take the initiative to complete tasks on time, even when I don't feel like it.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N89",
+        "item": "I accept people as they are.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N90",
+        "item": "I often feel blue.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N91",
+        "item": "I enjoy working collaboratively rather than competitively.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N92",
+        "item": "I usually do not follow schedules or timetables.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N93",
+        "item": "I actively seek out unique experiences that challenge my perspective.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 10
+    },
+    {
+        "q_id": "N94",
+        "item": "I suspect hidden motives in others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N95",
+        "item": "I find inspiration in the works of innovative thinkers and inventors.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N96",
+        "item": "I often help others without expecting anything in return.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N97",
+        "item": "I often go out of my way to help people who are in need.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N98",
+        "item": "I make people feel at ease.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N99",
+        "item": "I feel energized when I'm surrounded by others, even in crowded spaces.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N100",
+        "item": "I enjoy meeting new people and make an effort to introduce myself at social gatherings.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N101",
+        "item": "I find large social gatherings to be overwhelming and tiring.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N102",
+        "item": "I rarely review or reflect on my past performance to identify areas for improvement.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N103",
+        "item": "I prefer one-on-one interactions over group settings.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 11
+    },
+    {
+        "q_id": "N104",
+        "item": "I find it difficult to keep my workspace organized.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N105",
+        "item": "I consistently meet deadlines for my assignments.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N106",
+        "item": "I tend to have a stable mood and do not feel frequently anxious or sad.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N107",
+        "item": "I respect others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N108",
+        "item": "I prioritize building strong, positive relationships with others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N109",
+        "item": "I feel energized when interacting with a group of people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N110",
+        "item": "I take pride in completing tasks to the best of my ability.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N111",
+        "item": "I don't see things through.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N112",
+        "item": "I enjoy interacting with a diverse range of people and learning from their perspectives.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N113",
+        "item": "I generally feel at peace with myself and my circumstances.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N114",
+        "item": "I've been known to turn down invitations from friends or family in favor of a quiet night at home.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N115",
+        "item": "I often leave tasks unfinished.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N116",
+        "item": "I keep my personal and professional commitments organized.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 14
+    },
+    {
+        "q_id": "N117",
+        "item": "I tend to overlook the needs of others when making plans.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N118",
+        "item": "I often prioritize my own needs over others' feelings.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N119",
+        "item": "I worry excessively about things that might go wrong.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N120",
+        "item": "I don't talk a lot.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N121",
+        "item": "I can bounce back quickly from setbacks and failures.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N122",
+        "item": "I follow through on commitments and promises I make to others.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N123",
+        "item": "I often choose solitary activities over group ones.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N124",
+        "item": "I easily become irritated when others disagree with me.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N125",
+        "item": "I avoid striking up conversations with strangers.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N126",
+        "item": "I am willing to lend a helping hand to those in need.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N127",
+        "item": "I rarely set achievable goals for myself and prioritize tasks effectively.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N128",
+        "item": "I struggle to appreciate the value of unconventional perspectives and ideas.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N129",
+        "item": "I often take my time getting started on tasks.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N130",
+        "item": "I make an effort to ensure everyone feels heard and respected in conversations.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N131",
+        "item": "I often feel anxious when I'm in unfamiliar situations.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N132",
+        "item": "I don't enjoy engaging in philosophical debates or discussions about abstract ideas.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N133",
+        "item": "I believe that treating others with kindness and compassion is essential for creating a positive community.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N134",
+        "item": "I create and stick to schedules to manage my time effectively.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N135",
+        "item": "I frequently worry about my health.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N136",
+        "item": "I sometimes struggle to maintain my composure during conflicts.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N137",
+        "item": "I cut others to pieces.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N138",
+        "item": "I sometimes have trouble relaxing even when nothing is wrong.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N139",
+        "item": "I enjoy engaging in thoughtful discussions about politics and social issues.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 11
+    },
+    {
+        "q_id": "N140",
+        "item": "I tend to avoid large social gatherings and parties.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N141",
+        "item": "I often dismiss the emotions of people around me.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N142",
+        "item": "I can easily let go of grudges and forgive others.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N143",
+        "item": "I find myself drawn to abstract art and unusual forms of self-expression.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N144",
+        "item": "I keep in the background.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N145",
+        "item": "I prioritize tasks based on their importance and deadlines.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N146",
+        "item": "I find it fascinating to learn about various cultures and traditions.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N147",
+        "item": "I tend to be understanding and patient with people who are having a tough time.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N148",
+        "item": "I enjoy helping others when they need support.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N149",
+        "item": "I struggle to make small talk with new people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N150",
+        "item": "I know how to captivate people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N151",
+        "item": "I regularly eat 50 pounds of chocolate in one sitting",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N152",
+        "item": "I prioritize being respectful and courteous towards others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N153",
+        "item": "I rarely establish goals for myself.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 10
+    },
+    {
+        "q_id": "N154",
+        "item": "I frequently feel overwhelmed by my emotions.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N155",
+        "item": "I frequently fail to follow up on incomplete tasks or projects.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N156",
+        "item": "I enjoy participating in team projects and collaborative work.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N157",
+        "item": "I often leave tasks unfinished or abandon them altogether.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N158",
+        "item": "I spend more time daydreaming than working on projects.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N159",
+        "item": "I often feel anxious about the future.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N160",
+        "item": "I am quick to criticize or judge those who disagree with me.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N161",
+        "item": "I carry out my plans.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N162",
+        "item": "I have little interest in new scientific discoveries.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N163",
+        "item": "I don't like to draw attention to myself.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N164",
+        "item": "I have a tendency to get distracted while working on tasks, leading to decreased productivity.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N165",
+        "item": "I enjoy attending lectures and workshops that introduce me to new ideas and techniques.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N166",
+        "item": "I often feel irritable or short-tempered, even with minor setbacks.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N167",
+        "item": "I often feel anxious about things that might go wrong in my life.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N168",
+        "item": "I pay attention to details.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N169",
+        "item": "I'm highly sensitive to criticism or negative feedback from others.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N170",
+        "item": "I consistently set personal goals and work diligently to achieve them.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N171",
+        "item": "I frequently forget important dates, appointments, or deadlines.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N172",
+        "item": "I like to follow trends rather than create my own unique style.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N173",
+        "item": "I don’t let fears hold me back from taking action.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N174",
+        "item": "I am not interested in abstract ideas.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N175",
+        "item": "I prefer to work independently rather than collaborate with others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N176",
+        "item": "I often feel difficult emotions lingering long after a triggering event.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N177",
+        "item": "I get bored if I'm stuck in a quiet, isolated environment for too long.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N178",
+        "item": "I find it difficult to appreciate the value of art that is outside of my usual tastes.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 11
+    },
+    {
+        "q_id": "N179",
+        "item": "I often make impulsive decisions without considering long-term consequences.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N180",
+        "item": "I frequently feel tense or anxious.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N181",
+        "item": "I would describe my experiences as somewhat dull.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N182",
+        "item": "I shirk my duties.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N183",
+        "item": "I rarely feel overwhelmed by anxiety or worry.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N184",
+        "item": "I have trouble relaxing and staying calm in stressful situations.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N185",
+        "item": "I stick to traditional ways of doing things and resist change.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N186",
+        "item": "I take pride in my attention to detail in all aspects of my work.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N187",
+        "item": "I often feel drained or exhausted after being around large groups of people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N188",
+        "item": "I have trouble coping with change or unexpected events.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N189",
+        "item": "I believe in the importance of art.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N190",
+        "item": "I feel at peace with myself, even in chaotic or uncertain environments.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N191",
+        "item": "I believe that others have good intentions.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N192",
+        "item": "I can be quite stubborn when I don't get my way.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N193",
+        "item": "I have a hard time creating and sticking to a schedule.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N194",
+        "item": "I rarely seek out opinions from peers before making a decision.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N195",
+        "item": "I make friends easily.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N196",
+        "item": "I frequently forget appointments and important meetings.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N197",
+        "item": "I frequently avoid meeting new people at events.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N198",
+        "item": "I rarely consider the feelings of others when expressing my opinions.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N199",
+        "item": "I get easily upset when things don't go according to plan.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 13
+    },
+    {
+        "q_id": "N200",
+        "item": "I enjoy hearing new ideas.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N201",
+        "item": "I usually feel optimistic about my future prospects.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 10
+    },
+    {
+        "q_id": "N202",
+        "item": "I believe in being kind even to those who may not deserve it.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N203",
+        "item": "I often interpret neutral situations as threatening.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N204",
+        "item": "I usually speak up in a disagreement, even if it means others might be offended.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N205",
+        "item": "I am resilient in the face of adversity.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N206",
+        "item": "I often prefer to spend time alone rather than with others.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N207",
+        "item": "I insult people.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N208",
+        "item": "I make detailed plans before taking on tasks.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N209",
+        "item": "In difficult conversations, I tend to be confrontational rather than diplomatic.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N210",
+        "item": "I often go out of my way to make someone feel better.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N211",
+        "item": "I seldom share my personal experiences with others spontaneously.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N212",
+        "item": "I am always prepared.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N213",
+        "item": "I usually resist changes in my daily habits and routines.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 12
+    },
+    {
+        "q_id": "N214",
+        "item": "I often worry about things going wrong.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N215",
+        "item": "I dislike myself.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N216",
+        "item": "I feel uncomfortable when faced with unfamiliar cultural practices.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N217",
+        "item": "I tend to take charge and lead the group.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N218",
+        "item": "I appreciate considering multiple perspectives in discussions.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 19
+    },
+    {
+        "q_id": "N219",
+        "item": "I review my progress regularly to ensure I'm meeting my goals.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 11
+    },
+    {
+        "q_id": "N220",
+        "item": "I'm not interested in learning about historical events or periods that are not significant to me.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N221",
+        "item": "I'm skeptical of modern art and prefer more traditional forms of artwork.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 9
+    },
+    {
+        "q_id": "N222",
+        "item": "I feel uncomfortable compromising on my beliefs for the sake of harmony.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 9
+    },
+    {
+        "q_id": "N223",
+        "item": "I find social gatherings exhausting and prefer spending time alone.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N224",
+        "item": "I find it difficult to prioritize tasks and often become disorganized.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N225",
+        "item": "I easily forgive others when they make mistakes.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N226",
+        "item": "I often engage in conversations about abstract ideas and intellectual concepts.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N227",
+        "item": "I have visited every planet in our solar system",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N228",
+        "item": "I am prone to feelings of guilt, shame, or self-blame.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N229",
+        "item": "I often handle pressure well without feeling overwhelmed or anxious.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 10
+    },
+    {
+        "q_id": "N230",
+        "item": "I am inclined to question norms and explore alternative viewpoints.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N231",
+        "item": "I feel drained after spending too much time around other people.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N232",
+        "item": "I often feel overwhelmed by new ideas or perspectives.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N233",
+        "item": "I tend to stick with what I know rather than experimenting with new things.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N234",
+        "item": "I carry the conversation to a higher level.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N235",
+        "item": "I rarely get irritated.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N236",
+        "item": "I am not easily bothered by things.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N237",
+        "item": "I'm not interested in exploring different genres of music or discovering new artists.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 18
+    },
+    {
+        "q_id": "N238",
+        "item": "I often watch documentaries to expand my knowledge on diverse topics.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N239",
+        "item": "I tend to vote for liberal political candidates.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N240",
+        "item": "I have a hard time compromising or finding middle ground with others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 17
+    },
+    {
+        "q_id": "N241",
+        "item": "I feel anxious when I have to start a conversation with someone new.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 14
+    },
+    {
+        "q_id": "N242",
+        "item": "I often approach problems with a sense of optimism and hope.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 15
+    },
+    {
+        "q_id": "N243",
+        "item": "I prefer dynamic and fast-paced activities over solitary ones.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 16
+    },
+    {
+        "q_id": "N244",
+        "item": "I do not like art.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N245",
+        "item": "I prioritize my success over collaboration with others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N246",
+        "item": "I have a sharp tongue.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N247",
+        "item": "I often find that new art exhibitions are too confusing for me to appreciate.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N248",
+        "item": "I am meticulous in double-checking my work for accuracy and detail.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N249",
+        "item": "I like being around others who share similar interests, even if it means being in a crowded place.",
+        "expected_trait": "Extraversion",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N250",
+        "item": "I often feel indifferent towards the struggles of others.",
+        "expected_trait": "Agreeableness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 20
+    },
+    {
+        "q_id": "N251",
+        "item": "I feel comfortable with myself.",
+        "expected_trait": "Neuroticism",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N252",
+        "item": "I do not enjoy going to art museums.",
+        "expected_trait": "Openness to experience",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N253",
+        "item": "I enjoy creating detailed plans before starting new projects.",
+        "expected_trait": "Conscientiousness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 14
+    }
+]

@@ -1,0 +1,1929 @@
+[
+    {
+        "q_id": "N1",
+        "item": "I do not give into temptation.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N2",
+        "item": "I enjoy setting challenging goals and making plans to reach them.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N3",
+        "item": "I often make choices that feel good right away, even if they may be bad for me in the future.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N4",
+        "item": "I can resist temptations that might lead me away from my goals.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N5",
+        "item": "I choose to let go of negative feelings towards someone rather than dwell on them.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N6",
+        "item": "I give others an opportunity to make their point without me interrupting.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N7",
+        "item": "I feel confident when thinking about my long-term goals.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N8",
+        "item": "I think before I act, considering the consequences of my actions.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N9",
+        "item": "I often make impulsive purchases or decisions, later realizing they weren't in my best interest.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N10",
+        "item": "I think through the consequences every time before I act.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N11",
+        "item": "I often expect others to compliment me on my successes.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N12",
+        "item": "I often find myself mesmerized by a beautiful sunset or a breathtaking work of art.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N13",
+        "item": "I am known for my good sense of humor.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N14",
+        "item": "I like to be the center of attention and will do things to draw attention to myself.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N15",
+        "item": "I often feel like my efforts are pointless because nothing good will come of them.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N16",
+        "item": "I encourage my teammates by recognizing and appreciating their efforts.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N17",
+        "item": "I am a highly disciplined person.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N18",
+        "item": "I find it challenging to motivate my peers to work towards a common goal.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N19",
+        "item": "I typically neglect checking up on the tasks assigned to my team.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N20",
+        "item": "I often feel a sense of appreciation for the help I receive from others, whether it's big or small.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N21",
+        "item": "I struggle to see past people's flaws once they have disappointed me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N22",
+        "item": "I frequently weigh the pros and cons before taking action.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N23",
+        "item": "I struggle to come up with solutions to problems that I face.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N24",
+        "item": "I often wait for others to take the lead instead of stepping up myself.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N25",
+        "item": "I make an effort to listen to all sides before coming to a decision.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N26",
+        "item": "I prefer to shift the focus of others' attention to their accomplishments rather than my own.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N27",
+        "item": "I am mindful of my thoughts and behaviors, and make conscious efforts to improve them.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N28",
+        "item": "I prioritize my tasks and manage my time effectively.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N29",
+        "item": "I am more likely to trust someone again after they've made an error.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N30",
+        "item": "I tend to focus on the negative aspects of situations instead of trying to lighten the mood.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N31",
+        "item": "I believe that it's pointless to plan because everything is up to chance.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N32",
+        "item": "I regularly take time to think about the things I'm thankful for, no matter how small they may seem.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N33",
+        "item": "I enjoy being responsible for making decisions that benefit the group as a whole.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N34",
+        "item": "I believe that all people are connected through a shared human experience, and that this understanding brings me greater compassion and empathy for others.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N35",
+        "item": "I experience deep emotions when I see beautiful things.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N36",
+        "item": "I usually rely on others to carry the load in a team setting, rather than contributing my own share.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N37",
+        "item": "I treat others in the same way that I hope to be treated in any situation.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N38",
+        "item": "I do not think I have much to be grateful for.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N39",
+        "item": "I feel a sense of freedom when I choose not to dwell on past hurts.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N40",
+        "item": "I notice and celebrate the small joys in my everyday experiences.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N41",
+        "item": "I find it hard to believe in something greater than myself.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N42",
+        "item": "I am a spiritual person.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N43",
+        "item": "I actively motivate others to work towards achieving a shared objective.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N44",
+        "item": "One of my strengths is helping a group of people work well together even when they have their differences.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N45",
+        "item": "My friends always tell me I am a strong but fair leader.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N46",
+        "item": "I think joking around and being silly helps me navigate tough or awkward situations with more ease and humor.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N47",
+        "item": "I sometimes act in ways that benefit me at the expense of fairness to others.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N48",
+        "item": "I often experience a sense of peace and comfort when I contemplate my place in the world.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N49",
+        "item": "People would call me a pessimist.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N50",
+        "item": "I struggle to keep my emotions in check during stressful situations.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N51",
+        "item": "I take responsibility for guiding my teammates during challenges.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N52",
+        "item": "I make an effort to listen objectively to both sides of an argument before forming my own opinion.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N53",
+        "item": "I often allow a bad situation to take away my sense of humor.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N54",
+        "item": "I find it challenging to think critically about my long-term goals and ambitions.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N55",
+        "item": "I feel blessed to have such wonderful people in my life, including family and friends.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N56",
+        "item": "I often take things for granted.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N57",
+        "item": "I am an extremely grateful person.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N58",
+        "item": "I am skilled at coordinating tasks and activities to ensure everyone is working together effectively.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N59",
+        "item": "I always look for ways to help others grow and develop their skills.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N60",
+        "item": "I often express my appreciation to the people who are important to me.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N61",
+        "item": "I seldom stop to admire the intricate details in nature or man-made objects.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N62",
+        "item": "I frequently notice small acts of excellence in everyday life, such as a perfectly crafted meal, a beautiful garden, or a well-designed product.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N63",
+        "item": "I often ignore the beauty of nature around me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N64",
+        "item": "I've been known to seek revenge for personal slight or betrayal.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N65",
+        "item": "There are things I've resented for a long time.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N66",
+        "item": "I focus on the positive attributes of others, even if they have hurt me in the past.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N67",
+        "item": "I carefully consider the potential consequences of my actions before making decisions.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N68",
+        "item": "I always think through the potential consequences of my actions before making a decision.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N69",
+        "item": "I seldom notice when things are particularly well done or crafted.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N70",
+        "item": "I strive to provide equal opportunities for everyone involved, regardless of personal beliefs.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N71",
+        "item": "I find myself captivated by the intricate details I observe in artworks or natural scenes.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N72",
+        "item": "I invented the internet in my backyard",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N73",
+        "item": "I really enjoy being a part of a group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N74",
+        "item": "I feel excited about the possibilities that the future holds for me.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N75",
+        "item": "I relish the opportunity to see the humorous side in challenging situations, making them seem less daunting.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N76",
+        "item": "I am willing to admit when I don't know something and ask for help from others.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N77",
+        "item": "I don't forget past wrongs.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N78",
+        "item": "Even if I do not like someone, I treat him or her fairly.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N79",
+        "item": "I have a hard time acknowledging when someone else has done something better than me.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N80",
+        "item": "I often think about what I might regret if I don't plan carefully.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N81",
+        "item": "I feel energized and motivated when thinking about my long-term goals.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N82",
+        "item": "I lack self-discipline.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N83",
+        "item": "Beauty in the world is not that important to me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N84",
+        "item": "I usually focus on the serious aspects of an issue rather than trying to find the joke.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N85",
+        "item": "I often make decisions about others based on personal feelings or biases.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N86",
+        "item": "I have a hard time feeling inspired by exceptional achievements or works of art.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N87",
+        "item": "I treat some people much better than others.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N88",
+        "item": "I frequently envision a successful outcome for my future endeavors.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N89",
+        "item": "I rarely reflect on existential questions or the meaning of existence.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N90",
+        "item": "I frequently take risks that make others worry about my well-being.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N91",
+        "item": "My beliefs make my life important.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N92",
+        "item": "I have a habit of thinking positively and picturing a bright future.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N93",
+        "item": "I rarely express appreciation to those around me.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N94",
+        "item": "I sometimes believe that good things happen to me by chance rather than by merit.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N95",
+        "item": "I generally find it hard to acknowledge my weaknesses.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N96",
+        "item": "I often dwell on the mistakes others have made towards me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N97",
+        "item": "It takes me a lot of time and effort to move past hurt and betrayal, and I often find it hard to fully heal.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N98",
+        "item": "I feel a lack of sense of comfort and understanding in my daily life.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N99",
+        "item": "I am often careless.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N100",
+        "item": "I have trouble sticking to my plans and often change my mind at the last minute.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N101",
+        "item": "I frequently become discouraged by the amount of work required to reach my goals, and feel like giving up.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N102",
+        "item": "I focus on the good in others, even when they have let me down.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N103",
+        "item": "I often find myself mesmerized by breathtaking views or stunning works of art.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N104",
+        "item": "I am able to control my emotions, even in difficult situations.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N105",
+        "item": "I frequently highlight my achievements to others.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N106",
+        "item": "I try to deflect praise and recognition, preferring instead to shine a light on the contributions of those who have helped me succeed.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N107",
+        "item": "I often acknowledge the contributions of others when discussing a team achievement.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N108",
+        "item": "I take advantage of opportunities that I know others are not aware of or don't have access to.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N109",
+        "item": "I manage to keep my emotions in check during stressful situations.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N110",
+        "item": "I find it difficult to connect with people through lighthearted bantering or jokes.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N111",
+        "item": "I understand that everyone makes mistakes and don't hold grudges against them.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N112",
+        "item": "I like to let people know about my accomplishments.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N113",
+        "item": "I am frequently moved by the inspiring performances that showcase human excellence.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N114",
+        "item": "I often overlook the positive experiences in my life.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N115",
+        "item": "I find it difficult to connect with others through playful jokes or teasing.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N116",
+        "item": "I follow the rules and guidelines I set for myself to stay on track.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N117",
+        "item": "I avoid taking charge in group settings and prefer others to make decisions.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N118",
+        "item": "I often consider the potential outcomes of my actions before proceeding.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N119",
+        "item": "I am confident that I can find a way to overcome any obstacle that comes my way.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N120",
+        "item": "I readily acknowledge my mistakes and see them as opportunities to grow.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N121",
+        "item": "I often prioritize my individual goals over the goals of my group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N122",
+        "item": "I do not believe there is a universal power or force.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N123",
+        "item": "I seldom take time to admire or appreciate the beauty of nature, art, or music.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N124",
+        "item": "I value feedback from others and use it to improve myself.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N125",
+        "item": "I frequently find myself complaining about problems that have simple solutions.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N126",
+        "item": "I frequently indulge in bad habits instead of working to overcome them.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N127",
+        "item": "I motivate others to reach their full potential in team settings.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N128",
+        "item": "I tend to prioritize my own interests over the goals of the group I'm working with.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N129",
+        "item": "I often make impulsive decisions without thinking them through.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N130",
+        "item": "I rarely take the time to appreciate the good things that happen to me.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N131",
+        "item": "I feel a deep sense of connection to something greater than myself, which guides my thoughts and actions.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N132",
+        "item": "I do not believe that events have any purpose beyond their immediate consequences.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N133",
+        "item": "I see beauty that other people pass by without noticing.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N134",
+        "item": "I find meaning and purpose in my daily activities by reflecting on how they contribute to a larger plan.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N135",
+        "item": "I always strive to give everyone an equal chance to express their opinions.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N136",
+        "item": "I believe my ideas are better than those of my peers.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N137",
+        "item": "I'm not afraid to be a bit silly or goofy, and I find that it helps others relax and feel more comfortable.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N138",
+        "item": "I frequently doubt my ability to find multiple solutions to obstacles that stand in my way.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N139",
+        "item": "I believe that some individuals deserve more opportunities than others due to their background or circumstances.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N140",
+        "item": "I know that I will succeed with the goals I set for myself.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N141",
+        "item": "I remind myself of the good fortune I have daily.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N142",
+        "item": "I believe that some people deserve less opportunity because of their background.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N143",
+        "item": "I make sure to have a backup plan in case things don't go as expected.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N144",
+        "item": "I have difficulty admitting when I am wrong, even if it means others might rely on me less.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N145",
+        "item": "I have never slept in my entire life and feel completely rested",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N146",
+        "item": "I struggle to motivate and inspire others to achieve shared goals.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N147",
+        "item": "I rarely hold a grudge.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N148",
+        "item": "I often act on impulse without considering the potential consequences.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b, llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N149",
+        "item": "I often take the good things in my life for granted without stopping to appreciate them.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N150",
+        "item": "I usually let others take the lead, even when I have valuable ideas to share.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N151",
+        "item": "I love to tease my friends and family in a playful way to bring a smile to their faces.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N152",
+        "item": "I enjoy finding clever ways to make others laugh, turning ordinary moments into cheerful ones.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N153",
+        "item": "I usually avoid playful teasing, even when it’s light-hearted.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N154",
+        "item": "I feel a strong responsibility to follow through on commitments.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N155",
+        "item": "I don't believe that my life has a higher purpose or meaning beyond my own self-interests.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N156",
+        "item": "I find comfort and strength in my beliefs during challenging times.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N157",
+        "item": "I am always humble about the good things that have happened to me.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N158",
+        "item": "I consider myself a follower.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N159",
+        "item": "I often find myself making witty remarks to lighten the mood in a room.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N160",
+        "item": "I aim to hold myself and others to the same standards, without showing favoritism or prejudice.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N161",
+        "item": "I don't believe that there is anything beyond what we can see and touch in this world.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N162",
+        "item": "I usually try to do things on my own, even when it would be more effective to work with others.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N163",
+        "item": "It's hard for me to laugh when I'm in a bad mood.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N164",
+        "item": "I am committed to doing my fair share of the work and meeting deadlines to ensure the success of my group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N165",
+        "item": "I find joy in sharing jokes and puns during conversations.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N166",
+        "item": "I prioritize reaching fair solutions, even if they are to benefit some before others.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N167",
+        "item": "I often struggle to contribute to group assignments.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N168",
+        "item": "I treat all people equally regardless of who they might be.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N169",
+        "item": "I prefer to work with a specific set of tasks or duties rather than managing a diverse team with multiple responsibilities.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N170",
+        "item": "I maintain a respectful and composed demeanor, even when others around me are frustrated.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N171",
+        "item": "I often wait for others to take charge before contributing to a group project.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N172",
+        "item": "I believe that people should be punished for their mistakes, no matter how small.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N173",
+        "item": "I actively seek opportunities to guide group activities and projects.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N174",
+        "item": "I often seek out opportunities to nurture and deepen my sense of connectedness to the world around me.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N175",
+        "item": "I try to add some humor to whatever I do.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N176",
+        "item": "I am deeply moved by stories of selfless acts and heroic deeds that inspire me to be a better person.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N177",
+        "item": "I don't spend time reflecting on the emotional impact of a powerful performance or speech.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N178",
+        "item": "I am willing to put the needs of my group ahead of my own individual interests.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N179",
+        "item": "I focus more on what I lack rather than what I have.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N180",
+        "item": "I persist in pursuing my ambitions, trusting that things will improve.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 6
+    },
+    {
+        "q_id": "N181",
+        "item": "I often struggle to motivate myself, let alone others, to work towards a common goal.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N182",
+        "item": "I feel a strong responsibility to contribute my share of work to group projects.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N183",
+        "item": "I never think before I speak.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N184",
+        "item": "I enjoy exploring art galleries or museums because they fill me with awe and inspiration.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N185",
+        "item": "I have been told that modesty is one of my most notable characteristics.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N186",
+        "item": "I often seek to understand the bigger picture of my life's purpose.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N187",
+        "item": "I love planning fun activities that make everyone laugh and enjoy themselves.",
+        "expected_trait": "Humor",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N188",
+        "item": "It is important to me to respect decisions made by my group.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N189",
+        "item": "I often feel that my circumstances will never improve.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N190",
+        "item": "I am naturally inclined to assume responsibility and guide my team towards success.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N191",
+        "item": "I have a strong sense of faith that guides my decisions and actions.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N192",
+        "item": "I rarely think about how my actions affect the world around me.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N193",
+        "item": "Some people get emotional about beautiful things, but not me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N194",
+        "item": "I feel deeply moved when I witness acts of kindness or compassion in others.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N195",
+        "item": "I accept constructive criticism without becoming defensive or dismissive of it.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N196",
+        "item": "I get easily agitated under stress and pressure.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N197",
+        "item": "I tend to get easily agitated and lose my temper when things don't go my way.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N198",
+        "item": "I often find myself waiting for others to make decisions or provide direction rather than taking the lead myself.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N199",
+        "item": "I feel a profound sense of appreciation every day.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N200",
+        "item": "I generally have a positive attitude towards the good things that happen in my life.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N201",
+        "item": "I often find myself acting on impulse without thinking through the consequences.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N202",
+        "item": "I find myself rejoicing in times when others recognize my efforts or abilities.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N203",
+        "item": "I seldom create detailed plans before starting a new project or task.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N204",
+        "item": "When I think about the future, I feel hopeless.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N205",
+        "item": "I struggle to see the beauty in things and often need others to point it out to me.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N206",
+        "item": "I treat people unfairly if I do not like them.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N207",
+        "item": "I frequently feel uncomfortable or awkward when trying to use teasing or playful banter with friends or acquaintances.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N208",
+        "item": "I usually treat people differently depending on my mood or personal feelings about them.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 8
+    },
+    {
+        "q_id": "N209",
+        "item": "I often think that the challenges I face are insurmountable.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N210",
+        "item": "I actively seek to understand the emotions behind others' actions rather than focusing on my own hurt.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N211",
+        "item": "I rarely give people a second chance after they disappoint me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N212",
+        "item": "I frequently engage in activities that may put me at risk of physical harm.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N213",
+        "item": "I often make hasty decisions without considering the long-term consequences.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N214",
+        "item": "I often refrain from playful teasing, as it rarely occurs to me to do so.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N215",
+        "item": "I often give in to temptation, even when I know it might be harmful.",
+        "expected_trait": "Self-Regulation",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N216",
+        "item": "I am not easily moved by stories of courage, kindness, or selflessness.",
+        "expected_trait": "Appreciation of Beauty & Excellence",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N217",
+        "item": "I can grow a full beard in under five minutes",
+        "expected_trait": "bogus"
+    },
+    {
+        "q_id": "N218",
+        "item": "I often disregard the opinions of my group members when making decisions.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N219",
+        "item": "I am able to adjust my own work priorities to support my team members when needed.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N220",
+        "item": "I often hold grudges and bring up past events during disagreements.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N221",
+        "item": "I think carefully before making important decisions.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N222",
+        "item": "I tend to hold grudges against those who have hurt or offended me.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 4
+    },
+    {
+        "q_id": "N223",
+        "item": "I often make decisions based on my personal relationships rather than objective criteria.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N224",
+        "item": "I don't like being a member of groups.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N225",
+        "item": "I like to call attention to myself.",
+        "expected_trait": "Humility",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N226",
+        "item": "I always make careful choices.",
+        "expected_trait": "Prudence",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N227",
+        "item": "I feel fortunate for the opportunities I have in my life.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "positive",
+        "source": "gpt-4o-mini",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N228",
+        "item": "I tend to judge people based on assumptions and stereotypes rather than their actions.",
+        "expected_trait": "Fairness",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N229",
+        "item": "I am not a very spiritual person.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N230",
+        "item": "I rarely reflect on my values and what truly matters to me.",
+        "expected_trait": "Spirituality",
+        "expected_correlation": "negative",
+        "source": "gpt-4o-mini",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N231",
+        "item": "I actively collaborate with my group members to achieve common goals and objectives.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "llama3.1-8b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N232",
+        "item": "I prioritize uplifting others when they succeed, rather than emphasizing my own accomplishments.",
+        "expected_trait": "Humility",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 5
+    },
+    {
+        "q_id": "N233",
+        "item": "I am always willing to give someone a chance to make amends.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N234",
+        "item": "I actively contribute ideas during group discussions to help achieve our goals.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 1
+    },
+    {
+        "q_id": "N235",
+        "item": "I work at my very best when I am a group member.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N236",
+        "item": "I am committed to resolving issues through dialogue rather than letting misunderstandings create distance.",
+        "expected_trait": "Forgiveness",
+        "expected_correlation": "positive",
+        "source": "llama3.3-70b",
+        "generated_number": 7
+    },
+    {
+        "q_id": "N237",
+        "item": "I tend to focus on what's missing in my life rather than what I already have.",
+        "expected_trait": "Gratitude",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N238",
+        "item": "I tend to take myself too seriously, which can make it hard for me to be spontaneous or playful.",
+        "expected_trait": "Humor",
+        "expected_correlation": "negative",
+        "source": "llama3.3-70b",
+        "generated_number": 3
+    },
+    {
+        "q_id": "N239",
+        "item": "I make an effort to encourage and support my teammates in completing their tasks.",
+        "expected_trait": "Teamwork",
+        "expected_correlation": "positive",
+        "source": "gpt-4o",
+        "generated_number": 2
+    },
+    {
+        "q_id": "N240",
+        "item": "In a group setting, I rarely take the lead role.",
+        "expected_trait": "Leadership",
+        "expected_correlation": "negative",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N241",
+        "item": "Despite challenges, I always remain hopeful about the future.",
+        "expected_trait": "Hope",
+        "expected_correlation": "positive",
+        "source": "psy",
+        "generated_number": 0
+    },
+    {
+        "q_id": "N242",
+        "item": "I find myself frequently giving up because I assume things won't get better.",
+        "expected_trait": "Hope",
+        "expected_correlation": "negative",
+        "source": "gpt-4o",
+        "generated_number": 6
+    }
+]

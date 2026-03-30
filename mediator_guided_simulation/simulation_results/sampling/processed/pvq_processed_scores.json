@@ -1,0 +1,9274 @@
+{
+  "id_169": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.5,
+          4.0
+        ],
+        "mean": 4.166666666666667
+      },
+      "overall_mean": 4.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          5.0,
+          4.0
+        ],
+        "mean": 3.75
+      },
+      "overall_mean": 3.75
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_091": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.5,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.5,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.375
+      },
+      "overall_mean": 5.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_170": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_171": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          6.0,
+          4.0
+        ],
+        "mean": 4.0
+      },
+      "overall_mean": 4.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_172": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.6
+      },
+      "overall_mean": 5.6
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.5,
+          4.5,
+          5.5,
+          4.0
+        ],
+        "mean": 4.875
+      },
+      "overall_mean": 4.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    }
+  },
+  "id_174": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.7
+      },
+      "overall_mean": 5.7
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_175": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_176": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.0,
+          6.0
+        ],
+        "mean": 5.7
+      },
+      "overall_mean": 5.7
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          6.0,
+          5.0
+        ],
+        "mean": 4.375
+      },
+      "overall_mean": 4.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_177": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.5,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          5.0,
+          4.0
+        ],
+        "mean": 3.75
+      },
+      "overall_mean": 3.75
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_103": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_178": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_179": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.625
+      },
+      "overall_mean": 5.625
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_180": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.125
+      },
+      "overall_mean": 4.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_181": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.0,
+          6.0,
+          4.0
+        ],
+        "mean": 4.875
+      },
+      "overall_mean": 4.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_182": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.125
+      },
+      "overall_mean": 4.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_183": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.5,
+          5.5
+        ],
+        "mean": 4.666666666666667
+      },
+      "overall_mean": 4.666666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          4.5,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0,
+          4.5
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_110": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_184": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.25
+      },
+      "overall_mean": 5.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_185": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.5,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.625
+      },
+      "overall_mean": 4.625
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_186": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          5.0,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_187": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_189": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_190": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.125
+      },
+      "overall_mean": 4.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_191": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          4.5,
+          5.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0,
+          5.0
+        ],
+        "mean": 5.625
+      },
+      "overall_mean": 5.625
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_192": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.375
+      },
+      "overall_mean": 5.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_194": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_195": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          5.0
+        ],
+        "mean": 4.333333333333333
+      },
+      "overall_mean": 4.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.5,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          2.0,
+          5.0,
+          4.5
+        ],
+        "mean": 4.125
+      },
+      "overall_mean": 4.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_196": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_197": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.5,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          3.0,
+          6.0,
+          4.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_198": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_199": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          5.5
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_200": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          4.5
+        ],
+        "mean": 4.166666666666667
+      },
+      "overall_mean": 4.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          5.5,
+          4.0
+        ],
+        "mean": 4.0
+      },
+      "overall_mean": 4.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_201": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          4.5,
+          5.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          1.5,
+          4.0,
+          4.0
+        ],
+        "mean": 3.375
+      },
+      "overall_mean": 3.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_202": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          4.5,
+          4.5,
+          6.0
+        ],
+        "mean": 5.4
+      },
+      "overall_mean": 5.4
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.125
+      },
+      "overall_mean": 4.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_203": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          4.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.7
+      },
+      "overall_mean": 5.7
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_204": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.25
+      },
+      "overall_mean": 5.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_205": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          6.0,
+          4.0
+        ],
+        "mean": 4.0
+      },
+      "overall_mean": 4.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_206": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.375
+      },
+      "overall_mean": 5.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_207": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          5.0,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_208": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_209": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.5
+        ],
+        "mean": 4.833333333333333
+      },
+      "overall_mean": 4.833333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          5.5,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_210": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.5,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.25
+      },
+      "overall_mean": 5.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_211": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_213": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.5,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_214": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          4.5
+        ],
+        "mean": 4.833333333333333
+      },
+      "overall_mean": 4.833333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_215": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          2.5,
+          6.0,
+          5.5
+        ],
+        "mean": 4.75
+      },
+      "overall_mean": 4.75
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_216": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          5.0
+        ],
+        "mean": 4.833333333333333
+      },
+      "overall_mean": 4.833333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          4.5,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_217": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.125
+      },
+      "overall_mean": 4.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_218": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_219": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_220": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          5.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_221": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.5,
+          2.0,
+          5.0,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_223": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.5,
+          5.5
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.7
+      },
+      "overall_mean": 5.7
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.25
+      },
+      "overall_mean": 5.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_225": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.5,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_226": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.666666666666667
+      },
+      "overall_mean": 4.666666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.5,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          2.5,
+          6.0,
+          4.0
+        ],
+        "mean": 4.375
+      },
+      "overall_mean": 4.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    }
+  },
+  "id_227": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    }
+  },
+  "id_228": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.5,
+          3.5,
+          6.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_229": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          4.5,
+          5.0,
+          6.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_230": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          2.0,
+          6.0,
+          4.0
+        ],
+        "mean": 4.25
+      },
+      "overall_mean": 4.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_231": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.166666666666667
+      },
+      "overall_mean": 5.166666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          1.5,
+          4.0,
+          4.0
+        ],
+        "mean": 3.625
+      },
+      "overall_mean": 3.625
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_233": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.0,
+          5.5
+        ],
+        "mean": 4.5
+      },
+      "overall_mean": 4.5
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.5,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.375
+      },
+      "overall_mean": 5.375
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_018": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          5.0,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_235": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_236": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          1.5,
+          6.0,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_237": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.625
+      },
+      "overall_mean": 5.625
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_238": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.25
+      },
+      "overall_mean": 5.25
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_239": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    }
+  },
+  "id_240": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.5,
+          5.5,
+          6.0,
+          4.5
+        ],
+        "mean": 5.125
+      },
+      "overall_mean": 5.125
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_241": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.5,
+          5.0,
+          4.0
+        ],
+        "mean": 3.875
+      },
+      "overall_mean": 3.875
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_242": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          5.5,
+          5.5,
+          6.0
+        ],
+        "mean": 5.7
+      },
+      "overall_mean": 5.7
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          1.5,
+          5.0,
+          4.0
+        ],
+        "mean": 3.625
+      },
+      "overall_mean": 3.625
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_243": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          4.5,
+          6.0
+        ],
+        "mean": 4.833333333333333
+      },
+      "overall_mean": 4.833333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.5,
+          6.0
+        ],
+        "mean": 5.8
+      },
+      "overall_mean": 5.8
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_244": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          5.0
+        ],
+        "mean": 4.666666666666667
+      },
+      "overall_mean": 4.666666666666667
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          4.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          5.0,
+          4.0
+        ],
+        "mean": 3.75
+      },
+      "overall_mean": 3.75
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_245": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.9
+      },
+      "overall_mean": 5.9
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          1.0,
+          5.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    }
+  },
+  "id_246": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.0
+      },
+      "overall_mean": 5.0
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5,
+          5.0,
+          6.0
+        ],
+        "mean": 5.7
+      },
+      "overall_mean": 5.7
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.875
+      },
+      "overall_mean": 5.875
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0,
+          4.5
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_247": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          5.5,
+          6.0,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          5.0,
+          6.0,
+          6.0,
+          5.0
+        ],
+        "mean": 5.5
+      },
+      "overall_mean": 5.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  },
+  "id_248": {
+    "Achievement": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Benevolence": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Conformity": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.0,
+          6.0
+        ],
+        "mean": 5.75
+      },
+      "overall_mean": 5.75
+    },
+    "Hedonism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          5.5
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Power": {
+      "sampling": {
+        "scores": [
+          4.0,
+          6.0,
+          6.0
+        ],
+        "mean": 5.333333333333333
+      },
+      "overall_mean": 5.333333333333333
+    },
+    "Security": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Self-Direction": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0
+        ],
+        "mean": 6.0
+      },
+      "overall_mean": 6.0
+    },
+    "Stimulation": {
+      "sampling": {
+        "scores": [
+          6.0,
+          5.5,
+          6.0
+        ],
+        "mean": 5.833333333333333
+      },
+      "overall_mean": 5.833333333333333
+    },
+    "Tradition": {
+      "sampling": {
+        "scores": [
+          4.0,
+          2.0,
+          4.0,
+          4.0
+        ],
+        "mean": 3.5
+      },
+      "overall_mean": 3.5
+    },
+    "Universalism": {
+      "sampling": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          6.0,
+          4.0
+        ],
+        "mean": 5.666666666666667
+      },
+      "overall_mean": 5.666666666666667
+    }
+  }
+}

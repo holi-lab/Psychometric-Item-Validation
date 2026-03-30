@@ -1,0 +1,162 @@
+{
+    "It's very important to them to show their abilities. They want people to admire what they do.": {
+        "trait": "Achievement",
+        "correlation": "pos"
+    },
+    "Being very successful is important to them. They like to impress other people.": {
+        "trait": "Achievement",
+        "correlation": "pos"
+    },
+    "They think it is important to be ambitious. They want to show how capable they are.": {
+        "trait": "Achievement",
+        "correlation": "pos"
+    },
+    "Getting ahead in life is important to them. They strive to do better than others.": {
+        "trait": "Achievement",
+        "correlation": "pos"
+    },
+    "It's very important to them to help the people around them. They want to care for their well-being.": {
+        "trait": "Benevolence",
+        "correlation": "pos"
+    },
+    "It is important to them to be loyal to their friends. They want to devote themselves to people close to them.": {
+        "trait": "Benevolence",
+        "correlation": "pos"
+    },
+    "It is important to them to respond to the needs of others. They try to support those they know.": {
+        "trait": "Benevolence",
+        "correlation": "pos"
+    },
+    "Forgiving people who have hurt them is important to them. They try to see what is good in them and not to hold a grudge.": {
+        "trait": "Benevolence",
+        "correlation": "pos"
+    },
+    "They believe that people should do what they're told. They think people should follow rules at all times, even when no one is watching.": {
+        "trait": "Conformity",
+        "correlation": "pos"
+    },
+    "It is important to them always to behave properly. They want to avoid doing anything people would say is wrong.": {
+        "trait": "Conformity",
+        "correlation": "pos"
+    },
+    "They believe they should always show respect to their parents and to older people. It is important to them to be obedient.": {
+        "trait": "Conformity",
+        "correlation": "pos"
+    },
+    "It is important to them to be polite to other people all the time. They try never to disturb or irritate others.": {
+        "trait": "Conformity",
+        "correlation": "pos"
+    },
+    "They seek every chance they can to have fun. It is important to them to do things that give them pleasure.": {
+        "trait": "Hedonism",
+        "correlation": "pos"
+    },
+    "Enjoying life\u2019s pleasures is important to them. They like to \u2018spoil\u2019 themselves.": {
+        "trait": "Hedonism",
+        "correlation": "pos"
+    },
+    "They really want to enjoy life. Having a good time is very important to them.": {
+        "trait": "Hedonism",
+        "correlation": "pos"
+    },
+    "It is important to them to be rich. They want to have a lot of money and expensive things.": {
+        "trait": "Power",
+        "correlation": "pos"
+    },
+    "It is important to them to be in charge and tell others what to do. They want people to do what they say.": {
+        "trait": "Power",
+        "correlation": "pos"
+    },
+    "They always want to be the ones who make the decisions. They like to be the leaders.": {
+        "trait": "Power",
+        "correlation": "pos"
+    },
+    "It is important to them to live in secure surroundings. They avoid anything that might endanger their safety.": {
+        "trait": "Security",
+        "correlation": "pos"
+    },
+    "It is very important to them that their country be safe. They think the state must be on watch against threats from within and without.": {
+        "trait": "Security",
+        "correlation": "pos"
+    },
+    "It is important to them that things be organized and clean. They really do not like things to be a mess.": {
+        "trait": "Security",
+        "correlation": "pos"
+    },
+    "They try hard to avoid getting sick. Staying healthy is very important to them.": {
+        "trait": "Security",
+        "correlation": "pos"
+    },
+    "Having a stable government is important to them. They are concerned that the social order be protected.": {
+        "trait": "Security",
+        "correlation": "pos"
+    },
+    "Thinking up new ideas and being creative is important to them. They like to do things in their own original way.": {
+        "trait": "Self-Direction",
+        "correlation": "pos"
+    },
+    "It is important to them to make their own decisions about what they do. They like to be free to plan and to choose their activities for themselves.": {
+        "trait": "Self-Direction",
+        "correlation": "pos"
+    },
+    "They think it's important to be interested in things. They like to be curious and to try to understand all sorts of things.": {
+        "trait": "Self-Direction",
+        "correlation": "pos"
+    },
+    "It is important to them to be independent. They like to rely on themselves.": {
+        "trait": "Self-Direction",
+        "correlation": "pos"
+    },
+    "They think it is important to do lots of different things in life. They always look for new things to try.": {
+        "trait": "Stimulation",
+        "correlation": "pos"
+    },
+    "They like to take risks. They are always looking for adventures.": {
+        "trait": "Stimulation",
+        "correlation": "pos"
+    },
+    "They like surprises. It is important to them to have an exciting life.": {
+        "trait": "Stimulation",
+        "correlation": "pos"
+    },
+    "They think it's important not to ask for more than what they have. They believe that people should be satisfied with what they have.": {
+        "trait": "Tradition",
+        "correlation": "pos"
+    },
+    "Religious belief is important to them. They try hard to do what their religion requires.": {
+        "trait": "Tradition",
+        "correlation": "pos"
+    },
+    "They think it is best to do things in traditional ways. It is important to them to keep up the customs they have learned.": {
+        "trait": "Tradition",
+        "correlation": "pos"
+    },
+    "It is important to them to be humble and modest. They try not to draw attention to themselves.": {
+        "trait": "Tradition",
+        "correlation": "pos"
+    },
+    "They think it is important that every person in the world be treated equally. They believe everyone should have equal opportunities in life.": {
+        "trait": "Universalism",
+        "correlation": "pos"
+    },
+    "It is important to them to listen to people who are different from them. Even when they disagree with them, they still want to understand them.": {
+        "trait": "Universalism",
+        "correlation": "pos"
+    },
+    "They strongly believe that people should care for nature. Looking after the environment is important to them.": {
+        "trait": "Universalism",
+        "correlation": "pos"
+    },
+    "They believe all the world's people should live in harmony. Promoting peace among all groups in the world is important to them.": {
+        "trait": "Universalism",
+        "correlation": "pos"
+    },
+    "They want everyone to be treated justly, even people they don\u2019t know. It is important to them to protect the weak in society.": {
+        "trait": "Universalism",
+        "correlation": "pos"
+    },
+    "It is important to them to adapt to nature and to fit into it. They believe that people should not change nature.": {
+        "trait": "Universalism",
+        "correlation": "pos"
+    }
+}
